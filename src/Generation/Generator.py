@@ -1,4 +1,3 @@
-from transformers import AutoTokenizer
 import ollama
 
 class Generator:
@@ -9,7 +8,7 @@ class Generator:
         messages = [
             {
                 "role": "system",
-                "content": """Du bist ein hilfreicher KI-Assistent, der auf die Beantwortung von Fragen basierend auf bereitgestelltem Kontext spezialisiert ist.
+                "content": """Du bist ein hilfreicher KI-Assistent, der auf die Beantwortung von Fragen von Studierenden aus den ersten Semestern basierend auf bereitgestellten Paragraphen aus der Studienordnung spezialisiert ist.
                 Befolge diese Regeln:
                 1. Verwende ausschließlich Informationen aus dem bereitgestellten Kontext
                 2. Wenn du die Antwort im Kontext nicht findest, sage es direkt
@@ -19,11 +18,11 @@ class Generator:
             },
             {
                 "role": "user",
-                "content": f"""Hier ist der Kontext für die Beantwortung:
+                "content": f"""Hier sind die Paragraphen für die Beantwortung:
 
                 {context_text}
 
-                Beantworte auf Grundlage des Kontexts folgende Frage: {query}"""
+                Beantworte auf Grundlage der Paragrapen (wenn möglich) folgende Frage: {query}"""
             }
         ]
 
