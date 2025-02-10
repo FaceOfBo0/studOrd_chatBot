@@ -4,8 +4,8 @@ from Retrieval.RetrieverHF import RetrieverHF
 
 app = Flask(__name__)
 
-# Initialize your RAG components once
 generator = Generator()
+retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
 
 @app.route('/', methods=['GET'])
 def home():
@@ -15,12 +15,8 @@ def home():
 def query():
     data = request.get_json(silent=True) or {}
     query = data.get('query', '')
-    # Get retrieval results
-    retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
-    generator = Generator()
+
     contexts = retriever.get_ctx_from_db(query, 2)
-    
-    # Generate response
     response = generator.gen_response_oll("llama3.2:3b", query, contexts)
     
     return jsonify({
