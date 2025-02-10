@@ -1,0 +1,118 @@
+Abschnitt II: Ziele des Studiengangs; Studienbeginn und Zugangsvoraussetzungen
+zum Studium
+
+§ 6 Ziele des Studiengangs (RO: § 6)
+
+Der Bachelorstudiengang ist ein selbstständiger Studiengang, der zugleich der erste Abschnitt eines konsekutiven
+Studiums der Informatik mit nachfolgendem Masterstudiengang ist. Der Bachelorstudiengang ist grundlagen- und methode-
+norientiert und legt somit die Grundlagen des Faches Informatik in der Breite. Er stellt sicher, dass die Voraussetzungen für
+spätere Verbreiterungen, Vertiefungen und Spezialisierungen im Fach Informatik gegeben sind. Er bereitet insbesondere
+auf das Masterstudium vor. Der Bachelorstudiengang soll dazu befähigen, die vermittelten Fähigkeiten und Kenntnisse
+anzuwenden und sich im Zuge eines lebenslangen Lernens schnell neue, vertiefende Kenntnisse anzueignen. Er ermöglicht
+einen Einstieg in den Arbeitsmarkt für entsprechende Aufgaben oder den Wechsel des Studienorts.
+
+(1) Der erfolgreiche Abschluss des Studiums qualifiziert die Absolventinnen und Absolventen durch seine Grundlagenori-
+entierung zu erfolgreicher Tätigkeit über das gesamte Berufsleben hinweg, da er sich nicht auf die Vermittlung aktueller
+Inhalte beschränkt, sondern theoretisch untermauerte grundlegende Konzepte und Methoden vermittelt, die über aktuelle
+Trends hinweg Bestand haben.
+
+(2) Der Bachelorstudiengang vermittelt den Studierenden die grundlegenden Prinzipien, Konzepte und Methoden der
+Informatik. Die Absolventinnen und Absolventen sollen nach Abschluss ihrer Ausbildung insbesondere in der Lage sein,
+Aufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen und sozialen Randbedingungen
+mit den Mitteln der Informatik zu bearbeiten, entsprechende Systeme zu entwickeln und Projekte zu leiten. Sie sollen die
+erlernten Konzepte und Methoden auf zukünftige Entwicklungen übertragen können. Exemplarisch sollte Einblick in ein
+Anwendungsfach genommen werden.
+
+(3) Problemlösungskompetenz: Die Absolventinnen und Absolventen sollen im Stande sein, komplexe Aufgaben systema-
+tisch und mit Informatikmethoden zu spezifizieren, brauchbare und zuverlässige Lösungen zu konstruieren und diese zu
+validieren. Sie sollen bei auftretenden Problemen Maßnahmen ergreifen können, die zu deren Lösung notwendig sind. Die
+Absolventinnen und Absolventen sollen darin geübt worden sein, unüberschaubar scheinende Fragestellungen konstruktiv
+in Angriff zu nehmen. Sie sollen gelernt haben, hierfür Systeme und Techniken der Informatik zielorientiert einzusetzen.
+
+(4) Schlüsselqualifikationen und Interdisziplinarität: Neben der technischen Kompetenz sollen die Absolventinnen und
+Absolventen Konzepte, Vorgehensweisen und Ergebnisse kommunizieren und im Team arbeiten können. Sie sollen im Stande
+sein, sich in die Sprache und Begriffswelt der Anwenderinnen und Anwender einzuarbeiten, um über Fachgebietsgrenzen
+hinweg zusammenzuarbeiten. Sie sollen grundlegende Erfahrung im Projektmanagement und Führungsqualifikation und
+Managementkompetenz erworben haben. Diese Qualifikationen können unter anderem im Ergänzungsmodul erworben
+werden.
+
+(5) Auswirkungen der Informatik: Die Absolventinnen und Absolventen sollen die Auswirkungen der Informatik auf
+die Gesellschaft in ihren sozialen, wirtschaftlichen, arbeitsorganisatorischen, psychologischen und rechtlichen Aspekten
+einschätzen können. Ihnen sollen ethische Leitlinien für die Berufsausübung bewusst sein.
+
+(6) Die Fähigkeiten von Absolventinnen und Absolventen dieses Studiengangs lassen sich durch die folgenden Prädikate
+charakterisieren:
+
+1. Die Absolventinnen und Absolventen beherrschen die mathematischen und informatischen Methoden, Probleme in
+ihrer Grundstruktur zu analysieren.
+2. Die Absolventinnen und Absolventen beherrschen die informatischen Methoden, abstrakte Modelle aufzustellen.
+3. Die Absolventinnen und Absolventen haben gelernt, Probleme zu formulieren und die sich ergebenden Aufgaben in
+arbeitsteilig organisierten Teams zu übernehmen, selbstständig zu bearbeiten, die Ergebnisse anderer aufzunehmen
+und die eigenen Ergebnisse zu kommunizieren.
+4. Die Absolventinnen und Absolventen haben die methodische Kompetenz erworben, um programmiertechnische
+Probleme insbesondere auch im Kontext komplexer Systeme unter ausgewogener Berücksichtigung technischer,
+ökonomischer und gesellschaftlicher Randbedingungen erfolgreich bearbeiten zu können.
+8
+
+5. Die Absolventinnen und Absolventen sind sich der vielfältigen Sicherheitsprobleme bewusst, die mit dem Einsatz
+von Informatiksystemen, insbesondere in Rechner-Netzwerken, verbunden sind; sie wissen, welche Techniken und
+Verfahren für die Sicherung von Systemen zum Einsatz kommen.
+6. Die Absolventinnen und Absolventen haben exemplarisch ausgewählte Anwendungsfelder kennengelernt und sind in
+der Lage, bei der Umsetzung informatischer Grundlagen auf Anwendungsprobleme qualifiziert mitzuarbeiten.
+7. Die Absolventinnen und Absolventen haben exemplarisch außerfachliche Qualifikationen erworben und sind damit für
+die nichttechnischen Anforderungen und erforderlichen Sozialisierungsfähigkeit im betrieblichen Umfeld sensibilisiert.
+8. Die Absolventinnen und Absolventen sind durch die Grundlagenorientierung der Ausbildung gut auf lebenslanges
+Lernen und auf einen Einsatz in unterschiedlichen Berufsfeldern vorbereitet.
+
+(7) Der Bachelorstudiengang Informatik an der Goethe-Universität bietet Veranstaltungen zu grundlegendem Wissen und
+Fertigkeiten in der Informatik an. Die Veranstaltungen im Basisbereich umfassen die Grundlagen zu Programmierung,
+Software-Engineering, Kompilerbau, Datenbanken, Rechnertechnologie und -architektur; Modellierung, Algorithmen,
+Datenstrukturen und Komplexität.
+(8) Zum Bachelorstudiengang Informatik an der Goethe-Universität gehören weiterhin mathematische Veranstaltungen, in
+denen die wichtigsten Grundkenntnisse, Beweisverfahren und Arbeitstechniken der Mathematik vermittelt werden, soweit
+sie für die Informatik von Belang sind. Das Studium umfasst auch Veranstaltungen zur Reflexion über gesellschaftliche
+Auswirkungen der Informatik. Darüber hinaus muss ein Anwendungsfach gewählt werden, das eine Anwendung von
+Informatik-Methoden und -Techniken ermöglicht und benötigt. Im Vertiefungsbereich werden Veranstaltungen angeboten,
+die das Basiswissen vertiefen, und auf die Bachelorarbeit vorbereiten.
+(9) Der Internationalität der Informatik entsprechend werden Wahlpflichtveranstaltungen auch auf Englisch angeboten.
+
+§ 7 Studienbeginn (RO: § 7)
+
+(1) Das Studium kann sowohl zum Winter- als auch zum Sommersemester aufgenommen werden. Bei einem Studienbeginn
+zum Sommersemester kann das Angebot an Modulen eingeschränkt sein.
+(2) Es wird empfohlen vor Studienbeginn an einem vom Institut für Informatik angebotenen Vorkurs teilzunehmen.
+
+§ 8 Voraussetzungen für die Zulassung zum Bachelorstudiengang (RO: § 8)
+
+(1) In den Bachelorstudiengang Informatik kann nur eingeschrieben werden, wer die gesetzlich geregelte Hochschul-
+zugangsberechtigung besitzt und nicht nach § 57 HHG an der Immatrikulation gehindert ist. Insbesondere muss der
+Prüfungsanspruch für den Bachelorstudiengang Informatik noch bestehen, zum Beispiel darf die Bachelorprüfung in diesem
+Studiengang oder die Abschlussprüfung in einem eng verwandten Studiengang noch nicht endgültig nicht bestanden sein.
+Zur diesbezüglichen Überprüfung sind Erklärungen gemäß § 22 Abs. 1 vorzulegen. § 22 Abs. 3 gilt entsprechend.
+(2) Ausländische Studienbewerberinnen und Studienbewerber für einen Bachelorstudiengang müssen entsprechend der
+„Ordnung der Goethe-Universität Frankfurt am Main über die Deutsche Sprachprüfung für den Hochschulzugang (DSH) für
+Studienbewerberinnen und Studienbewerber mit ausländischer Hochschulzugangsberechtigung“ in der jeweils gültigen
+Fassung einen Sprachnachweis auf dem Niveau DSH-2 vorlegen, soweit sie nach der DSH-Ordnung nicht von der Deutschen
+Sprachprüfung freigestellt sind.
+(3) Für eine Einschreibung in ein höheres Fachsemester aufgrund von anrechenbaren Leistungen ist für die Immatrikulation
+in den Bachelorstudiengang eine Anrechnungsbescheinigung gemäß §§ § 29, § 30 vorzulegen.
+(4) Die Voraussetzungen für die Zulassung zur Bachelorprüfung sind in § 22 geregelt.
+(5) Sofern für den Bachelorstudiengang Informatik aus Kapazitätsgründen eine Zulassungsbeschränkung besteht, wird ein
+Auswahlverfahren nach Landesrecht durchgeführt.
+(6) Weitere Zugangsvoraussetzung ist der Nachweis von Englischkenntnissen auf dem Sprachniveau B1 des „Gemein-
+samen europäischen Referenzrahmens für Sprachen des Europarates“ vom September 2000. Die Sprachkenntnisse sind
+nachzuweisen durch eines der nachfolgend aufgeführten Dokumente:
+
+a) Abiturzeugnis, Oberstufenzeugnisse oder anderen Nachweis über in der Regel mindestens vierjährigen Schulunterricht
+9
+
+(ab Sekundarstufe 1) in Englisch. Der Nachweis von drei Jahren Schulunterricht reicht aus, sofern die Sprache bis
+zum Abschluss, der zum Hochschulzugang berechtigt, geführt wurde.
+b) Nachweis über einen UNIcert-Abschluss der Stufe I,
+c) Nachweis über einen internet-basierten TOEFL-Test iBT, Score von mindestens 43,
+d) Nachweis über einen IELTS-Test, Score von mindestens 4.0 oder
+e) einen anderen vom Prüfungsausschuss als gleichwertig anerkannten Nachweis.
+
+Für die Module des Wahlpflichtbereichs, die in englischer Sprache angeboten werden, werden Englischkenntnisse auf dem
+Sprachniveau B2 dringend empfohlen.
+

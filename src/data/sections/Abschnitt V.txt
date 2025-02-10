@@ -1,0 +1,315 @@
+Abschnitt V: Prüfungsvoraussetzungen und -verfahren
+
+§ 22 Erstmeldung und Zulassung zu den Bachelorprüfungen (RO: § 24)
+
+(1) Spätestens mit der Meldung zur ersten Modulprüfung im Bachelorstudiengang Informatik hat die oder der Studierende
+ein vollständig ausgefülltes Anmeldeformular für die Zulassung zur Bachelorprüfung beim Prüfungsamt für den Bache-
+lorstudiengang Informatik einzureichen. Sofern nicht bereits mit dem Zulassungsantrag zum Studium erfolgt, sind der
+Meldung zur Prüfung insbesondere beizufügen:
+
+• eine Erklärung darüber, ob die Studierende oder der Studierende bereits eine Zwischenprüfung, eine Diplom-
+Vorprüfung, eine Bachelorprüfung, eine Masterprüfung, eine Magisterprüfung, eine Diplomprüfung oder eine staatliche
+Abschlussprüfung im Fach Informatik oder in einem vergleichbaren Studiengang (Studiengang mit einer überwiegend
+gleichen fachlichen Ausrichtung) an einer Hochschule endgültig nicht bestanden hat oder ob sie oder er sich gegenwär-
+tig in dem Fach Informatik oder einem vergleichbaren Studiengang in einem nicht abgeschlossenen Prüfungsverfahren
+an einer Hochschule in Deutschland oder im Ausland befindet;
+• eine Erklärung darüber, ob und gegebenenfalls wie oft die oder der Studierende bereits Modulprüfungen im Bachelor-
+studiengang Informatik oder in denselben Modulen eines anderen Studiengangs an einer Hochschule in Deutschland
+oder im Ausland nicht bestanden hat;
+• gegebenenfalls Nachweise über bereits erbrachte Studien- oder Prüfungsleistungen, die in den Studiengang eingebracht
+werden sollen;
+
+(2) Der Prüfungsausschuss kann in Ausnahmefällen, insbesondere in Fällen des Studienortwechsels, des Fachrichtungs-
+wechsels oder der Wiederaufnahme des Studiums auf Antrag von der Immatrikulationspflicht zu einzelnen Modulprüfungen
+befreien.
+
+(3) Über die Zulassung entscheidet die oder der Vorsitzende des Prüfungsausschusses, in Zweifelsfällen der Prüfungsaus-
+schuss, gegebenenfalls nach Anhörung einer Fachvertreterin oder eines Fachvertreters. Die Zulassung wird abgelehnt, wenn
+die Unterlagen unvollständig sind oder die in Abs. 1 genannten Zulassungsvoraussetzungen nicht erfüllt sind oder die oder
+der Studierende den Prüfungsanspruch für ein Modul nach Abs. 1 oder für den jeweiligen Studiengang endgültig verloren
+hat oder eine der in Abs. 1 genannten Prüfungen endgültig nicht bestanden hat.
+
+(4) Über Ausnahmen von Abs. 1 und 3 in besonderen Fällen entscheidet auf Antrag der oder des Studierenden der
+Prüfungsausschuss.
+
+(5) Eine Ablehnung der Zulassung wird der oder dem Studierenden von der oder dem Vorsitzenden des Prüfungsausschusses
+schriftlich mitgeteilt. Sie ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen.
+
+§ 23 Prüfungszeitpunkt und Meldeverfahren (RO: § 25)
+
+(1) Modulprüfungen werden im zeitlichen und sachlichen Zusammenhang mit den entsprechenden Modulen abgelegt.
+Modulprüfungen für Pflichtmodule und jährlich angesetzte Wahlpflichtmodule sind in der Regel mindestens zweimal pro
+Jahr anzubieten.
+
+(2) Die modulabschließenden mündlichen Prüfungen und Klausurarbeiten sollen innerhalb von durch den Prüfungsaus-
+schuss festzulegenden Prüfungszeiträumen durchgeführt werden. Die Prüfungszeiträume sind in der Regel die ersten beiden
+und die letzten beiden Wochen der vorlesungsfreien Zeit. Der Prüfungsausschuss bestimmt die genauen Termine für die
+Wiederholungen von Klausuren und gibt diese rechtzeitig bekannt. Die erste Wiederholungsprüfung soll am Ende des
+entsprechenden Semesters, spätestens jedoch zu Beginn des folgenden Semesters durchgeführt werden.
+19
+
+(3) Die exakten Prüfungstermine für die Modulprüfungen werden durch den Prüfungsausschuss im Einvernehmen mit
+den Prüfenden festgelegt. Das Prüfungsamt gibt den Studierenden in einem Prüfungsplan möglichst frühzeitig, spätestens
+aber vier Wochen vor den Prüfungsterminen, Zeit und Ort der Prüfungen sowie die Namen der beteiligten Prüferinnen
+und Prüfer durch Aushang oder andere geeignete Maßnahmen bekannt. Muss aus zwingenden Gründen von diesem
+Prüfungsplan abgewichen werden, so ist die Neufestsetzung des Termins nur mit Genehmigung der oder des Vorsitzenden
+des Prüfungsausschusses möglich.
+(4) Der Prüfungsausschuss setzt für die Modulprüfungen Meldefristen fest, die spätestens vier Wochen vor dem Beginn der
+Meldefristen durch Aushang oder andere geeignete Maßnahmen bekannt gegeben werden müssen. Der Prüfungsausschuss
+kann weitere Melde- und Rücktrittsfristen setzen, insbesondere zu Praktika und Seminaren.
+(5) Zu jeder Modulprüfung hat sich die oder der Studierende innerhalb der Meldefrist schriftlich beim Prüfungsamt
+oder, nach Festlegung durch den Prüfungsausschuss, elektronisch anzumelden. Die Anmeldung zu einer Klausur oder
+mündlichen Prüfung hat spätestens zwei Wochen vor dem festgelegten Prüfungstermin zu erfolgen. Ein Rücktritt ist bis
+zu 7 Tage vor dem Termin ohne Angabe von Gründen möglich. Werden in der vorlesungsfreien Zeit zwei Klausuren
+als Modulabschlussprüfungen zu einem Modul angeboten, ist eine Anmeldung bis zu sieben Tage vor dem Termin der
+zweiten Klausur möglich. In diesem Fall ist ein Rücktritt bis zu drei Tage vor dem Termin der zweiten Klausur ohne
+Angabe von Gründen möglich. Über eine Nachfrist für die Meldung zu einer Modulprüfung in begründeten Ausnahmefällen
+entscheidet die oder der Vorsitzende des Prüfungsausschusses auf Antrag der oder des Studierenden. § 24 Abs. 2 Satz 3 gilt
+entsprechend.
+(6) Die Anmeldung zu einer Prüfungsleistung bei einem Seminar oder zu einer Studienleistung bei einem Praktikum
+erfolgt spätestens bis zum Ende der zweiten Woche nach Vorlesungsbeginn beim Veranstalter oder nach Festlegung durch
+den Prüfungsausschuss in elektronischer Form. Diese Anmeldung zu einer Prüfungsleistung oder Studienleistung gilt
+gleichzeitig als Anmeldung zur Teilnahme an der Lehrveranstaltung. Ein Rücktritt von der Prüfungsleistung bei einem
+Seminar ist möglich bis zum Beginn der ersten Veranstaltung des Seminars. Ein Rücktritt von der Studienleistung bei
+einem Praktikum ist möglich bis zu 2 Wochen nach Beginn der ersten Veranstaltung. Über Ausnahmen in triftigen Fällen
+entscheidet die oder der Vorsitzende des Prüfungsausschusses. Die Anmeldung zu einem Forschungsprojekt ist zeitlich
+nicht eingeschränkt. Ein Rücktritt von einem Forschungsprojekt ist jederzeit durch schriftliche Erklärung beim Prüfungsamt
+möglich.
+(7) Die oder der Studierende kann sich zu einer Modulprüfung nur anmelden beziehungsweise die Modulprüfung nur
+ablegen, sofern sie oder er an der Goethe-Universität immatrikuliert ist. § 22 Abs. 2 bleibt unberührt. Für die Anmeldung
+der betreffenden Modulprüfung muss die oder der Studierende zur Bachelorprüfung zugelassen sein und sie oder er
+darf die entsprechende Modulprüfung noch nicht endgültig nicht bestanden haben. Weiterhin muss sie oder er die nach
+Maßgabe der Modulbeschreibung für das Modul erforderlichen Leistungsnachweise erbracht haben. Das Modul ist erst dann
+bestanden, wenn sämtliche Studienleistungen sowie die Modulprüfungen bestanden sind. Über Ausnahmen entscheidet der
+Prüfungsausschuss. Beurlaubte Studierende können keine Prüfungen ablegen oder Leistungsnachweise erwerben. Zulässig
+ist aber die Wiederholung nicht bestandener Prüfungen während der Beurlaubung. Studierende sind auch berechtigt, Studien-
+und Prüfungsleistungen während einer Beurlaubung zu erbringen, wenn die Beurlaubung wegen Mutterschutz oder wegen
+der Inanspruchnahme von Elternzeit oder wegen der Pflege von nach ärztlichem Zeugnis pflegebedürftigen Angehörigen
+oder wegen der Erfüllung einer Dienstpflicht nach Art. 12 a des Grundgesetzes oder wegen der Mitwirkung als ernannte
+oder gewählte Vertreterin oder ernannter oder gewählter Vertreter in der akademischen Selbstverwaltung erfolgt ist.
+(8) Die oder der Studierende kann innerhalb der festgelegten Fristen die Prüfungsanmeldung ohne Angabe von Gründen
+zurückziehen. Bei einem späteren Rücktritt gilt § 24 Abs. 1. Ein Rücktritt von einer pflichtangemeldeten Klausur ist nicht
+möglich.
+(9) Die Anmeldung zum Anwendungsfach entsprechend Anlage 6 hat beim Prüfungsamt des Instituts für Informatik zu
+erfolgen. Prüfungsleistungen zu Anwendungsfächern sind nur im gewählten Anwendungsfach möglich. Ein Anwendungfach
+kann nicht gewählt werden, wenn der Bachelorstudiengang in diesem Anwendungsfach endgültig nicht bestanden wurde
+oder wenn der Prüfungsanspruch endgültig verloren ist.
+
+§ 24 Versäumnis und Rücktritt von Modulprüfungen (RO: § 26)
+
+(1) Eine Modulprüfungsleistung gilt als „nicht ausreichend“ (5,0) gemäß § 36 Abs. 3, wenn die oder der Studierende
+einen für sie oder ihn verbindlichen Prüfungstermin ohne wichtigen Grund versäumt oder vor Beendigung der Prüfung die
+20
+
+Teilnahme abgebrochen hat. Dasselbe gilt, wenn sie oder er eine schriftliche Modulprüfungsleistung nicht innerhalb der
+vorgegebenen Bearbeitungszeit erbracht oder als Modulprüfungsleistung in einer schriftlichen Aufsichtsarbeit ein leeres
+Blatt abgegeben oder in einer mündlichen Prüfung geschwiegen hat.
+
+(2) Der für das Versäumnis oder den Abbruch der Prüfung geltend gemachte Grund muss der Vorsitzenden oder dem
+Vorsitzenden des Prüfungsausschusses unverzüglich nach Bekanntwerden des Grundes schriftlich angezeigt und glaubhaft
+gemacht werden. Eine während der Erbringung einer Prüfungsleistung eintretende Prüfungsunfähigkeit muss unverzüglich
+bei der Prüferin oder dem Prüfer oder der Prüfungsaufsicht geltend gemacht werden. Die Verpflichtung zur unverzüglichen
+Anzeige und Glaubhaftmachung der Gründe gegenüber dem Prüfungsausschuss bleibt hiervon unberührt. Im Krankheitsfall
+ist unverzüglich, jedenfalls innerhalb von drei Werktagen, ein ärztliches Attest und eine Bescheinigung über die Prüfungs-
+unfähigkeit durch den Haus-/Facharzt vorzulegen, aus der hervorgeht, für welche Art von Prüfung (schriftliche Prüfung,
+mündliche Prüfung, länger andauernde Prüfungen, andere Prüfungsformen) aus medizinischer Sicht die Prüfungsunfähig-
+keit für den betreffenden Prüfungstermin besteht. Der oder die Vorsitzende des Prüfungsausschusses entscheidet auf der
+Grundlage des in Anlage 11 der Rahmenordnung beigefügten Formulars über die Prüfungsunfähigkeit. Bei begründeten
+Zweifeln ist zusätzlich ein amtsärztliches Attest vorzulegen.
+
+(3) Die Krankheit eines, von der oder dem Studierenden zu versorgenden Kindes, das das 14. Lebensjahr noch nicht
+vollendet hat, oder eines pflegebedürftigen nahen Angehörigen (Kinder, Eltern, Großeltern, Ehe- oder Lebenspartner) steht
+eigener Krankheit gleich. Als wichtiger Grund gilt auch die Inanspruchnahme von Mutterschutz.
+
+(4) Über die Anerkennung des Säumnis- oder Rücktrittsgrundes entscheidet die oder der Vorsitzende des Prüfungsaus-
+schusses. Der Prüfungsausschuss regelt die Frist in der bei Anerkennung des Grundes die nächste Prüfung angesetzt
+wird.
+
+(5) Bei anerkanntem Rücktritt oder Versäumnis bleiben die Prüfungsergebnisse in bereits abgelegten Teilen des Moduls
+bestehen.
+
+§ 25 Studien- und Prüfungsleistungen bei Krankheit und Behinderung; besondere Lebenslagen (RO:
+§ 27)
+
+(1) In Veranstaltungen und Prüfungen ist Rücksicht zu nehmen auf Art und Schwere einer Behinderung oder einer
+chronischen Erkrankung der oder des Studierenden oder auf Belastungen durch Schwangerschaft oder die Erziehung von
+Kindern oder die Betreuung von pflegebedürftigen nahen Angehörigen.
+
+(2) Die Art und Schwere der Belastung ist durch die oder den Studierenden rechtzeitig gegenüber der oder dem Vorsitzenden
+des Prüfungsausschusses durch Vorlage geeigneter Unterlagen, bei Krankheit durch Vorlage eines ärztlichen Attestes,
+nachzuweisen. In Zweifelsfällen kann auch ein amtsärztliches Attest verlangt werden.
+
+(3) Macht die oder der Studierende glaubhaft, dass sie oder er wegen einer Behinderung, einer chronischen Erkrankung,
+der Betreuung einer oder eines pflegebedürftigen nahen Angehörigen, einer Schwangerschaft oder der Erziehung eines
+Kindes, welches das 14. Lebensjahr noch nicht vollendet hat, nicht in der Lage ist, die Prüfungs- oder Studienleistung
+ganz oder teilweise in der vorgesehenen Form abzulegen, so ist dieser Nachteil durch entsprechende Maßnahmen, wie zum
+Beispiel eine Verlängerung der Bearbeitungszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen. Die
+Inanspruchnahme der gesetzlichen Mutterschutzfristen und der Fristen der Elternzeit ist bei entsprechendem Nachweis zu
+ermöglichen.
+
+(4) Entscheidungen über den Nachteilsausgleich bei der Erbringung von Prüfungsleistungen trifft die oder der Vorsitzende
+des Prüfungsausschusses, bei Studienleistungen die oder der Vorsitzende des Prüfungsausschusses im Einvernehmen mit
+der oder dem Veranstaltungsverantwortlichen.
+
+§ 26 Verpflichtende Studienfachberatung; zeitliche Vorgaben für das Ablegen der Prüfungen (RO: § 28)
+
+(1) Studierende, welche nach Abschluss des ersten Semesters kein Basismodul bestanden haben, werden durch das
+Prüfungsamt aufgefordert, die Studienfachberatung aufzusuchen. Nach diesem Gespräch können Fristen gesetzt oder
+21
+
+Auflagen erteilt werden. Studierende, die das Beratungsgespräch ohne Angabe von Gründen nicht wahrnehmen und sich
+nicht zur Bachelorprüfung angemeldet haben, verlieren den Prüfungsanspruch im Bachelorstudiengang Informatik an der
+Goethe-Universität Frankfurt am Main. Bis zum Beginn des dritten Fachsemesters müssen zwei Basismodule bestanden sein.
+Bei Studierenden im Teilzeitstudium verlängert sich die Frist entsprechend, wobei Semester im Teilzeitstudium als halbe
+Fachsemester gezählt werden. Wird die geforderte Anzahl von bestandenen Basismodulen nicht innerhalb der Abschlussfrist
+nach Satz 4 erreicht und liegen die Voraussetzungen für eine Fristverlängerung gemäß Abs. 2 nicht vor, führt dies zum
+Verlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main.
+(2) Die für die Erreichung der geforderten Anzahl an bestandenen Basismodulen nach Abs. 1 gesetzte Frist ist auf Antrag
+der oder des Studierenden zu verlängern, wenn die Verzögerung von der Goethe-Universität zu vertreten ist oder die oder
+der Studierende infolge schwerwiegender Umstände nicht in der Lage war, die Frist einzuhalten. Bei der Einhaltung von
+Fristen werden Verlängerungen und Unterbrechungen von Studienzeiten nicht berücksichtigt, soweit sie durch genehmigte
+Urlaubssemester; durch Mitwirkung als ernannte oder gewählte Vertreterin oder ernannter oder gewählter Vertreter in der
+akademischen oder studentischen Selbstverwaltung; durch Krankheit, eine Behinderung oder chronische Erkrankung oder
+aus einem anderen von der oder dem Studierenden nicht zu vertretenden Grund; durch Mutterschutz oder Elternzeit; durch die
+notwendige Betreuung eines Kindes bis zum vollendeten 14. Lebensjahr oder der Pflege einer oder eines nahen Angehörigen
+(Eltern, Großeltern, Ehe- und Lebenspartner) mit Zuordnung zu einer Pflegestufe nach § 15 Abs. 1 des Elften Buches
+Sozialgesetzbuch; durch Angehörigkeit zu einem A-, B-, C- oder D/C-Kader der Spitzensportverbände bedingt waren. Es sind
+mindestens die Inanspruchnahme der Fristen entsprechend § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes (MuSchG)
+und die Regelungen zur Elternzeit in §§ § 15 und § 16 des Bundeselterngeld- und Elternzeitgesetzes (BEEG) entsprechend
+zu berücksichtigen. Ferner bleibt ein ordnungsgemäßes Auslandsstudium von bis zu zwei Semestern unberücksichtigt.
+Der Antrag soll zu dem Zeitpunkt gestellt werden, an dem die oder der Studierende erkennt, dass eine Fristverlängerung
+erforderlich wird. Der Antrag ist grundsätzlich vor Ablauf der Frist zu stellen. Die Pflicht zur Erbringung der Nachweise
+obliegt der oder dem Studierenden; sie sind zusammen mit dem Antrag einzureichen. Bei Krankheit ist ein ärztliches Attest
+vorzulegen. § 24 Abs. 2 gilt entsprechend. In Zweifelsfällen kann ein amtsärztliches Attest verlangt werden. Über den
+Antrag auf Verlängerung der Frist entscheidet der Prüfungsausschuss.
+
+§ 27 Täuschung und Ordnungsverstoß (RO: § 29)
+
+(1) Versucht die oder der Studierende das Ergebnis ihrer oder seiner Prüfungs- oder Studienleistung durch Täuschung
+oder durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die Prüfungs- oder Studienleistung mit „nicht
+ausreichend“ (5,0) gewertet. Der Versuch einer Täuschung liegt insbesondere auch dann vor, wenn die oder der Studierende
+nicht zugelassene Hilfsmittel in den Prüfungsraum mitführt oder eine falsche Erklärung nach §§ § 15 Abs. 7, § 31 Abs. 7,
+§ 34 Abs. 5, § 35 Abs. 16 abgegeben hat oder wenn sie oder er ein und dieselbe Arbeit (oder Teile davon) mehr als einmal
+als Prüfungs- oder Studienleistung eingereicht hat.
+(2) Eine Studierende oder ein Studierender, die oder der aktiv an einem Täuschungsversuch mitwirkt, kann von der
+jeweiligen Prüferin oder dem jeweiligen Prüfer beziehungsweise von der Aufsichtsführenden oder dem Aufsichtsführenden
+von der Fortsetzung der jeweiligen Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungs- oder
+Studienleistung als mit „nicht ausreichend“ (5,0) gewertet.
+(3) Beim Vorliegen einer besonders schweren Täuschung, insbesondere bei wiederholter Täuschung oder einer Täuschung
+unter Beifügung einer schriftlichen Erklärung der oder des Studierenden über die selbstständige Anfertigung der Arbeit ohne
+unerlaubte Hilfsmittel, kann der Prüfungsausschuss den Ausschluss von der Wiederholung der Prüfung und der Erbringung
+weiterer Studienleistungen beschließen, so dass der Prüfungsanspruch im Bachelorstudiengang Informatik erlischt. Die
+Schwere der Täuschung ist anhand der von der Studierenden oder dem Studierenden aufgewandten Täuschungsenergie, wie
+organisiertes Zusammenwirken oder Verwendung technischer Hilfsmittel, wie Funkgeräte und Mobiltelefone und der durch
+die Täuschung verursachten Beeinträchtigung der Chancengleichheit zu werten.
+(4) Eine Studierende oder ein Studierender, die oder der den ordnungsgemäßen Ablauf der Prüfung stört, kann von der
+jeweiligen Prüferin oder dem jeweiligen Prüfer oder von der oder dem Aufsichtsführenden in der Regel nach einer Abmah-
+nung von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung
+als mit „nicht ausreichend“ (5,0) gewertet. Abs. 3 Satz 1 findet entsprechende Anwendung.
+(5) Hat eine Studierende oder ein Studierender durch schuldhaftes Verhalten die Teilnahme an einer Prüfung zu Unrecht
+herbeigeführt, kann der Prüfungsausschuss entscheiden, dass die betreffende Prüfungsleistung als nicht bestanden („nicht
+ausreichend“ (5,0)) gilt.
+(6) Die oder der Studierende kann innerhalb einer Frist von vier Wochen schriftlich verlangen, dass Entscheidungen nach
+Absätzen 1 bis 5 vom Prüfungsausschuss überprüft werden.
+22
+
+(7) Belastende Entscheidungen des Prüfungsausschusses sind der oder dem Studierenden unverzüglich schriftlich mitzutei-
+len, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.
+
+(8) Für Hausarbeiten, schriftliche Referate und die Bachelorarbeit gelten die fachspezifisch festgelegten Zitierregeln für das
+Anfertigen wissenschaftlicher Arbeiten. Bei Nichtbeachtung ist ein Täuschungsversuch zu prüfen.
+
+(9) Um einen Verdacht wissenschaftlichen Fehlverhaltens überprüfen zu können, kann der Prüfungsausschuss beschließen,
+dass nicht unter Aufsicht zu erbringende schriftliche Prüfungs- und/oder Studienleistungen auch in elektronischer Form
+eingereicht werden müssen.
+
+§ 28 Mängel im Prüfungsverfahren (RO: § 30)
+
+(1) Erweist sich, dass das Verfahren einer mündlichen oder einer schriftlichen Prüfungsleistung mit Mängeln behaftet
+war, die das Prüfungsergebnis beeinflusst haben, wird auf Antrag einer oder eines Studierenden oder von Amts wegen
+durch den Prüfungsausschuss angeordnet, dass von einer oder einem bestimmten Studierenden die Prüfungsleistung
+wiederholt wird. Die Mängel müssen bei einer schriftlichen Prüfungsleistung noch während der Prüfungssituation gegenüber
+der Aufsicht und bei mündlichen Prüfungen unverzüglich nach der Prüfung bei der beziehungsweise dem Vorsitzenden
+des Prüfungsausschusses beziehungsweise bei der Prüferin beziehungsweise dem Prüfer gerügt werden. Hält die oder
+der Studierende bei einer schriftlichen Prüfungsleistung die von der Aufsicht getroffenen Abhilfemaßnahmen nicht für
+ausreichend, muss sie oder er die Rüge unverzüglich nach der Prüfung bei der beziehungsweise dem Vorsitzenden des
+Prüfungsausschusses geltend machen.
+
+(2) Sechs Monate nach Abschluss der Prüfungsleistung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr
+getroffen werden.
+
+§ 29 Anerkennung und Anrechnung von Leistungen (RO: § 31)
+
+(1) Studienzeiten, Studienleistungen und Prüfungsleistungen werden ohne Gleichwertigkeitsprüfung angerechnet, wenn
+sie an einer Hochschule in Deutschland in dem gleichen Studiengang erbracht wurden, der Studiengang akkreditiert ist
+und bei den Modulen hinsichtlich der erreichten Qualifikationsziele keine wesentlichen Unterschiede bestehen. Kann
+der Prüfungsausschuss einen wesentlichen Unterschied nicht nachweisen, sind die Studienzeiten, Studienleistungen und
+Prüfungsleistungen anzurechnen.
+
+(2) Studienzeiten, Studienleistungen und Prüfungsleistungen aus anderen Studiengängen werden angerechnet, sofern
+keine wesentlichen Unterschiede hinsichtlich der erworbenen Kompetenzen bestehen. Bei dieser Anrechnung ist kein
+schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung von Inhalt, Umfang und Anforderungen
+der Studien- und Prüfungsleistungen unter besonderer Berücksichtigung der erreichten Qualifikationsziele vorzunehmen.
+Die Beweislast für die fehlende Gleichwertigkeit trägt der Prüfungsausschuss. Abs. 1 Satz 2 gilt entsprechend.
+
+(3) Abs. 2 findet entsprechende Anwendung für die Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleis-
+tungen in staatlich anerkannten Fernstudien, an anderen Bildungseinrichtungen, insbesondere an staatlichen oder staatlich
+anerkannten Berufsakademien, für multimedial gestützte Studien- und Prüfungsleistungen sowie für von Schülerinnen und
+Schülern auf der Grundlage von § 54 Abs. 5 HHG erbrachte Studien- und Prüfungsleistungen.
+
+(4) Für die Anrechnung von Leistungen, die an ausländischen Hochschulen erbracht wurden, gilt Abs. 2 ebenfalls entspre-
+chend. Bei der Anrechnung sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten
+Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaftsverträgen zu beachten. Soweit
+Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss. Bei Zweifeln an der Gleichwertigkeit ist die
+Zentralstelle für ausländisches Bildungswesen zu hören.
+(5) Bei obligatorischem oder empfohlenem Auslandsstudium soll die oder der Studierende vor Beginn des Auslandsstudiums
+mit der oder dem Vorsitzenden des Prüfungsausschusses oder einer oder einem hierzu Beauftragten ein Gespräch über die
+Anerkennungsfähigkeit von Studien- und Prüfungsleistungen führen.
+
+(6) Abschlussarbeiten (z.B. Bachelorarbeiten, Staatsexamensarbeiten), welche Studierende außerhalb des Bachelorstudien-
+23
+
+gangs Informatik der Goethe-Universität bereits erfolgreich erbracht haben, werden nicht angerechnet. Weiterhin ist eine
+mehrfache Anrechnung ein- und derselben Leistung im Bachelorstudiengang Informatik nicht möglich.
+
+(7) Werden Prüfungsleistungen angerechnet, sind die Noten – soweit die Notensysteme vergleichbar sind – zu übernehmen
+und in die Berechnung der Gesamtnote einzubeziehen. Bei unvergleichbaren Notensystemen wird der Vermerk „bestanden“
+aufgenommen. Angerechnete Leistungen werden in der Regel mit Angabe der Hochschule, in der sie erworben wurden, im
+Abschlussdokument gekennzeichnet.
+
+(8) Der Antrag auf Anrechnung von Leistungen, die im Vorfeld des Bachelorstudiums erbracht wurden, soll möglichst
+mit dem Antrag auf Zulassung erfolgen. Die Antragstellerin oder der Antragsteller legt dem Prüfungsausschuss alle für
+die Anrechnung beziehungsweise Anerkennung erforderlichen Unterlagen vor, aus denen die Bewertung, die CP und die
+Zeitpunkte sämtlicher Prüfungsleistungen hervorgehen, denen sie oder er sich in einem anderen Studiengang oder an anderen
+Hochschulen bisher unterzogen hat. Aus den Unterlagen muss sich auch ergeben, welche Prüfungen und Studienleistungen
+nicht bestanden oder wiederholt wurden. Der Prüfungsausschuss kann die Vorlage weiterer Unterlagen, wie die rechtlich
+verbindlichen Modulbeschreibungen der anzuerkennenden Module, verlangen.
+
+(9) Fehlversuche in anderen Studiengängen oder in Studiengängen an anderen Hochschulen werden angerechnet, sofern sie
+im Falle ihres Bestehens angerechnet worden wären.
+
+(10) Die Anrechnung und Anerkennung von Prüfungsleistungen, die vor mehr als fünf Jahren erbracht wurden, kann in
+Einzelfällen abgelehnt werden; die Entscheidung kann mit der Erteilung von Auflagen verbunden werden. Bei Vorliegen der
+Voraussetzungen der Absätze 1 bis 4 i.V. mit Abs. 8 besteht ein Rechtsanspruch auf Anrechnung. Satz 1 und die Absätze 6
+und 9 bleiben unberührt.
+
+(11) Entscheidungen mit Allgemeingültigkeit zu Fragen der Anrechnung trifft der Prüfungsausschuss; die Anrechnung
+im Einzelfall erfolgt durch dessen Vorsitzende oder dessen Vorsitzenden, falls erforderlich unter Heranziehung einer
+Fachprüferin oder eines Fachprüfers. Unter Berücksichtigung der Anrechnung setzt sie oder er ein Fachsemester fest.
+
+(12) Soweit Anrechnungen von Studien- oder Prüfungsleistungen erfolgen, die nicht mit CP versehen sind, sind entspre-
+chende Äquivalente zu errechnen und auf dem Studienkonto entsprechend zu vermerken.
+
+(13) Sofern Anrechnungen vorgenommen werden, können diese mit Auflagen zu nachzuholenden Studien- oder Prüfungs-
+leistungen verbunden werden. Auflagen und eventuelle Fristen zur Auflagenerfüllung sind der Antragstellerin oder dem
+Antragsteller schriftlich mitzuteilen. Die Mitteilung ist mit einer Rechtsbehelfsbelehrung zu versehen.
+
+§ 30 Anrechnung von außerhalb einer Hochschule erworbenen Kompetenzen (RO: § 32)
+
+Für Kenntnisse und Fähigkeiten, die vor Studienbeginn oder während des Studiums außerhalb einer Hochschule erworben
+wurden und die in Niveau und Lernergebnis Modulen des Studiums äquivalent sind, können die CP der entsprechenden
+Module auf Antrag angerechnet werden. Die Anrechnung erfolgt individuell durch den Prüfungsausschuss auf Vorschlag der
+oder des Modulverantwortlichen. Voraussetzung sind schriftliche Nachweise (z.B. Zeugnisse, Zertifikate) über den Umfang,
+Inhalt und die erbrachten Leistungen. Insgesamt dürfen nicht mehr als 50 % der im Studiengang erforderlichen CP durch
+Anrechnung ersetzt werden. Die Anrechnung der CP erfolgt ohne Note. Dies wird im Zeugnis entsprechend ausgewiesen.
+

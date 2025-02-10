@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RAG Chat Interface</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .chat-container {
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .input-container {
+            display: flex;
+            gap: 10px;
+        }
+        #query-input {
+            flex-grow: 1;
+            padding: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .response {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+        .contexts {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+        .loading {
+            display: none;
+            margin-top: 20px;
+            text-align: center;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>RAG Chat Interface</h1>
+    <div class="chat-container">
+        <div class="input-container">
+            <input type="text" id="query-input" placeholder="Enter your question...">
+            <button onclick="sendQuery()">Send</button>
+        </div>
+        <div id="loading" class="loading">Processing your query...</div>
+        <div id="response" class="response"></div>
+        <div id="contexts" class="contexts"></div>
+    </div>
+
+    <script>
+        async function sendQuery() {
+            const queryInput = document.getElementById('query-input');
+            const responseDiv = document.getElementById('response');
+            const contextsDiv = document.getElementById('contexts');
+            const loadingDiv = document.getElementById('loading');
+            
+            const query = queryInput.value.trim();
+            if (!query) return;
+
+            // Show loading
+            loadingDiv.style.display = 'block';
+            responseDiv.innerHTML = '';
+            contextsDiv.innerHTML = '';
+
+            try {
+                const response = await fetch('/query', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ query }),
+                });
+
+                const data = await response.json();
+                
+                // Display response
+                responseDiv.innerHTML = `<strong>Answer:</strong><br>${data.response}`;
+                
+                // Display contexts
+                contextsDiv.innerHTML = '<strong>Relevant contexts:</strong><br>' + 
+                    data.contexts.map((ctx, i) => `${i + 1}. ${ctx}`).join('<br><br>');
+            } catch (error) {
+                responseDiv.innerHTML = 'Error processing your query. Please try again.';
+            } finally {
+                loadingDiv.style.display = 'none';
+            }
+        }
+
+        // Allow Enter key to send query
+        document.getElementById('query-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendQuery();
+            }
+        });
+    </script>
+</body>
+</html>

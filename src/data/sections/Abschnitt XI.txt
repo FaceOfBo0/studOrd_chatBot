@@ -1,0 +1,44 @@
+Abschnitt XI: Schlussbestimmungen
+
+§ 48 In-Kraft-Treten und Übergangsbestimmungen (RO: § 56)
+
+(1) Diese Ordnung tritt am Tage nach ihrer Veröffentlichung im UniReport Satzungen und Ordnungen der Goethe-
+Universität Frankfurt am Main in Kraft. Gleichzeitig tritt die Ordnung für den Bachelorstudiengang vom 06. Dezember
+2010 (UniReport vom 16. September 2011), zuletzt geändert am 08.September 2017 (UniReport vom 28. September 2017)
+außer Kraft.
+
+(2) Diese Ordnung gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2019/20 im Bachelorstudiengang
+Informatik aufnehmen.
+
+(3) Studierende, die das Studium im Bachelorstudiengang Informatik vor Inkrafttreten dieser Ordnung aufgenommen
+haben, können die Bachelorprüfung nach der Ordnung vom 06. Dezember 2010 in der bisher geltenden Fassung bis
+spätestens 30. September 2025 ablegen.
+
+(4) Studierende, die vor dem Inkrafttreten dieser Ordnung im Bachelorstudiengang Informatik immatrikuliert wurden,
+und nicht mehr als 60 CP in den Basismodulen und Vertiefungsmodulen erbracht haben, können auf Antrag an den
+Prüfungsausschuss nach dieser Ordnung ihr Studium absolvieren und die Bachelorprüfung ablegen. Bereits erbrachte
+Studien- und Prüfungsleistungen werden nach § 29 angerechnet. Der Antrag ist unwiderruflich.
+
+(5) Modulteilprüfungen zu den Basismodulen gemäß der Informatik Bachelor PO 2011 werden letztmalig wie folgt
+angeboten: 
+
+
+EPR (5 CP) bis April 2022 
+
+LinA und DI bis April 2022 
+
+ALGO-1a und ALGO-1b bis Oktober 2022
+
+PDB-1 und PDB-2 bis Oktober 2022 
+
+RTKS-1 und RTKS-2 bis Oktober 2022
+
+ARA-1 und ARA-2 bis Oktober 2022 
+
+An und NuMa bis Oktober 2022 
+
+Praktikum B-HWS-PR im SoSe 2022
+
+Frankfurt am Main, den 20. August 2019
+Prof. Dr. Lars Hedrich
+Dekan des Fachbereichs Informatik und Mathematik
