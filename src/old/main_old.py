@@ -2,7 +2,6 @@ from click import File
 from Retrieval import Indexer_old
 from Preprocessing import FileHandler
 from Generation import Generator_old
-from huggingface_hub import login
 
 if __name__ == '__main__':
 
