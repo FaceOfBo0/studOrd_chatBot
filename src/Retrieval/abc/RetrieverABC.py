@@ -1,9 +1,10 @@
 from abc import ABC, abstractmethod
+from numpy import ndarray
 
 class RetrieverABC(ABC):
 
     @abstractmethod
-    def create_embs(self, docs: list[str]):
+    def create_embs(self, docs: list[str]) -> ndarray:
         pass
 
     @abstractmethod
