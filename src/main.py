@@ -1,7 +1,7 @@
 from Retrieval.RetrieverHF import RetrieverHF
 from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
-from Preprocessing import FileHandler, PDFLoader, PreProcessor
+# from Preprocessing import FileHandler, PDFLoader, PreProcessor
 
 if __name__ == '__main__':
     # sections = FileHandler.read_files("src/data/sections")
@@ -10,7 +10,7 @@ if __name__ == '__main__':
     query = "Was sind die Voraussetzungen zur Zulassung zum Bachelorstudium Informatik gemäß § 8 der Studienordnung?"
     retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
     generator = Generator()
-    
+
     context = retriever.get_ctx_from_db(query, 2)
     answer = generator.gen_response_oll("llama3.2:3b", query, context)
 
