@@ -1,0 +1,1474 @@
+{
+  "_type": "StudyRegulation",
+  "data": {
+    "sections": [
+      {
+        "number": "I",
+        "title": "Allgemeines",
+        "paragraphs": [
+          {
+            "number": "1",
+            "title": "Geltungsbereich der Ordnung (RO § 1)",
+            "content": "Diese Ordnung enthält die studiengangsspezifischen Regelungen für den Bachelorstudiengang Informatik. Sie gilt in\nVerbindung mit der Rahmenordnung für gestufte und modularisierte Studiengänge der Goethe-Universität Frankfurt am\nMain vom 30. April 2014, UniReport Satzungen und Ordnungen vom 11. Juli 2014 in der jeweils gültigen Fassung,\nnachfolgend Rahmenordnung (RO) genannt.",
+            "points": []
+          },
+          {
+            "number": "2",
+            "title": "Zweck der Bachelorprüfung (RO: § 2)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Das Bachelorstudium schließt mit dem ersten berufsqualifizierenden Abschluss ab. Die Bachelorprüfung dient der\nFeststellung, ob die Studierenden das Ziel des Bachelorstudiums erreicht haben. Die Prüfungen erfolgen kumulativ, das\nheißt die Summen der Modulprüfungen im Bachelorstudiengang Informatik einschließlich der Bachelorarbeit bilden die\nBachelorprüfung.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Durch die kumulative Bachelorprüfung soll festgestellt werden, ob die oder der Studierende hinreichende Fachkenntnisse\nin den Prüfungsgebieten erworben hat und die Fähigkeit besitzt, grundlegende wissenschaftliche Methoden und Kenntnisse\nselbstständig anzuwenden sowie auf einen Übergang in die Berufspraxis oder für ein konsekutives Studium vorbereitet ist.\n\n§ 3 Akademischer Grad (RO: § 3)\n\nNach erfolgreich absolviertem Studium und bestandener Prüfung verleiht der Fachbereich Informatik und Mathematik den\nakademischen Grad eines Bachelor of Science, abgekürzt als B.Sc.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "title": "Regelstudienzeit; Teilzeitstudium (RO: § 4)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Die Regelstudienzeit für den Bachelorstudiengang Informatik beträgt sechs Semester. Das Bachelorstudium kann in\nkürzerer Zeit abgeschlossen werden.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Im Rahmen des Bachelorstudiengangs sind gemäß § 13 Abs. 3 180 Kreditpunkte – nachfolgend CP – zu erreichen.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Das Studium ist nach Maßgabe des Landesrechts ganz oder teilweise als Teilzeitstudium möglich. Bei einem Teilzeit-\nstudium besteht kein Anspruch auf Bereitstellung eines besonderen Lehr- und Studienangebots.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Der Fachbereich Informatik und Mathematik stellt auf der Grundlage dieser Ordnung ein Lehrangebot bereit und sorgt\nfür die Festsetzung geeigneter Prüfungstermine, so dass das Studium in der Regelstudienzeit abgeschlossen werden kann.\n\n§ 5 Auslandsstudium (RO: § 5)",
+                "subpoints": []
+              },
+              {
+                "number": "1",
+                "content": "Es wird empfohlen, im Verlauf des Bachelorstudiums für mindestens ein Semester an einer Universität im Ausland\nzu studieren bzw. einen entsprechenden Auslandsaufenthalt einzuplanen. Dafür können die Verbindungen der Goethe-\nUniversität mit ausländischen Universitäten genutzt werden, über die in der Studienfachberatung und im International Office\nAuskunft erteilt wird.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Ein Auslandsstudium/Auslandsaufenthalt wird im 5. Semester empfohlen. Die für diesen Zeitraum vorgesehenen Module\nsind besonders gut geeignet, um an ausländischen Hochschulen absolviert und für das Studium an der Goethe-Universität\nangerechnet zu werden.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "title": "Ziele des Studiengangs; Studienbeginn und Zugangsvoraussetzungen\nzum Studium",
+        "paragraphs": [
+          {
+            "number": "6",
+            "title": "Ziele des Studiengangs (RO: § 6)",
+            "content": "Der Bachelorstudiengang ist ein selbstständiger Studiengang, der zugleich der erste Abschnitt eines konsekutiven\nStudiums der Informatik mit nachfolgendem Masterstudiengang ist. Der Bachelorstudiengang ist grundlagen- und methode-\nnorientiert und legt somit die Grundlagen des Faches Informatik in der Breite. Er stellt sicher, dass die Voraussetzungen für\nspätere Verbreiterungen, Vertiefungen und Spezialisierungen im Fach Informatik gegeben sind. Er bereitet insbesondere\nauf das Masterstudium vor. Der Bachelorstudiengang soll dazu befähigen, die vermittelten Fähigkeiten und Kenntnisse\nanzuwenden und sich im Zuge eines lebenslangen Lernens schnell neue, vertiefende Kenntnisse anzueignen. Er ermöglicht\neinen Einstieg in den Arbeitsmarkt für entsprechende Aufgaben oder den Wechsel des Studienorts.",
+            "points": [
+              {
+                "number": "1",
+                "content": "Der erfolgreiche Abschluss des Studiums qualifiziert die Absolventinnen und Absolventen durch seine Grundlagenorientierung zu erfolgreicher Tätigkeit über das gesamte Berufsleben hinweg, da er sich nicht auf die Vermittlung aktueller\nInhalte beschränkt, sondern theoretisch untermauerte grundlegende Konzepte und Methoden vermittelt, die über aktuelle\nTrends hinweg Bestand haben.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Der Bachelorstudiengang vermittelt den Studierenden die grundlegenden Prinzipien, Konzepte und Methoden der\nInformatik. Die Absolventinnen und Absolventen sollen nach Abschluss ihrer Ausbildung insbesondere in der Lage sein,\nAufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen und sozialen Randbedingungen\nmit den Mitteln der Informatik zu bearbeiten, entsprechende Systeme zu entwickeln und Projekte zu leiten. Sie sollen die\nerlernten Konzepte und Methoden auf zukünftige Entwicklungen übertragen können. Exemplarisch sollte Einblick in ein\nAnwendungsfach genommen werden.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Problemlösungskompetenz: Die Absolventinnen und Absolventen sollen im Stande sein, komplexe Aufgaben systema-\ntisch und mit Informatikmethoden zu spezifizieren, brauchbare und zuverlässige Lösungen zu konstruieren und diese zu\nvalidieren. Sie sollen bei auftretenden Problemen Maßnahmen ergreifen können, die zu deren Lösung notwendig sind. Die\nAbsolventinnen und Absolventen sollen darin geübt worden sein, unüberschaubar scheinende Fragestellungen konstruktiv\nin Angriff zu nehmen. Sie sollen gelernt haben, hierfür Systeme und Techniken der Informatik zielorientiert einzusetzen.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Schlüsselqualifikationen und Interdisziplinarität: Neben der technischen Kompetenz sollen die Absolventinnen und\nAbsolventen Konzepte, Vorgehensweisen und Ergebnisse kommunizieren und im Team arbeiten können. Sie sollen im Stande\nsein, sich in die Sprache und Begriffswelt der Anwenderinnen und Anwender einzuarbeiten, um über Fachgebietsgrenzen\nhinweg zusammenzuarbeiten. Sie sollen grundlegende Erfahrung im Projektmanagement und Führungsqualifikation und\nManagementkompetenz erworben haben. Diese Qualifikationen können unter anderem im Ergänzungsmodul erworben\nwerden.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Auswirkungen der Informatik: Die Absolventinnen und Absolventen sollen die Auswirkungen der Informatik auf\ndie Gesellschaft in ihren sozialen, wirtschaftlichen, arbeitsorganisatorischen, psychologischen und rechtlichen Aspekten\neinschätzen können. Ihnen sollen ethische Leitlinien für die Berufsausübung bewusst sein.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Die Fähigkeiten von Absolventinnen und Absolventen dieses Studiengangs lassen sich durch die folgenden Prädikate\ncharakterisieren:",
+                "subpoints": [
+                  {
+                    "number": "1",
+                    "content": "Die Absolventinnen und Absolventen beherrschen die mathematischen und informatischen Methoden, Probleme in\nihrer Grundstruktur zu analysieren."
+                  },
+                  {
+                    "number": "2",
+                    "content": "Die Absolventinnen und Absolventen beherrschen die informatischen Methoden, abstrakte Modelle aufzustellen."
+                  },
+                  {
+                    "number": "3",
+                    "content": "Die Absolventinnen und Absolventen haben gelernt, Probleme zu formulieren und die sich ergebenden Aufgaben in\narbeitsteilig organisierten Teams zu übernehmen, selbstständig zu bearbeiten, die Ergebnisse anderer aufzunehmen\nund die eigenen Ergebnisse zu kommunizieren."
+                  },
+                  {
+                    "number": "4",
+                    "content": "Die Absolventinnen und Absolventen haben die methodische Kompetenz erworben, um programmiertechnische\nProbleme insbesondere auch im Kontext komplexer Systeme unter ausgewogener Berücksichtigung technischer,\nökonomischer und gesellschaftlicher Randbedingungen erfolgreich bearbeiten zu können."
+                  },
+                  {
+                    "number": "5",
+                    "content": "Die Absolventinnen und Absolventen sind sich der vielfältigen Sicherheitsprobleme bewusst, die mit dem Einsatz\nvon Informatiksystemen, insbesondere in Rechner-Netzwerken, verbunden sind; sie wissen, welche Techniken und\nVerfahren für die Sicherung von Systemen zum Einsatz kommen."
+                  },
+                  {
+                    "number": "6",
+                    "content": "Die Absolventinnen und Absolventen haben exemplarisch ausgewählte Anwendungsfelder kennengelernt und sind in\nder Lage, bei der Umsetzung informatischer Grundlagen auf Anwendungsprobleme qualifiziert mitzuarbeiten."
+                  },
+                  {
+                    "number": "7",
+                    "content": "Die Absolventinnen und Absolventen haben exemplarisch außerfachliche Qualifikationen erworben und sind damit für\ndie nichttechnischen Anforderungen und erforderlichen Sozialisierungsfähigkeit im betrieblichen Umfeld sensibilisiert."
+                  },
+                  {
+                    "number": "8",
+                    "content": "Die Absolventinnen und Absolventen sind durch die Grundlagenorientierung der Ausbildung gut auf lebenslanges\nLernen und auf einen Einsatz in unterschiedlichen Berufsfeldern vorbereitet."
+                  }
+                ]
+              },
+              {
+                "number": "7",
+                "content": "Der Bachelorstudiengang Informatik an der Goethe-Universität bietet Veranstaltungen zu grundlegendem Wissen und\nFertigkeiten in der Informatik an. Die Veranstaltungen im Basisbereich umfassen die Grundlagen zu Programmierung,\nSoftware-Engineering, Kompilerbau, Datenbanken, Rechnertechnologie und -architektur; Modellierung, Algorithmen,\nDatenstrukturen und Komplexität.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Zum Bachelorstudiengang Informatik an der Goethe-Universität gehören weiterhin mathematische Veranstaltungen, in\ndenen die wichtigsten Grundkenntnisse, Beweisverfahren und Arbeitstechniken der Mathematik vermittelt werden, soweit\nsie für die Informatik von Belang sind. Das Studium umfasst auch Veranstaltungen zur Reflexion über gesellschaftliche\nAuswirkungen der Informatik. Darüber hinaus muss ein Anwendungsfach gewählt werden, das eine Anwendung von\nInformatik-Methoden und -Techniken ermöglicht und benötigt. Im Vertiefungsbereich werden Veranstaltungen angeboten,\ndie das Basiswissen vertiefen, und auf die Bachelorarbeit vorbereiten.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Der Internationalität der Informatik entsprechend werden Wahlpflichtveranstaltungen auch auf Englisch angeboten.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "title": "Studienbeginn (RO: § 7)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Das Studium kann sowohl zum Winter- als auch zum Sommersemester aufgenommen werden. Bei einem Studienbeginn\nzum Sommersemester kann das Angebot an Modulen eingeschränkt sein.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Es wird empfohlen vor Studienbeginn an einem vom Institut für Informatik angebotenen Vorkurs teilzunehmen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "title": "Voraussetzungen für die Zulassung zum Bachelorstudiengang (RO: § 8)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "In den Bachelorstudiengang Informatik kann nur eingeschrieben werden, wer die gesetzlich geregelte Hochschul-\nzugangsberechtigung besitzt und nicht nach § 57 HHG an der Immatrikulation gehindert ist. Insbesondere muss der\nPrüfungsanspruch für den Bachelorstudiengang Informatik noch bestehen, zum Beispiel darf die Bachelorprüfung in diesem\nStudiengang oder die Abschlussprüfung in einem eng verwandten Studiengang noch nicht endgültig nicht bestanden sein.\nZur diesbezüglichen Überprüfung sind Erklärungen gemäß § 22 Abs. 1 vorzulegen. § 22 Abs. 3 gilt entsprechend.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Ausländische Studienbewerberinnen und Studienbewerber für einen Bachelorstudiengang müssen entsprechend der\n„Ordnung der Goethe-Universität Frankfurt am Main über die Deutsche Sprachprüfung für den Hochschulzugang (DSH) für\nStudienbewerberinnen und Studienbewerber mit ausländischer Hochschulzugangsberechtigung“ in der jeweils gültigen\nFassung einen Sprachnachweis auf dem Niveau DSH-2 vorlegen, soweit sie nach der DSH-Ordnung nicht von der Deutschen\nSprachprüfung freigestellt sind.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Für eine Einschreibung in ein höheres Fachsemester aufgrund von anrechenbaren Leistungen ist für die Immatrikulation\nin den Bachelorstudiengang eine Anrechnungsbescheinigung gemäß §§ § 29, § 30 vorzulegen.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Die Voraussetzungen für die Zulassung zur Bachelorprüfung sind in § 22 geregelt.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Sofern für den Bachelorstudiengang Informatik aus Kapazitätsgründen eine Zulassungsbeschränkung besteht, wird ein\nAuswahlverfahren nach Landesrecht durchgeführt.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Weitere Zugangsvoraussetzung ist der Nachweis von Englischkenntnissen auf dem Sprachniveau B1 des „Gemein-\nsamen europäischen Referenzrahmens für Sprachen des Europarates“ vom September",
+                "subpoints": [
+                  {
+                    "number": "a",
+                    "content": "Abiturzeugnis, Oberstufenzeugnisse oder anderen Nachweis über in der Regel mindestens vierjährigen Schulunterricht\n9\n\n(ab Sekundarstufe 1) in Englisch. Der Nachweis von drei Jahren Schulunterricht reicht aus, sofern die Sprache bis\nzum Abschluss, der zum Hochschulzugang berechtigt, geführt wurde."
+                  },
+                  {
+                    "number": "b",
+                    "content": "Nachweis über einen UNIcert-Abschluss der Stufe I,"
+                  },
+                  {
+                    "number": "c",
+                    "content": "Nachweis über einen internet-basierten TOEFL-Test iBT, Score von mindestens 43,"
+                  },
+                  {
+                    "number": "d",
+                    "content": "Nachweis über einen IELTS-Test, Score von mindestens 4.0 oder"
+                  },
+                  {
+                    "number": "e",
+                    "content": "einen anderen vom Prüfungsausschuss als gleichwertig anerkannten Nachweis.\n\nFür die Module des Wahlpflichtbereichs, die in englischer Sprache angeboten werden, werden Englischkenntnisse auf dem\nSprachniveau B2 dringend empfohlen."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "title": "Studienstruktur und -organisation",
+        "paragraphs": [
+          {
+            "number": "9",
+            "title": "Studienaufbau; Modularisierung (RO: § 11)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Der Bachelorstudiengang Informatik ist modular aufgebaut. Ein Modul ist eine inhaltlich und zeitlich abgeschlossene\nLehr- und Lerneinheit. Es umfasst ein Set von inhaltlich aufeinander bezogenen Lehrveranstaltungen einschließlich\nPraxisphasen sowie Selbstlernzeiten und ist einem vorab definierten Lernziel verpflichtet. Module erstrecken sich auf ein\nbis zwei Semester.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Der Bachelorstudiengang Informatik gliedert sich in die Studienphasen Basisphase, Vertiefungsphase, Anwendungsfach,\nErgänzungsmodul und Bachelorarbeit.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Module können sein: Pflichtmodule, Wahlpflichtmodule, die aus einem vorgegebenen Katalog von Modulen auszuwäh-\nlen sind, oder Anwendungsfachmodule, die aus einem Katalog der Anwendungsfachmodule in Anlage 6 von Modulen aus\ndem gewählten Anwendungsfach kommen und das Ergänzungsmodul in Anlage 4.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Aus den Zuordnungen der Module zu den Studienphasen, dem Grad der Verbindlichkeit der Module und dem nach § 13\nkalkulierten studentischen Arbeitsaufwand (Workload) in CP ergibt sich für den Bachelorstudiengang Informatik folgender\nStudienaufbau:\n\nPflicht (PF)/ Wahl-\npflicht (WP)\nKreditpunkte (CP)\nErläuterung\nBasisphase\n97 CP\nSiehe Anlage 2\nB-EPI\nPF\n12\nbestehend aus der Studienleistung EPR\nEPR\nPF\n6\nund GPR\nGPR\nPF\n6\nB-PPDC\nPF\n5\nB-PPR\nPF\n8\nPraktikum\nB-PDB\nPF\n6\nB-ARA\nPF\n9\nB-RTKS\nPF\n6\nB-MOD\nPF\n8\nB-ALGO-1\nPF\n8\nB-ALGO-2\nPF\n8\nB-AnNuMa\nPF\n9\nB-LinADI\nPF\n9\nB-StI\nPF\n9\nErgänzungsmodul\nPF\n5\nSiehe Anlage 4\nAnwendungsfach\nWPF\n20-24\nSiehe Anlage 6\nVertiefungsphase\nWPF\n39-43\nSiehe Anlage 3\nAbschlussmodul\nPF\n15\nSiehe Anlage 5\nSUMME\n180\n10",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Die Wählbarkeit von Wahlpflichtmodulen kann bei fehlender Kapazität durch Fachbereichsratsbeschluss eingeschränkt\nwerden. Die Einschränkung ist den Studierenden unverzüglich durch das Dekanat bekannt zu geben. § 16 Abs. 2 findet\nAnwendung. Durch Beschluss des Fachbereichsrates können ohne Änderung dieser Ordnung auch weitere Wahlpflicht-\nmodule zugelassen werden, wenn sie von ihrem Umfang und ihren Anforderungen den in dieser Ordnung geregelten\nWahlpflichtmodulen entsprechen. § 12 Abs. 4 und § 16 Abs. 2 sind zu beachten.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Die Lehrveranstaltungen in den Modulen werden hinsichtlich ihrer Verbindlichkeit in Pflicht- und Wahlpflichtver-\nanstaltungen unterschieden. Pflichtveranstaltungen sind nach Inhalt und Form der Veranstaltung in der Modulbeschreibung\neindeutig bestimmt. Wahlpflichtveranstaltungen sind Lehrveranstaltungen, die Studierende innerhalb eines Moduls aus\neinem bestimmten Fachgebiet oder zu einem bestimmten Themengebiet auszuwählen haben.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Sofern einzelne Lehrveranstaltungen auf Englisch angeboten werden, ist dies in der Modulbeschreibung im Modulhand-\nbuch geregelt.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Der Zugang zu Vertiefungsmodulen entsprechend Anlage 3 ist erst nach Erreichen von mindestens 25 CP aus den\nBasismodulen entsprechend Anlage 2 möglich.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Im Vertiefungsbereich muss mindestens ein Seminar und ein Praktikum eingebracht werden. Die Anzahl ist auf maximal\ndrei Seminare und zwei Praktika beschränkt. Es können bis zu zwei Forschungsprojekte eingebracht werden.",
+                "subpoints": []
+              },
+              {
+                "number": "10",
+                "content": "Das Lehrangebot des Anwendungsfachs besteht aus Lehrveranstaltungen im Gesamtumfang von in der Regel 20-24\nCP. Es bestehen Anwendungsfachvereinbarungen mit den zuständigen Fachbereichen zu den Anwendungsfächern in\nAnlage 6. Ein in Anlage 6 nicht aufgeführtes und von Fachbereichen der Goethe-Universität im Lehrangebot angebotenes\nAnwendungsfach kann im Einzelfall auf Antrag der oder des Studierenden vom Prüfungsausschuss als Anwendungsfach\nzugelassen werden, wenn es in seinem Umfang und in seinen Anforderungen den nach dieser Ordnung zugelassenen\nAnwendungsfächern vergleichbar ist. Mit dem Antrag sind rechtzeitig vorzulegen: ein von einer oder einem Prüfenden\ndieses Bereichs festgelegter Studienplan und Modul- und Veranstaltungsbeschreibungen entsprechend § 6 Abs. 9 und\n§ 9 Abs. 4. Diesem muss die Studiendekanin oder der Studiendekan des zuständigen Fachbereichs zugestimmt haben.",
+                "subpoints": []
+              },
+              {
+                "number": "11",
+                "content": "Der Zugang zu einem Anwendungsfach kann zahlenmäßig beschränkt sein. Die Auswahl der Studierenden richtet sich\nin diesem Fall nach den Bestimmungen des für das Fach zuständigen Fachbereichs.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "title": "Modulverwendung (RO: § 12)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Sofern Module des Bachelorstudiengangs Informatik aus dem Angebot anderer Studiengänge stammen („Importmodu-\nle“), unterliegen sie den Prüfungsregelungen des exportierenden Fachbereichs (Herkunftsordnung). Sie sind in den Anlage 6\naufgeführt. Änderungen werden durch den Prüfungsausschuss rechtzeitig in das Modulhandbuch (vgl. § 12) aufgenommen\nund auf der studiengangsbezogenen Webseite (vgl. § 16 Abs. 2 unter studium.informatik.uni-frankfurt.de\nhinterlegt.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Es gelten im Übrigen die Regelungen des § 12 der Rahmenordnung (RO).",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "title": "Praxismodule (RO: § 13)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Im Hinblick auf das Qualifikationsziel der Befähigung zu einer qualifizierten Erwerbstätigkeit sind Praxismodule\nvorgesehen. Diese sollen insbesondere die Entwicklung einer an Schlüsselkompetenzen ausgerichteten beruflichen\nHandlungskompetenz in einem exemplarischen Lernprozess ermöglichen.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Praxismodule können in Form von Praktika oder berufspraktischen Studien erbracht werden. Einschlägige Berufser-\nfahrungen sollen als Praktikum angerechnet werden.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Praxismodule sind in der Regel unbenotet und werden mit„bestanden“ oder „nicht bestanden“ bewertet.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "title": "Modulbeschreibungen/Modulhandbuch (RO: § 14)",
+            "content": "11",
+            "points": [
+              {
+                "number": "1",
+                "content": "Zu jedem Pflicht- und Wahlpflichtmodul enthalten die Anlagen 2, 3, 4, 5 und 6 eine Modulbeschreibung nach Maßgabe\nvon § 14 Abs. 2 RO. Die Modulbeschreibungen sind Bestandteil dieser Ordnung.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Modulbeschreibungen werden ergänzt durch ein regelmäßig aktualisiertes Modulhandbuch. Dieses enthält die\nzusätzlichen Angaben nach Maßgabe von Abs. 3 und dient insbesondere der Information der Studierenden.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "In das Modulhandbuch werden nach Maßgabe von § 14 Abs. 5 RO mindestens aufgenommen:\n\n• ggf. Kennzeichnung als Importmodul\n• Angebotszyklus der Module (z.B. jährlich oder jedes Semester)\n• studentischer Arbeitsaufwand differenziert nach Präsenz- beziehungsweise Kontaktzeit und Selbststudium in Stunden\nund Kreditpunkten (CP)\n• Dauer der Module\n• Teilnahmevoraussetzungen\n• Unterrichts-/Prüfungssprache\n• Art und Umfang der Modulprüfung\n• Lehrveranstaltungen mit Lehr- und Lernformen sowie Semesterwochenstunden und Kreditpunkten\n• Verwendbarkeit der Module\n• Modulbeauftragte/Modulbeauftragter\n• ggf. zeitliche Einordnung der Module",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Änderungen im Modulhandbuch, welche nicht die Inhalte der Modulbeschreibungen nach § 14 Abs. 2 RO betreffen, sind\ndurch Fachbereichsratsbeschluss rechtzeitig vor Beginn der Veranstaltungszeit eines Semesters möglich und bis zu diesem\nZeitpunkt auf der studiengangsbezogenen Webseite studium.informatik.uni-frankfurt.de bekanntzugeben.\nSie dürfen nicht zu wesentlichen Änderungen des Curriculums führen. Das Hochschulrechenzentrum soll rechtzeitig vor\nBeschlussfassung im Fachbereichsrat zu den Änderungen angehört werden.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Änderungen bei den Importmodulen können durch den anbietenden Fachbereich vorgenommen werden, ohne dass eine\nÄnderung dieser Ordnung notwendig ist. Sie werden vom Studienausschuss rechtzeitig in das Modulhandbuch aufgenommen\nund auf der studiengangsbezogenen Webseite studium.informatik.uni-frankfurt.de bekannt gegeben.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "title": "Lehr- und Lernformen; Zugang zu Modulen (RO: § 16)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Die Lehrveranstaltungen im Bachelorstudiengang Informatik werden in den folgenden Formen durchgeführt:\n\n(",
+                "subpoints": [
+                  {
+                    "number": "a",
+                    "content": "Vorlesung (V): Zusammenhängende Darstellung und Vermittlung von Grund- und Spezialwissen sowie methodische\nKenntnisse durch Vortrag gegebenenfalls in Verbindung mit Demonstrationen oder Experimenten. Die Lehrenden\nentwickeln und vermitteln Lehrinhalte unter Einbeziehung der Studierenden;"
+                  },
+                  {
+                    "number": "b",
+                    "content": "Übung (Ü): Durcharbeitung und Vertiefung von Lehrstoffen sowie Schulung in der Fachmethodik und Vermittlung\nspezieller Fertigkeiten durch Bearbeitung und Besprechung exemplarischer Aufgaben; Übungsgruppen sollen in der\nRegel 15 Teilnehmerinnen und Teilnehmer nicht überschreiten;"
+                  },
+                  {
+                    "number": "c",
+                    "content": "Ergänzungsübungen (E): Eine Ergänzungsübung ist eine Veranstaltung, die der vertiefenden Nachbereitung von\nVorlesungsinhalten dient. Eine Ergänzungsübung kann Methoden des E-Learning benutzen oder in Form einer\nFragestunde ablaufen, wobei ein Professor, eine Professorin, ein wissenschaftlicher Mitarbeiter oder eine wissenschaft-\nliche Mitarbeiterin Fragen zu Vorlesungsinhalten beantwortet, bzw. Aufgaben interaktiv mit den Teilnehmern und\nTeilnehmerinnen bespricht und löst."
+                  },
+                  {
+                    "number": "d",
+                    "content": "Proseminar/Seminar (S): Erarbeitung wissenschaftlicher Erkenntnisse oder Bearbeitung aktueller Problemstellungen\nmit wissenschaftlichen Methoden durch, in der Regel von Studierenden vorbereitete, Beiträge, Erlernen und Ein-\nüben beziehungsweise Vertiefen von Präsentations- und Diskussionstechniken. Die Zahl der Teilnehmerinnen und\nTeilnehmer an einem Seminar ist begrenzt, wobei die Zahl 15 generell als obere Schranke angestrebt wird. Für die\nTeilnehmerinnen und Teilnehmer eines Seminars besteht Anwesenheitspflicht."
+                  },
+                  {
+                    "number": "e",
+                    "content": "Praktikum (PR): Angeleitete Durchführung praktischer Aufgaben im experimentellen und apparativen Bereich und/oder\nComputersimulationen; Schulung in der Anwendung wissenschaftlicher Untersuchungs- und Lösungsmethoden;\nVermittlung von fachtechnischen Fertigkeiten und Einsichten in Funktionsabläufe; Die Zahl der Teilnehmerinnen und\nTeilnehmer an einem Praktikum im Vertiefungsbereich ist begrenzt, wobei die Zahl 15 generell als obere Schranke\nangestrebt wird."
+                  },
+                  {
+                    "number": "f",
+                    "content": "Forschungsprojekt (F): In einem Forschungsprojekt beschäftigt sich die Teilnehmerin oder der Teilnehmer mit\nFragestellungen der aktuellen Forschung und wird dabei von einer Professorin oder einem Professor bzw. einer\nwissenschaftlichen Mitarbeiterin oder einem wissenschaftlichen Mitarbeiter in Einzelbetreuung angeleitet. Das\nForschungsprojekt wird in einer kleinen und einer großen Variante angeboten. Eine Zulassung zu einem kleinen\nForschungsprojekt erfolgt in der Regel nur dann, wenn in den Basismodulen Leistungen im Umfang von mindestens\n25 CP nachgewiesen werden. Eine Zulassung zu einem großen Forschungsprojekt erfolgt in der Regel nur dann, wenn\nin den Basismodulen Leistungen im Umfang von mindestens 70 CP nachgewiesen werden, und der aktuelle gewichtete\nNotendurchschnitt 2,0 oder besser beträgt. Die Veranstaltungsleiterin oder der Veranstaltungsleiter entscheidet über\ndie Zulassung im Einzelfall."
+                  },
+                  {
+                    "number": "g",
+                    "content": "Tutoring/Mentoring (TL): Eine auf die Durchführung von Tutorien gemäß § 75 Abs. 1 HHG vorbereitende Lehr-\nveranstaltung sowie die Durchführung eines Tutoriums; Schulung in der Vermittlung fachlicher und didaktischer\nKompetenzen sowie Erlernen von Präsentations- und Diskussionstechniken. Die Veranstaltung wird fachlich und\nmethodisch durch Lehrpersonen angeleitet;"
+                  },
+                  {
+                    "number": "h",
+                    "content": "Studiumsorientierung (SO): Die Inhalte einer Studiumsorientierung umfassen Informationen zur Studienorganisation\nund zu Lehrformen, Grundlagen wissenschaftlichen Arbeitens, Lerntechniken, Zeitmanagement und Präsentations-\ntechniken. Ein zentraler Bestandteil der Veranstaltung ist das Mentorenprogramm, in dem Kleingruppen durch eine\nstudentische Mentorin oder einen studentischen Mentor im ersten Semester betreut werden."
+                  }
+                ]
+              },
+              {
+                "number": "2",
+                "content": "Ist nach Maßgabe der Modulbeschreibung der Zugang zu den Lehrveranstaltungen eines Moduls vom erfolgreichen\nAbschluss anderer Module oder vom Besuch der Studienfachberatung abhängig oder wird in der Modulbeschreibung\ndie Teilnahme an einer einzelnen Lehrveranstaltung von einem Teilnahme- oder Leistungsnachweis für eine andere\nLehrveranstaltung vorausgesetzt, wird die Teilnahmeberechtigung durch das Prüfungsamt überprüft.\n13",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Die Modulbeschreibung bzw. das Modulhandbuch kann vorsehen, dass zur Teilnahme am Modul oder an bestimmten\nVeranstaltungen des Moduls eine verbindliche Anmeldung vorausgesetzt werden kann. Auf der studiengangsspezifischen\nWebseite studium.informatik.uni-frankfurt.de wird rechtzeitig bekannt gegeben, ob und in welchem Ver-\nfahren eine verbindliche Anmeldung erfolgen muss.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Ist zu erwarten, dass die Zahl der an einer Lehrveranstaltung interessierten Studierenden die Aufnahmefähigkeit der\nLehrveranstaltung übersteigt, kann die Lehrveranstaltungsleitung ein Anmeldeverfahren durchführen. Die Anmeldevor-\naussetzungen und die Anmeldefrist werden im kommentierten Vorlesungsverzeichnis oder auf andere geeignete Weise\nbekannt gegeben. Übersteigt die Zahl der angemeldeten Studierenden die Aufnahmefähigkeit der Lehrveranstaltung oder ist\ndie Lehrveranstaltung überfüllt und kann nicht auf alternative Veranstaltungen verwiesen werden, prüft das Dekanat des\nveranstaltenden Fachbereichs auf Antrag der Lehrveranstaltungsleitung, ob eine zusätzliche Lehrveranstaltung eingerichtet\nwerden kann. Ist dies aus Kapazitätsgründen nicht möglich, ist es zur Gewährleistung der ordnungsgemäßen Durchführung\nder Lehrveranstaltung zulässig, nur eine begrenzte Anzahl der teilnahmewilligen und –berechtigten Studierenden aufzuneh-\nmen; hierbei sind die Richtwerte für die Mindestgruppengrößen der Lehrveranstaltungsarten gemäß dem Ausführungserlass\ndes Hessischen Ministeriums für Wissenschaft und Kunst zur Kapazitätsverordnung Hessen in der jeweils gültigen Fassung\nzu beachten. In diesem Fall ist durch die Veranstaltungsleitung nach den Richtlinien des Dekanats oder des Fachbereichsrates\ndes veranstaltenden Fachbereichs ein geeignetes transparentes Auswahlverfahren, das nicht die zeitliche Reihenfolge der\nAnmeldungen berücksichtigt, durchzuführen. Bei der Erstellung der Auswahlkriterien ist sicherzustellen, dass diejenigen\nStudierenden bei der Aufnahme in die Lehrveranstaltung Priorität genießen, für die die Lehrveranstaltung verpflichtend ist\nund die im besonderen Maße ein Interesse an der Aufnahme haben; dabei sind die Belange der Studierenden in besonderen\nLebenslagen im Sinne von § 25 Abs. 1 zu berücksichtigen. Die entsprechenden Nachweise sind von den Studierenden\nvorzulegen. Ein besonderes Interesse an der Aufnahme in die Lehrveranstaltung ist insbesondere auch dann gegeben, wenn\nder oder die Studierende nach dem Studienverlaufsplan bereits im vorangegangenen Semester einen Anspruch auf den Platz\nhatte und trotz Anmeldung keinen Platz erhalten konnte. Bei Pflichtveranstaltungen muss angemeldeten aber nicht in die\nLehrveranstaltung aufgenommenen Studierenden auf Verlangen hierüber eine Bescheinigung ausgestellt werden.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "title": "Studienverlaufsplan; Informationen (RO: § 18)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Die als Anlage 1 angefügten Studienverlaufspläne gelten für einen möglichen Studienbeginn im Sommersemester oder\nim Wintersemester und geben den Studierenden Hinweise für eine zielgerichtete Gestaltung ihres Studiums. Die Studienpläne\nberücksichtigen inhaltliche Bezüge zwischen Modulen und organisatorische Bedingungen des Studienangebots.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Der\nFachbereich\nrichtet\nfür\nden\nBachelorstudiengang\nInformatik\neine\nWebseite\nstudium.informatik.uni-frankfurt.de ein, auf der allgemeine Informationen und Regelungen zum\nStudiengang in der jeweils aktuellen Form hinterlegt sind. Dort sind auch das Modulhandbuch und der Studienverlaufsplan\nund, soweit Module im- und/oder exportiert werden, die Liste des aktuellen Im- und Exportangebots des Studiengangs\nveröffentlicht.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Der Fachbereich erstellt für den Bachelorstudiengang Informatik auf der Basis der Modulbeschreibungen und der Studi-\nenverlaufspläne ein kommentiertes Veranstaltungsverzeichnis mit einer inhaltlichen und organisatorischen Beschreibung des\nLehrangebots. Dieses ist für jedes Semester zu aktualisieren und soll in der letzten Vorlesungswoche des vorangegangenen\nSemesters in geeigneter Weise erscheinen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "17",
+            "title": "Studienberatung; Orientierungsveranstaltung (RO: § 19)",
+            "content": "15",
+            "points": [
+              {
+                "number": "1",
+                "content": "Die Studierenden haben die Möglichkeit, während des gesamten Studienverlaufs die Studienfachberatung für den\nBachelorstudiengang Informatik des Fachbereichs Informatik und Mathematik aufzusuchen. Die Studienfachberatung\nerfolgt durch von der Studiendekanin oder dem Studiendekan beauftragte Personen. Im Rahmen der Studienfachberatung\nerhalten die Studierenden Unterstützung insbesondere in Fragen der Studiengestaltung, der Studientechnik und der Wahl\nder Lehrveranstaltungen. Die Studienfachberatung sollte insbesondere in Anspruch genommen werden: zu Beginn des\nersten Semesters (siehe Abs. 3); bei Nichtbestehen von Prüfungen und bei gescheiterten Versuchen, erforderliche Leis-\ntungsnachweise zu erwerben; bei Schwierigkeiten in einzelnen Lehrveranstaltungen; bei Studiengangs- beziehungsweise\nHochschulwechsel.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Neben der Studienfachberatung steht den Studierenden die Zentrale Studienberatung der Goethe-Universität zur\nVerfügung. Sie unterrichtet als allgemeine Studienberatung über Studiermöglichkeiten, Inhalte, Aufbau und Anforderungen\neines Studiums und berät bei studienbezogenen persönlichen Schwierigkeiten.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Vor Beginn der Vorlesungszeit eines jeden Semesters, in dem Studierende ihr Studium aufnehmen können, findet eine\nOrientierungsveranstaltung statt, zu der die Studienanfängerinnen und Studienanfänger durch Aushang oder anderweitig\neingeladen werden. In dieser wird über die Struktur und den Gesamtaufbau des Studiengangs und über semesterspezifische\nBesonderheiten informiert. Den Studierenden wird Gelegenheit gegeben, insbesondere die Studienorganisation betreffende\nFragen zu klären.\n\n§ 18 Akademische Leitung und Modulbeauftragte (RO: § 20)",
+                "subpoints": []
+              },
+              {
+                "number": "1",
+                "content": "Die Aufgabe der akademischen Leitung des Bachelorstudiengangs Informatik nimmt die Studiendekanin oder der\nStudiendekan des Fachbereichs Informatik und Mathematik wahr, sofern sie nicht auf ihren oder seinen Vorschlag vom Fach-\nbereichsrat auf ein im Bachelorstudiengang prüfungsberechtigtes Mitglied der Professorengruppe für die Dauer von 2 Jahren\nübertragen wird. Die akademische Leiterin oder der akademische Leiter ist beratendes Mitglied in der Studienkommission\nund hat insbesondere folgende Aufgaben: Koordination des Lehr- und Prüfungsangebots des Studiengangs im Zusammen-\nwirken mit den Modulbeauftragten, gegebenenfalls auch aus anderen Fachbereichen; Erstellung und Aktualisierung von\nPrüferlisten; Evaluation des Studiengangs und Umsetzung der gegebenenfalls daraus entwickelten qualitätssichernden\nMaßnahmen in Zusammenarbeit mit der Studienkommission (vgl. hierzu § 6 Evaluationssatzung für Lehre und Studium);\nggf. Bestellung der Modulbeauftragten (Abs. 2 bleibt unberührt).",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Für jedes Modul ernennt die akademische Leitung des Studiengangs aus dem Kreis der Lehrenden des Moduls eine\nModulbeauftragte oder einen Modulbeauftragten. Für fachbereichsübergreifende Module wird die oder der Modulbeauftragte\nim Zusammenwirken mit der Studiendekanin oder dem Studiendekan des anderen Fachbereichs ernannt. Die oder der\nModulbeauftragte muss Professorin oder Professor oder ein auf Dauer beschäftigtes wissenschaftliches Mitglied der\nLehreinheit sein. Sie oder er ist für alle, das Modul betreffenden, inhaltlichen Abstimmungen und die ihr oder ihm durch\ndiese Ordnung zugewiesenen organisatorischen Aufgaben, insbesondere für die Mitwirkung bei der Organisation der\nModulprüfung, zuständig. Die oder der Modulbeauftragte wird durch die akademische Leitung des Studiengangs vertreten.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "title": "Prüfungsorganisation",
+        "paragraphs": [
+          {
+            "number": "19",
+            "title": "Prüfungsausschuss; Prüfungsamt (RO: § 21)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Der Fachbereichsrat bildet für die Studiengänge Bachelor Informatik und Master Informatik einen gemeinsamen\nPrüfungsausschuss.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Dem Prüfungsausschuss gehören sieben Mitglieder an, darunter vier Mitglieder der Gruppe der Professorenschaft, eine\nwissenschaftliche Mitarbeiterin oder ein wissenschaftlicher Mitarbeiter und zwei Studierende.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Die Mitglieder des Prüfungsausschusses werden nebst einer Stellvertreterin oder einem Stellvertreter auf Vorschlag der\njeweiligen Gruppen vom Fachbereichsrat des Fachbereichs gewählt. Die Amtszeit der Studierenden beträgt ein Jahr, die der\nanderen Mitglieder zwei Jahre. Wiederwahl ist zulässig.\n16",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Bei Angelegenheiten, die ein Mitglied des Prüfungsausschusses betreffen, ruht dessen Mitgliedschaft in Bezug auf\ndiese Angelegenheit und wird durch die Stellvertreterin oder den Stellvertreter wahrgenommen. Dies gilt nicht bei rein\norganisatorischen Sachverhalten.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Der Prüfungsausschuss wählt eine Vorsitzende oder einen Vorsitzenden aus der Mitte der ihm angehörenden Professo-\nrinnen und Professoren. Die stellvertretende Vorsitzende oder der stellvertretende Vorsitzende wird aus der Mitte der dem\nPrüfungsausschuss angehörenden Professorinnen und Professoren oder ihrer Stellvertreterinnen und Stellvertreter gewählt.\nDie beziehungsweise der Vorsitzende führt die Geschäfte des Prüfungsausschusses. Sie oder er lädt zu den Sitzungen des\nPrüfungsausschusses ein und führt bei allen Beratungen und Beschlussfassungen den Vorsitz. In der Regel soll in jedem\nSemester mindestens eine Sitzung des Prüfungsausschusses stattfinden. Eine Sitzung ist einzuberufen, wenn dies mindestens\nzwei Mitglieder des Prüfungsausschusses fordern.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Der Prüfungsausschuss tagt nicht öffentlich. Er ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder, darunter\ndie oder der Vorsitzende oder die oder der stellvertretende Vorsitzende, anwesend sind und die Stimmenmehrheit der Profes-\nsorinnen und Professoren gewährleistet ist. Für Beschlüsse ist die Zustimmung der Mehrheit der Anwesenden erforderlich.\nBei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Die Beschlüsse des Prüfungsausschusses sind zu\nprotokollieren. Im Übrigen richtet sich das Verfahren nach der Geschäftsordnung für die Gremien der Goethe-Universität.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Der Prüfungsausschuss kann einzelne Aufgaben seiner oder seinem Vorsitzenden zur alleinigen Durchführung und\nEntscheidung übertragen. Gegen deren oder dessen Entscheidungen haben die Mitglieder des Prüfungsausschusses und\nder betroffene Prüfling ein Einspruchsrecht. Die oder der Vorsitzende des Prüfungsausschusses kann die Durchführung\nvon Aufgaben an das Prüfungsamt delegieren. Dieses ist Geschäftsstelle des Prüfungsausschusses. Es führt die laufenden\nGeschäfte nach Weisung des Prüfungsausschusses und dessen Vorsitzender oder Vorsitzenden.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Die Mitglieder des Prüfungsausschusses und deren Stellvertreterinnen und Stellvertreter unterliegen der Amtsver-\nschwiegenheit. Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch die Vorsitzende oder den Vorsitzenden zur\nVerschwiegenheit zu verpflichten; sie bestätigen diese Verpflichtung durch ihre Unterschrift, die zu den Akten genommen\nwird.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Die Mitglieder des Prüfungsausschusses haben das Recht, an den mündlichen Prüfungen als Zuhörerinnen und Zuhörer\nteilzunehmen.",
+                "subpoints": []
+              },
+              {
+                "number": "10",
+                "content": "Der Prüfungsausschuss kann Anordnungen, Festsetzungen von Terminen und andere Entscheidungen unter Beachtung\ndatenschutzrechtlicher Bestimmungen mit rechtlich verbindlicher Wirkung durch Aushang am Prüfungsamt oder andere\nnach § 41 Hessisches Verwaltungsverfahrensgesetz geeignete Maßnahmen bekannt machen.",
+                "subpoints": []
+              },
+              {
+                "number": "11",
+                "content": "Belastende Entscheidungen des Prüfungsausschusses oder der oder des Vorsitzenden des Prüfungsausschusses sind\nder oder dem Studierenden unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu\nversehen. Der oder dem Studierenden ist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben.\n\n§ 20 Aufgaben des Prüfungsausschusses (RO: § 22)",
+                "subpoints": []
+              },
+              {
+                "number": "1",
+                "content": "Der Prüfungsausschuss und das für den Bachelorstudiengang Informatik zuständige Prüfungsamt sind für die Orga-\nnisation und die ordnungsgemäße Durchführung der Prüfungen im Bachelorstudiengang Informatik verantwortlich. Der\nPrüfungsausschuss achtet darauf, dass die Bestimmungen dieser Ordnung eingehalten werden und entscheidet bei Zweifeln\nzu Auslegungsfragen dieser Ordnung. Er entscheidet in allen Prüfungsangelegenheiten, die nicht durch Ordnung oder\nSatzung einem anderen Organ oder Gremium oder der oder dem Vorsitzenden des Prüfungsausschusses übertragen sind.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Dem Prüfungsausschuss obliegen in der Regel insbesondere folgende Aufgaben:\n\n• Festlegung der Prüfungstermine, -zeiträume und Melde- und Rücktrittsfristen für die Prüfungen und deren Bekanntga-\nbe; ggf. Bestellung der Prüferinnen und Prüfer;\n• Entscheidungen zur Prüfungszulassung;\n• die Entscheidung über die Anrechnungen gemäß §§ § 29, § 30 sowie die Erteilung von Auflagen zu nachzuholenden\nStudien- und Prüfungsleistungen im Rahmen von Anrechnungen;\n• die Berechnung und Bekanntgabe der Noten von Prüfungen sowie der Gesamtnote für den Bachelorabschluss;\n• die Entscheidungen zur Bachelorarbeit;\n17\n\n• die Entscheidungen zum Bestehen und Nichtbestehen;\n• die Entscheidungen über einen Nachteilsausgleich und über die Verlängerung von Prüfungs- beziehungsweise Bearbei-\ntungsfristen;\n• die Entscheidungen über Verstöße gegen Prüfungsvorschriften;\n• die Entscheidungen zur Ungültigkeit des Bachelorabschlusses;\n• Entscheidungen über Einsprüche sowie über Widersprüche der Studierenden zu in Prüfungsverfahren getroffenen\nEntscheidungen, soweit diesen stattgegeben werden soll;\n• eine regelmäßige Berichterstattung in der Studienkommission über die Entwicklung der Prüfungs- und Studienzeiten\neinschließlich der Bearbeitungszeiten für die Bachelorarbeit sowie über die Nachfrage der Studierenden nach den\nverschiedenen Wahlpflichtmodulen;\n• das Offenlegen der Verteilung der Fach- und Gesamtnoten;\n• Anregungen zur Reform dieser Ordnung.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Zum Zwecke der Überprüfung der Einhaltung guter wissenschaftlicher Praxis ist der Prüfungsausschuss berechtigt,\nwissenschaftliche Arbeiten auch mit Hilfe geeigneter elektronischer Mittel auf Täuschungen und Täuschungsversuche zu\nüberprüfen. Hierzu kann er verlangen, dass ihm innerhalb einer angemessenen Frist die Prüfungsarbeiten in elektronischer\nFassung vorgelegt werden. Kommt die Verfasserin oder der Verfasser dieser Aufforderung nicht nach, kann die Arbeit als\nnicht bestanden gewertet werden.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "title": "Prüfungsvoraussetzungen und -verfahren",
+        "paragraphs": [
+          {
+            "number": "22",
+            "title": "Erstmeldung und Zulassung zu den Bachelorprüfungen (RO: § 24)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Spätestens mit der Meldung zur ersten Modulprüfung im Bachelorstudiengang Informatik hat die oder der Studierende\nein vollständig ausgefülltes Anmeldeformular für die Zulassung zur Bachelorprüfung beim Prüfungsamt für den Bache-\nlorstudiengang Informatik einzureichen. Sofern nicht bereits mit dem Zulassungsantrag zum Studium erfolgt, sind der\nMeldung zur Prüfung insbesondere beizufügen:\n\n• eine Erklärung darüber, ob die Studierende oder der Studierende bereits eine Zwischenprüfung, eine Diplom-\nVorprüfung, eine Bachelorprüfung, eine Masterprüfung, eine Magisterprüfung, eine Diplomprüfung oder eine staatliche\nAbschlussprüfung im Fach Informatik oder in einem vergleichbaren Studiengang (Studiengang mit einer überwiegend\ngleichen fachlichen Ausrichtung) an einer Hochschule endgültig nicht bestanden hat oder ob sie oder er sich gegenwär-\ntig in dem Fach Informatik oder einem vergleichbaren Studiengang in einem nicht abgeschlossenen Prüfungsverfahren\nan einer Hochschule in Deutschland oder im Ausland befindet;\n• eine Erklärung darüber, ob und gegebenenfalls wie oft die oder der Studierende bereits Modulprüfungen im Bachelor-\nstudiengang Informatik oder in denselben Modulen eines anderen Studiengangs an einer Hochschule in Deutschland\noder im Ausland nicht bestanden hat;\n• gegebenenfalls Nachweise über bereits erbrachte Studien- oder Prüfungsleistungen, die in den Studiengang eingebracht\nwerden sollen;",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Der Prüfungsausschuss kann in Ausnahmefällen, insbesondere in Fällen des Studienortwechsels, des Fachrichtungs-\nwechsels oder der Wiederaufnahme des Studiums auf Antrag von der Immatrikulationspflicht zu einzelnen Modulprüfungen\nbefreien.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Über die Zulassung entscheidet die oder der Vorsitzende des Prüfungsausschusses, in Zweifelsfällen der Prüfungsaus-\nschuss, gegebenenfalls nach Anhörung einer Fachvertreterin oder eines Fachvertreters. Die Zulassung wird abgelehnt, wenn\ndie Unterlagen unvollständig sind oder die in Abs. 1 genannten Zulassungsvoraussetzungen nicht erfüllt sind oder die oder\nder Studierende den Prüfungsanspruch für ein Modul nach Abs. 1 oder für den jeweiligen Studiengang endgültig verloren\nhat oder eine der in Abs. 1 genannten Prüfungen endgültig nicht bestanden hat.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Über Ausnahmen von Abs. 1 und 3 in besonderen Fällen entscheidet auf Antrag der oder des Studierenden der\nPrüfungsausschuss.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Eine Ablehnung der Zulassung wird der oder dem Studierenden von der oder dem Vorsitzenden des Prüfungsausschusses\nschriftlich mitgeteilt. Sie ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "23",
+            "title": "Prüfungszeitpunkt und Meldeverfahren (RO: § 25)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Modulprüfungen werden im zeitlichen und sachlichen Zusammenhang mit den entsprechenden Modulen abgelegt.\nModulprüfungen für Pflichtmodule und jährlich angesetzte Wahlpflichtmodule sind in der Regel mindestens zweimal pro\nJahr anzubieten.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die modulabschließenden mündlichen Prüfungen und Klausurarbeiten sollen innerhalb von durch den Prüfungsaus-\nschuss festzulegenden Prüfungszeiträumen durchgeführt werden. Die Prüfungszeiträume sind in der Regel die ersten beiden\nund die letzten beiden Wochen der vorlesungsfreien Zeit. Der Prüfungsausschuss bestimmt die genauen Termine für die\nWiederholungen von Klausuren und gibt diese rechtzeitig bekannt. Die erste Wiederholungsprüfung soll am Ende des\nentsprechenden Semesters, spätestens jedoch zu Beginn des folgenden Semesters durchgeführt werden.\n19",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Die exakten Prüfungstermine für die Modulprüfungen werden durch den Prüfungsausschuss im Einvernehmen mit\nden Prüfenden festgelegt. Das Prüfungsamt gibt den Studierenden in einem Prüfungsplan möglichst frühzeitig, spätestens\naber vier Wochen vor den Prüfungsterminen, Zeit und Ort der Prüfungen sowie die Namen der beteiligten Prüferinnen\nund Prüfer durch Aushang oder andere geeignete Maßnahmen bekannt. Muss aus zwingenden Gründen von diesem\nPrüfungsplan abgewichen werden, so ist die Neufestsetzung des Termins nur mit Genehmigung der oder des Vorsitzenden\ndes Prüfungsausschusses möglich.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Der Prüfungsausschuss setzt für die Modulprüfungen Meldefristen fest, die spätestens vier Wochen vor dem Beginn der\nMeldefristen durch Aushang oder andere geeignete Maßnahmen bekannt gegeben werden müssen. Der Prüfungsausschuss\nkann weitere Melde- und Rücktrittsfristen setzen, insbesondere zu Praktika und Seminaren.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Zu jeder Modulprüfung hat sich die oder der Studierende innerhalb der Meldefrist schriftlich beim Prüfungsamt\noder, nach Festlegung durch den Prüfungsausschuss, elektronisch anzumelden. Die Anmeldung zu einer Klausur oder\nmündlichen Prüfung hat spätestens zwei Wochen vor dem festgelegten Prüfungstermin zu erfolgen. Ein Rücktritt ist bis\nzu 7 Tage vor dem Termin ohne Angabe von Gründen möglich. Werden in der vorlesungsfreien Zeit zwei Klausuren\nals Modulabschlussprüfungen zu einem Modul angeboten, ist eine Anmeldung bis zu sieben Tage vor dem Termin der\nzweiten Klausur möglich. In diesem Fall ist ein Rücktritt bis zu drei Tage vor dem Termin der zweiten Klausur ohne\nAngabe von Gründen möglich. Über eine Nachfrist für die Meldung zu einer Modulprüfung in begründeten Ausnahmefällen\nentscheidet die oder der Vorsitzende des Prüfungsausschusses auf Antrag der oder des Studierenden. § 24 Abs. 2 Satz 3 gilt\nentsprechend.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Die Anmeldung zu einer Prüfungsleistung bei einem Seminar oder zu einer Studienleistung bei einem Praktikum\nerfolgt spätestens bis zum Ende der zweiten Woche nach Vorlesungsbeginn beim Veranstalter oder nach Festlegung durch\nden Prüfungsausschuss in elektronischer Form. Diese Anmeldung zu einer Prüfungsleistung oder Studienleistung gilt\ngleichzeitig als Anmeldung zur Teilnahme an der Lehrveranstaltung. Ein Rücktritt von der Prüfungsleistung bei einem\nSeminar ist möglich bis zum Beginn der ersten Veranstaltung des Seminars. Ein Rücktritt von der Studienleistung bei\neinem Praktikum ist möglich bis zu 2 Wochen nach Beginn der ersten Veranstaltung. Über Ausnahmen in triftigen Fällen\nentscheidet die oder der Vorsitzende des Prüfungsausschusses. Die Anmeldung zu einem Forschungsprojekt ist zeitlich\nnicht eingeschränkt. Ein Rücktritt von einem Forschungsprojekt ist jederzeit durch schriftliche Erklärung beim Prüfungsamt\nmöglich.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Die oder der Studierende kann sich zu einer Modulprüfung nur anmelden beziehungsweise die Modulprüfung nur\nablegen, sofern sie oder er an der Goethe-Universität immatrikuliert ist. § 22 Abs. 2 bleibt unberührt. Für die Anmeldung\nder betreffenden Modulprüfung muss die oder der Studierende zur Bachelorprüfung zugelassen sein und sie oder er\ndarf die entsprechende Modulprüfung noch nicht endgültig nicht bestanden haben. Weiterhin muss sie oder er die nach\nMaßgabe der Modulbeschreibung für das Modul erforderlichen Leistungsnachweise erbracht haben. Das Modul ist erst dann\nbestanden, wenn sämtliche Studienleistungen sowie die Modulprüfungen bestanden sind. Über Ausnahmen entscheidet der\nPrüfungsausschuss. Beurlaubte Studierende können keine Prüfungen ablegen oder Leistungsnachweise erwerben. Zulässig\nist aber die Wiederholung nicht bestandener Prüfungen während der Beurlaubung. Studierende sind auch berechtigt, Studien-\nund Prüfungsleistungen während einer Beurlaubung zu erbringen, wenn die Beurlaubung wegen Mutterschutz oder wegen\nder Inanspruchnahme von Elternzeit oder wegen der Pflege von nach ärztlichem Zeugnis pflegebedürftigen Angehörigen\noder wegen der Erfüllung einer Dienstpflicht nach Art. 12 a des Grundgesetzes oder wegen der Mitwirkung als ernannte\noder gewählte Vertreterin oder ernannter oder gewählter Vertreter in der akademischen Selbstverwaltung erfolgt ist.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Die oder der Studierende kann innerhalb der festgelegten Fristen die Prüfungsanmeldung ohne Angabe von Gründen\nzurückziehen. Bei einem späteren Rücktritt gilt § 24 Abs. 1. Ein Rücktritt von einer pflichtangemeldeten Klausur ist nicht\nmöglich.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Die Anmeldung zum Anwendungsfach entsprechend Anlage 6 hat beim Prüfungsamt des Instituts für Informatik zu\nerfolgen. Prüfungsleistungen zu Anwendungsfächern sind nur im gewählten Anwendungsfach möglich. Ein Anwendungfach\nkann nicht gewählt werden, wenn der Bachelorstudiengang in diesem Anwendungsfach endgültig nicht bestanden wurde\noder wenn der Prüfungsanspruch endgültig verloren ist.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "24",
+            "title": "Versäumnis und Rücktritt von Modulprüfungen (RO: § 26)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Eine Modulprüfungsleistung gilt als „nicht ausreichend“ (5,0) gemäß § 36 Abs. 3, wenn die oder der Studierende\neinen für sie oder ihn verbindlichen Prüfungstermin ohne wichtigen Grund versäumt oder vor Beendigung der Prüfung die\n20\n\nTeilnahme abgebrochen hat. Dasselbe gilt, wenn sie oder er eine schriftliche Modulprüfungsleistung nicht innerhalb der\nvorgegebenen Bearbeitungszeit erbracht oder als Modulprüfungsleistung in einer schriftlichen Aufsichtsarbeit ein leeres\nBlatt abgegeben oder in einer mündlichen Prüfung geschwiegen hat.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Der für das Versäumnis oder den Abbruch der Prüfung geltend gemachte Grund muss der Vorsitzenden oder dem\nVorsitzenden des Prüfungsausschusses unverzüglich nach Bekanntwerden des Grundes schriftlich angezeigt und glaubhaft\ngemacht werden. Eine während der Erbringung einer Prüfungsleistung eintretende Prüfungsunfähigkeit muss unverzüglich\nbei der Prüferin oder dem Prüfer oder der Prüfungsaufsicht geltend gemacht werden. Die Verpflichtung zur unverzüglichen\nAnzeige und Glaubhaftmachung der Gründe gegenüber dem Prüfungsausschuss bleibt hiervon unberührt. Im Krankheitsfall\nist unverzüglich, jedenfalls innerhalb von drei Werktagen, ein ärztliches Attest und eine Bescheinigung über die Prüfungs-\nunfähigkeit durch den Haus-/Facharzt vorzulegen, aus der hervorgeht, für welche Art von Prüfung (schriftliche Prüfung,\nmündliche Prüfung, länger andauernde Prüfungen, andere Prüfungsformen) aus medizinischer Sicht die Prüfungsunfähig-\nkeit für den betreffenden Prüfungstermin besteht. Der oder die Vorsitzende des Prüfungsausschusses entscheidet auf der\nGrundlage des in Anlage 11 der Rahmenordnung beigefügten Formulars über die Prüfungsunfähigkeit. Bei begründeten\nZweifeln ist zusätzlich ein amtsärztliches Attest vorzulegen.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Die Krankheit eines, von der oder dem Studierenden zu versorgenden Kindes, das das 14. Lebensjahr noch nicht\nvollendet hat, oder eines pflegebedürftigen nahen Angehörigen (Kinder, Eltern, Großeltern, Ehe- oder Lebenspartner) steht\neigener Krankheit gleich. Als wichtiger Grund gilt auch die Inanspruchnahme von Mutterschutz.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Über die Anerkennung des Säumnis- oder Rücktrittsgrundes entscheidet die oder der Vorsitzende des Prüfungsaus-\nschusses. Der Prüfungsausschuss regelt die Frist in der bei Anerkennung des Grundes die nächste Prüfung angesetzt\nwird.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Bei anerkanntem Rücktritt oder Versäumnis bleiben die Prüfungsergebnisse in bereits abgelegten Teilen des Moduls\nbestehen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "25",
+            "title": "Studien- und Prüfungsleistungen bei Krankheit und Behinderung; besondere Lebenslagen (RO:\n§ 27)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "In Veranstaltungen und Prüfungen ist Rücksicht zu nehmen auf Art und Schwere einer Behinderung oder einer\nchronischen Erkrankung der oder des Studierenden oder auf Belastungen durch Schwangerschaft oder die Erziehung von\nKindern oder die Betreuung von pflegebedürftigen nahen Angehörigen.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Art und Schwere der Belastung ist durch die oder den Studierenden rechtzeitig gegenüber der oder dem Vorsitzenden\ndes Prüfungsausschusses durch Vorlage geeigneter Unterlagen, bei Krankheit durch Vorlage eines ärztlichen Attestes,\nnachzuweisen. In Zweifelsfällen kann auch ein amtsärztliches Attest verlangt werden.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Macht die oder der Studierende glaubhaft, dass sie oder er wegen einer Behinderung, einer chronischen Erkrankung,\nder Betreuung einer oder eines pflegebedürftigen nahen Angehörigen, einer Schwangerschaft oder der Erziehung eines\nKindes, welches das 14. Lebensjahr noch nicht vollendet hat, nicht in der Lage ist, die Prüfungs- oder Studienleistung\nganz oder teilweise in der vorgesehenen Form abzulegen, so ist dieser Nachteil durch entsprechende Maßnahmen, wie zum\nBeispiel eine Verlängerung der Bearbeitungszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen. Die\nInanspruchnahme der gesetzlichen Mutterschutzfristen und der Fristen der Elternzeit ist bei entsprechendem Nachweis zu\nermöglichen.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Entscheidungen über den Nachteilsausgleich bei der Erbringung von Prüfungsleistungen trifft die oder der Vorsitzende\ndes Prüfungsausschusses, bei Studienleistungen die oder der Vorsitzende des Prüfungsausschusses im Einvernehmen mit\nder oder dem Veranstaltungsverantwortlichen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "26",
+            "title": "Verpflichtende Studienfachberatung; zeitliche Vorgaben für das Ablegen der Prüfungen (RO: § 28)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Studierende, welche nach Abschluss des ersten Semesters kein Basismodul bestanden haben, werden durch das\nPrüfungsamt aufgefordert, die Studienfachberatung aufzusuchen. Nach diesem Gespräch können Fristen gesetzt oder\n21\n\nAuflagen erteilt werden. Studierende, die das Beratungsgespräch ohne Angabe von Gründen nicht wahrnehmen und sich\nnicht zur Bachelorprüfung angemeldet haben, verlieren den Prüfungsanspruch im Bachelorstudiengang Informatik an der\nGoethe-Universität Frankfurt am Main. Bis zum Beginn des dritten Fachsemesters müssen zwei Basismodule bestanden sein.\nBei Studierenden im Teilzeitstudium verlängert sich die Frist entsprechend, wobei Semester im Teilzeitstudium als halbe\nFachsemester gezählt werden. Wird die geforderte Anzahl von bestandenen Basismodulen nicht innerhalb der Abschlussfrist\nnach Satz 4 erreicht und liegen die Voraussetzungen für eine Fristverlängerung gemäß Abs. 2 nicht vor, führt dies zum\nVerlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die für die Erreichung der geforderten Anzahl an bestandenen Basismodulen nach Abs. 1 gesetzte Frist ist auf Antrag\nder oder des Studierenden zu verlängern, wenn die Verzögerung von der Goethe-Universität zu vertreten ist oder die oder\nder Studierende infolge schwerwiegender Umstände nicht in der Lage war, die Frist einzuhalten. Bei der Einhaltung von\nFristen werden Verlängerungen und Unterbrechungen von Studienzeiten nicht berücksichtigt, soweit sie durch genehmigte\nUrlaubssemester; durch Mitwirkung als ernannte oder gewählte Vertreterin oder ernannter oder gewählter Vertreter in der\nakademischen oder studentischen Selbstverwaltung; durch Krankheit, eine Behinderung oder chronische Erkrankung oder\naus einem anderen von der oder dem Studierenden nicht zu vertretenden Grund; durch Mutterschutz oder Elternzeit; durch die\nnotwendige Betreuung eines Kindes bis zum vollendeten 14. Lebensjahr oder der Pflege einer oder eines nahen Angehörigen\n(Eltern, Großeltern, Ehe- und Lebenspartner) mit Zuordnung zu einer Pflegestufe nach § 15 Abs. 1 des Elften Buches\nSozialgesetzbuch; durch Angehörigkeit zu einem A-, B-, C- oder D/C-Kader der Spitzensportverbände bedingt waren. Es sind\nmindestens die Inanspruchnahme der Fristen entsprechend § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes (MuSchG)\nund die Regelungen zur Elternzeit in §§ § 15 und § 16 des Bundeselterngeld- und Elternzeitgesetzes (BEEG) entsprechend\nzu berücksichtigen. Ferner bleibt ein ordnungsgemäßes Auslandsstudium von bis zu zwei Semestern unberücksichtigt.\nDer Antrag soll zu dem Zeitpunkt gestellt werden, an dem die oder der Studierende erkennt, dass eine Fristverlängerung\nerforderlich wird. Der Antrag ist grundsätzlich vor Ablauf der Frist zu stellen. Die Pflicht zur Erbringung der Nachweise\nobliegt der oder dem Studierenden; sie sind zusammen mit dem Antrag einzureichen. Bei Krankheit ist ein ärztliches Attest\nvorzulegen. § 24 Abs. 2 gilt entsprechend. In Zweifelsfällen kann ein amtsärztliches Attest verlangt werden. Über den\nAntrag auf Verlängerung der Frist entscheidet der Prüfungsausschuss.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "27",
+            "title": "Täuschung und Ordnungsverstoß (RO: § 29)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Versucht die oder der Studierende das Ergebnis ihrer oder seiner Prüfungs- oder Studienleistung durch Täuschung\noder durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die Prüfungs- oder Studienleistung mit „nicht\nausreichend“ (5,0) gewertet. Der Versuch einer Täuschung liegt insbesondere auch dann vor, wenn die oder der Studierende\nnicht zugelassene Hilfsmittel in den Prüfungsraum mitführt oder eine falsche Erklärung nach §§ § 15 Abs. 7, § 31 Abs. 7,\n§ 34 Abs. 5, § 35 Abs. 16 abgegeben hat oder wenn sie oder er ein und dieselbe Arbeit (oder Teile davon) mehr als einmal\nals Prüfungs- oder Studienleistung eingereicht hat.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Eine Studierende oder ein Studierender, die oder der aktiv an einem Täuschungsversuch mitwirkt, kann von der\njeweiligen Prüferin oder dem jeweiligen Prüfer beziehungsweise von der Aufsichtsführenden oder dem Aufsichtsführenden\nvon der Fortsetzung der jeweiligen Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungs- oder\nStudienleistung als mit „nicht ausreichend“ (5,0) gewertet.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Beim Vorliegen einer besonders schweren Täuschung, insbesondere bei wiederholter Täuschung oder einer Täuschung\nunter Beifügung einer schriftlichen Erklärung der oder des Studierenden über die selbstständige Anfertigung der Arbeit ohne\nunerlaubte Hilfsmittel, kann der Prüfungsausschuss den Ausschluss von der Wiederholung der Prüfung und der Erbringung\nweiterer Studienleistungen beschließen, so dass der Prüfungsanspruch im Bachelorstudiengang Informatik erlischt. Die\nSchwere der Täuschung ist anhand der von der Studierenden oder dem Studierenden aufgewandten Täuschungsenergie, wie\norganisiertes Zusammenwirken oder Verwendung technischer Hilfsmittel, wie Funkgeräte und Mobiltelefone und der durch\ndie Täuschung verursachten Beeinträchtigung der Chancengleichheit zu werten.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Eine Studierende oder ein Studierender, die oder der den ordnungsgemäßen Ablauf der Prüfung stört, kann von der\njeweiligen Prüferin oder dem jeweiligen Prüfer oder von der oder dem Aufsichtsführenden in der Regel nach einer Abmah-\nnung von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung\nals mit „nicht ausreichend“ (5,0) gewertet. Abs. 3 Satz 1 findet entsprechende Anwendung.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Hat eine Studierende oder ein Studierender durch schuldhaftes Verhalten die Teilnahme an einer Prüfung zu Unrecht\nherbeigeführt, kann der Prüfungsausschuss entscheiden, dass die betreffende Prüfungsleistung als nicht bestanden („nicht\nausreichend“ (5,0)) gilt.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Die oder der Studierende kann innerhalb einer Frist von vier Wochen schriftlich verlangen, dass Entscheidungen nach\nAbsätzen 1 bis 5 vom Prüfungsausschuss überprüft werden.\n22",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Belastende Entscheidungen des Prüfungsausschusses sind der oder dem Studierenden unverzüglich schriftlich mitzutei-\nlen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Für Hausarbeiten, schriftliche Referate und die Bachelorarbeit gelten die fachspezifisch festgelegten Zitierregeln für das\nAnfertigen wissenschaftlicher Arbeiten. Bei Nichtbeachtung ist ein Täuschungsversuch zu prüfen.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Um einen Verdacht wissenschaftlichen Fehlverhaltens überprüfen zu können, kann der Prüfungsausschuss beschließen,\ndass nicht unter Aufsicht zu erbringende schriftliche Prüfungs- und/oder Studienleistungen auch in elektronischer Form\neingereicht werden müssen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "28",
+            "title": "Mängel im Prüfungsverfahren (RO: § 30)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Erweist sich, dass das Verfahren einer mündlichen oder einer schriftlichen Prüfungsleistung mit Mängeln behaftet\nwar, die das Prüfungsergebnis beeinflusst haben, wird auf Antrag einer oder eines Studierenden oder von Amts wegen\ndurch den Prüfungsausschuss angeordnet, dass von einer oder einem bestimmten Studierenden die Prüfungsleistung\nwiederholt wird. Die Mängel müssen bei einer schriftlichen Prüfungsleistung noch während der Prüfungssituation gegenüber\nder Aufsicht und bei mündlichen Prüfungen unverzüglich nach der Prüfung bei der beziehungsweise dem Vorsitzenden\ndes Prüfungsausschusses beziehungsweise bei der Prüferin beziehungsweise dem Prüfer gerügt werden. Hält die oder\nder Studierende bei einer schriftlichen Prüfungsleistung die von der Aufsicht getroffenen Abhilfemaßnahmen nicht für\nausreichend, muss sie oder er die Rüge unverzüglich nach der Prüfung bei der beziehungsweise dem Vorsitzenden des\nPrüfungsausschusses geltend machen.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Sechs Monate nach Abschluss der Prüfungsleistung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr\ngetroffen werden.\n\n§ 29 Anerkennung und Anrechnung von Leistungen (RO: § 31)",
+                "subpoints": []
+              },
+              {
+                "number": "1",
+                "content": "Studienzeiten, Studienleistungen und Prüfungsleistungen werden ohne Gleichwertigkeitsprüfung angerechnet, wenn\nsie an einer Hochschule in Deutschland in dem gleichen Studiengang erbracht wurden, der Studiengang akkreditiert ist\nund bei den Modulen hinsichtlich der erreichten Qualifikationsziele keine wesentlichen Unterschiede bestehen. Kann\nder Prüfungsausschuss einen wesentlichen Unterschied nicht nachweisen, sind die Studienzeiten, Studienleistungen und\nPrüfungsleistungen anzurechnen.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Studienzeiten, Studienleistungen und Prüfungsleistungen aus anderen Studiengängen werden angerechnet, sofern\nkeine wesentlichen Unterschiede hinsichtlich der erworbenen Kompetenzen bestehen. Bei dieser Anrechnung ist kein\nschematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung von Inhalt, Umfang und Anforderungen\nder Studien- und Prüfungsleistungen unter besonderer Berücksichtigung der erreichten Qualifikationsziele vorzunehmen.\nDie Beweislast für die fehlende Gleichwertigkeit trägt der Prüfungsausschuss. Abs. 1 Satz 2 gilt entsprechend.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Abs. 2 findet entsprechende Anwendung für die Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleis-\ntungen in staatlich anerkannten Fernstudien, an anderen Bildungseinrichtungen, insbesondere an staatlichen oder staatlich\nanerkannten Berufsakademien, für multimedial gestützte Studien- und Prüfungsleistungen sowie für von Schülerinnen und\nSchülern auf der Grundlage von § 54 Abs. 5 HHG erbrachte Studien- und Prüfungsleistungen.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Für die Anrechnung von Leistungen, die an ausländischen Hochschulen erbracht wurden, gilt Abs. 2 ebenfalls entspre-\nchend. Bei der Anrechnung sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten\nÄquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaftsverträgen zu beachten. Soweit\nÄquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss. Bei Zweifeln an der Gleichwertigkeit ist die\nZentralstelle für ausländisches Bildungswesen zu hören.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Bei obligatorischem oder empfohlenem Auslandsstudium soll die oder der Studierende vor Beginn des Auslandsstudiums\nmit der oder dem Vorsitzenden des Prüfungsausschusses oder einer oder einem hierzu Beauftragten ein Gespräch über die\nAnerkennungsfähigkeit von Studien- und Prüfungsleistungen führen.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Abschlussarbeiten (z.B. Bachelorarbeiten, Staatsexamensarbeiten), welche Studierende außerhalb des Bachelorstudien-\n23\n\ngangs Informatik der Goethe-Universität bereits erfolgreich erbracht haben, werden nicht angerechnet. Weiterhin ist eine\nmehrfache Anrechnung ein- und derselben Leistung im Bachelorstudiengang Informatik nicht möglich.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Werden Prüfungsleistungen angerechnet, sind die Noten – soweit die Notensysteme vergleichbar sind – zu übernehmen\nund in die Berechnung der Gesamtnote einzubeziehen. Bei unvergleichbaren Notensystemen wird der Vermerk „bestanden“\naufgenommen. Angerechnete Leistungen werden in der Regel mit Angabe der Hochschule, in der sie erworben wurden, im\nAbschlussdokument gekennzeichnet.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Der Antrag auf Anrechnung von Leistungen, die im Vorfeld des Bachelorstudiums erbracht wurden, soll möglichst\nmit dem Antrag auf Zulassung erfolgen. Die Antragstellerin oder der Antragsteller legt dem Prüfungsausschuss alle für\ndie Anrechnung beziehungsweise Anerkennung erforderlichen Unterlagen vor, aus denen die Bewertung, die CP und die\nZeitpunkte sämtlicher Prüfungsleistungen hervorgehen, denen sie oder er sich in einem anderen Studiengang oder an anderen\nHochschulen bisher unterzogen hat. Aus den Unterlagen muss sich auch ergeben, welche Prüfungen und Studienleistungen\nnicht bestanden oder wiederholt wurden. Der Prüfungsausschuss kann die Vorlage weiterer Unterlagen, wie die rechtlich\nverbindlichen Modulbeschreibungen der anzuerkennenden Module, verlangen.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Fehlversuche in anderen Studiengängen oder in Studiengängen an anderen Hochschulen werden angerechnet, sofern sie\nim Falle ihres Bestehens angerechnet worden wären.",
+                "subpoints": []
+              },
+              {
+                "number": "10",
+                "content": "Die Anrechnung und Anerkennung von Prüfungsleistungen, die vor mehr als fünf Jahren erbracht wurden, kann in\nEinzelfällen abgelehnt werden; die Entscheidung kann mit der Erteilung von Auflagen verbunden werden. Bei Vorliegen der\nVoraussetzungen der Absätze 1 bis 4 i.V. mit Abs. 8 besteht ein Rechtsanspruch auf Anrechnung. Satz 1 und die Absätze 6\nund 9 bleiben unberührt.",
+                "subpoints": []
+              },
+              {
+                "number": "11",
+                "content": "Entscheidungen mit Allgemeingültigkeit zu Fragen der Anrechnung trifft der Prüfungsausschuss; die Anrechnung\nim Einzelfall erfolgt durch dessen Vorsitzende oder dessen Vorsitzenden, falls erforderlich unter Heranziehung einer\nFachprüferin oder eines Fachprüfers. Unter Berücksichtigung der Anrechnung setzt sie oder er ein Fachsemester fest.",
+                "subpoints": []
+              },
+              {
+                "number": "12",
+                "content": "Soweit Anrechnungen von Studien- oder Prüfungsleistungen erfolgen, die nicht mit CP versehen sind, sind entspre-\nchende Äquivalente zu errechnen und auf dem Studienkonto entsprechend zu vermerken.",
+                "subpoints": []
+              },
+              {
+                "number": "13",
+                "content": "Sofern Anrechnungen vorgenommen werden, können diese mit Auflagen zu nachzuholenden Studien- oder Prüfungs-\nleistungen verbunden werden. Auflagen und eventuelle Fristen zur Auflagenerfüllung sind der Antragstellerin oder dem\nAntragsteller schriftlich mitzuteilen. Die Mitteilung ist mit einer Rechtsbehelfsbelehrung zu versehen.\n\n§ 30 Anrechnung von außerhalb einer Hochschule erworbenen Kompetenzen (RO: § 32)\n\nFür Kenntnisse und Fähigkeiten, die vor Studienbeginn oder während des Studiums außerhalb einer Hochschule erworben\nwurden und die in Niveau und Lernergebnis Modulen des Studiums äquivalent sind, können die CP der entsprechenden\nModule auf Antrag angerechnet werden. Die Anrechnung erfolgt individuell durch den Prüfungsausschuss auf Vorschlag der\noder des Modulverantwortlichen. Voraussetzung sind schriftliche Nachweise (z.B. Zeugnisse, Zertifikate) über den Umfang,\nInhalt und die erbrachten Leistungen. Insgesamt dürfen nicht mehr als 50 % der im Studiengang erforderlichen CP durch\nAnrechnung ersetzt werden. Die Anrechnung der CP erfolgt ohne Note. Dies wird im Zeugnis entsprechend ausgewiesen.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "VI",
+        "title": "Durchführungen der Modulprüfungen",
+        "paragraphs": [
+          {
+            "number": "31",
+            "title": "Modulprüfungen (RO: § 33)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Modulprüfungen werden studienbegleitend erbracht. Mit ihnen wird das jeweilige Modul abgeschlossen. Sie sind\nPrüfungsereignisse, welche begrenzt wiederholbar sind und in der Regel mit Noten bewertet werden.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Module schließen mit einer einzigen Modulprüfung ab, welche auch im zeitlichen Zusammenhang zu einer der\nLehrveranstaltungen des Moduls durchgeführt werden kann (veranstaltungsbezogene Modulprüfung).\n\n24",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Durch die Modulprüfung soll die oder der Studierende nachweisen, dass sie oder er die Inhalte und Methoden des\nModuls in den wesentlichen Zusammenhängen beherrscht und die erworbenen Kenntnisse und Fähigkeiten anwenden\nkann. Gegenstand der Modulprüfungen sind grundsätzlich die in den Modulbeschreibungen festgelegten Inhalte der\nLehrveranstaltungen des jeweiligen Moduls. Bei veranstaltungsbezogenen Modulprüfungen werden die übergeordneten\nQualifikationsziele des Moduls mit geprüft.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Die jeweilige Prüfungsform für die Modulprüfung ergibt sich aus der Modulbeschreibung. Schriftliche Prüfungen\nerfolgen in der Form von:\n\n• Klausuren;\n• Hausarbeiten;\n• schriftlichen Ausarbeitungen (z.B. Essays, schriftliche Referate);\n• Protokollen;\n• Berichten;\n\nMündliche Prüfungen erfolgen in der Form von\n\n• Einzelprüfungen;\n• Gruppenprüfungen;\n• Fachgesprächen;\n\nWeitere Prüfungsformen sind:\n\n• Seminarvorträge;\n• Referate;\n• Präsentationen;",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Die Form und Dauer der Modulprüfungen sind in den Modulbeschreibungen geregelt. Sind in der Modulbeschreibung\nmehrere Varianten von Prüfungsformen vorgesehen, wird die Prüfungsform des jeweiligen Prüfungstermins von der oder\ndem Prüfenden festgelegt und den Studierenden zu Beginn der Lehrveranstaltungen des Moduls, spätestens aber bei der\nBekanntgabe des Prüfungstermins, mitgeteilt.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Prüfungssprache ist Deutsch. Einzelne schriftliche oder mündliche Prüfungen können im gegenseitigen Einvernehmen\naller an der Prüfung Beteiligten in einer Fremdsprache abgenommen werden. Näheres regelt die Modulbeschreibung.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Ohne Aufsicht angefertigte schriftliche Arbeiten (beispielsweise Hausarbeiten) sind von der oder dem Studierenden\nnach den Regeln guter wissenschaftlicher Praxis anzufertigen. Die oder der Studierende hat bei der Abgabe der Arbeit\nschriftlich zu versichern, dass sie oder er diese selbstständig verfasst und alle von ihr oder ihm benutzten Quellen und\nHilfsmittel in der Arbeit angegeben hat. Ferner ist zu erklären, dass die Arbeit noch nicht – auch nicht auszugsweise – in\neinem anderen Studiengang als Studien- oder Prüfungsleistung verwendet wurde.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Teilnehmerinnen und Teilnehmer an Modulprüfungen müssen sich durch Vorlage eines amtlichen Lichtbildausweises\nausweisen können.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Die Prüferin oder der Prüfer entscheidet darüber, ob und welche Hilfsmittel bei einer Modulprüfung benutzt werden\ndürfen. Die zugelassenen Hilfsmittel sind rechtzeitig vor der Prüfung bekannt zu geben.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "32",
+            "title": "Mündliche Prüfungsleistungen (RO: § 34)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Mündliche Prüfungen werden von der oder dem Prüfenden in Gegenwart einer oder eines Beisitzenden als Einzelprüfung\nabgehalten. Gruppenprüfungen mit bis zu fünf Studierenden sind möglich.\n\n25",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Dauer der mündlichen Prüfungen liegt zwischen mindestens 15 Minuten und höchstens 60 Minuten pro zu\nprüfender Studierender oder zu prüfendem Studierenden. Die Dauer der jeweiligen Modulprüfung ergibt sich aus der\nModulbeschreibung.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Die wesentlichen Gegenstände und Ergebnisse der mündlichen Prüfung sind von der oder dem Beisitzenden in\neinem Protokoll festzuhalten. Das Prüfungsprotokoll ist von der Prüferin oder dem Prüfer und der oder dem Beisitzenden\nzu unterzeichnen. Vor der Festsetzung der Note ist die oder der Beisitzende unter Ausschluss des Prüflings sowie der\nÖffentlichkeit zu hören. Das Protokoll ist dem Prüfungsamt unverzüglich zuzuleiten.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Das Ergebnis der mündlichen Prüfung ist der oder dem Studierenden im Anschluss an die mündliche Prüfung bekannt\nzu geben und bei Nichtbestehen oder auf unverzüglich geäußerten Wunsch näher zu begründen; die gegebene Begründung\nist in das Protokoll aufzunehmen.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Mündliche Prüfungen sind für Studierende, die die gleiche Prüfung ablegen sollen, hochschulöffentlich. Die oder der zu\nprüfende Studierende kann der Zulassung der Öffentlichkeit widersprechen. Die Zulassung der Öffentlichkeit erstreckt sich\nnicht auf die Beratung und Bekanntgabe des Prüfungsergebnisses an die oder den zu prüfenden Studierenden. Sie kann\ndarüber hinaus aus Kapazitätsgründen begrenzt werden. Zur Überprüfung der in Satz 1 genannten Gründe kann die oder der\nVorsitzende des Prüfungsausschusses entsprechende Nachweise verlangen.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Handelt es sich bei einer mündlichen Prüfung um eine Prüfung, deren Nichtbestehen zum endgültigen Nichtbestehen\ndes Studiengangs führt, so sollte ein Mitglied des Prüfungsausschusses bei der Abnahme der Prüfung anwesend sein. Die\nPrüfung muss durch zwei Prüferinnen oder Prüfer durchgeführt werden.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "34",
+            "title": "Hausarbeiten und schriftliche Ausarbeitungen (RO: § 36)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Mit einer schriftlichen Hausarbeit soll die oder der Studierende zeigen, dass sie oder er in der Lage ist, ein Problem aus\neinem Fachgebiet selbstständig nach wissenschaftlichen Methoden zu bearbeiten. Sie muss Bestandteil eines Moduls sein.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Eine Hausarbeit kann als Gruppenarbeit zugelassen werden, wenn der als Prüfungsleistung zu bewertende Beitrag der\nEinzelnen aufgrund objektiver Kriterien erkennbar ist.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Der oder dem Studierenden kann Gelegenheit gegeben werden, ein Thema vorzuschlagen. Die Ausgabe des Themas\nerfolgt durch die oder den Prüfenden, die oder der die Bearbeitungsdauer der Hausarbeit dokumentiert.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Hausarbeiten sollen mindestens zwei und längstens vier Wochen Bearbeitungszeit (Vollzeit, d.h. 2 bis 5 CP Workload)\numfassen. Die jeweilige Bearbeitungsdauer ist in der Modulbeschreibung festgelegt. Die Abgabefristen für die Hausarbeiten\nwerden von den Prüfenden festgelegt und dokumentiert.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Die Hausarbeit ist innerhalb der festgelegten Bearbeitungsfrist in einfacher Ausfertigung mit einer Erklärung gemäß\n§ 31 Abs. 7 versehen, bei der Prüferin oder dem Prüfer einzureichen; im Falle des Postwegs ist der Poststempel entscheidend.\nDie Abgabe der Hausarbeit ist durch die oder den Prüfenden aktenkundig zu machen.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Die Bewertung der Hausarbeit durch die Prüferin oder den Prüfer soll binnen sechs Wochen nach Einreichung erfolgt\nsein; die Beurteilung ist schriftlich zu begründen. Im Übrigen findet § 33 Abs. 7 entsprechende Anwendung.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Eine Studierende oder ein Studierender, deren oder dessen Hausarbeit mit „nicht ausreichend“ (5,0) bewertet worden\n27\n\nist, kann bei der oder dem Prüfenden die Nachbesserung der Hausarbeit beantragen. Dies gilt nicht, wenn die Bewertung\nmit „nicht ausreichend“ (5,0) auf § 24 oder auf § 27 beruht. Die oder der Prüfende setzt eine Frist für die Nachbesserung\nder Hausarbeit. Bei der Entscheidung über die nachgebesserte Hausarbeit wird lediglich darüber entschieden, ob die\nHausarbeit mit der Note 4,0 oder schlechter bewertet wird. Wird die Frist für die Abgabe der nachgebesserten Hausarbeit\nnicht eingehalten, wird die Hausarbeit endgültig mit der Note „nicht ausreichend“ (5,0) bewertet.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Für die sonstigen schriftlichen Ausarbeitungen gelten die Absätze 1 bis 6 entsprechend. Die jeweilige Bearbeitungsdauer\nund der Umfang ist in der Modulbeschreibung festgelegt.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "35",
+            "title": "Bachelorarbeit (RO: § 40)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Die Bachelorarbeit ist obligatorischer Bestandteil des Bachelorstudiengangs und bildet zusammen mit der vorbereitenden\nEinführung in wissenschaftliches Arbeiten und einem Bachelorabschlussvortrag ein gemeinsames Abschlussmodul.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Bachelorarbeit ist eine Prüfungsarbeit, die zeigen soll, dass die oder der Studierende dazu in der Lage ist, innerhalb\neiner vorgegebenen Frist ein Problem aus der Informatik selbstständig nach wissenschaftlichen Methoden zu bearbeiten.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Der Bearbeitungsumfang der Bachelorarbeit beträgt 12 CP; dies entspricht einer Bearbeitungszeit von 9 Wochen.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Die Zulassung zur Bachelorarbeit setzt den Abschluss aller Basismodule aus dem Bachelorstudiengang Informatik und\ndie erfolgreiche Teilnahme an der Veranstaltung „wissenschaftliches Arbeiten“ voraus.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Die Betreuung der Bachelorarbeit wird von einer Person aus dem Kreis der Prüfungsberechtigten gemäß § 21 übernom-\nmen. Diese hat die Pflicht, die Studierende oder den Studierenden bei der Anfertigung der Bachelorarbeit anzuleiten und\nsich regelmäßig über den Fortgang der Arbeit zu informieren. Die Betreuerin oder der Betreuer hat sicherzustellen, dass\ngegebenenfalls die für die Durchführung der Bachelorarbeit erforderliche apparative Ausstattung zur Verfügung steht. Die\nBetreuerin oder der Betreuer ist in der Regel Erstgutachterin oder Erstgutachter der Bachelorarbeit.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Mit Zustimmung der oder des Vorsitzenden des Prüfungsausschusses kann die Bachelorarbeit auch in einer Einrichtung\naußerhalb der Goethe-Universität angefertigt werden, z.B. in einem Forschungsinstitut oder einer IT-Abteilung eines\nUnternehmens. In diesem Fall muss das Thema in Absprache mit einem Mitglied der Professorengruppe im Institut für\nInformatik des Fachbereichs Informatik und Mathematik gestellt werden.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Das Thema der Bachelorarbeit ist mit der Betreuerin oder dem Betreuer zu vereinbaren und bei der Anmeldung der\nBachelorarbeit der oder dem Vorsitzenden des Prüfungsausschusses mitzuteilen. Findet die Studierende oder der Studierende\nkeine Betreuerin oder keinen Betreuer, so sorgt die oder der Vorsitzende des Prüfungsausschusses auf Antrag der oder des\nStudierenden dafür, dass diese oder dieser rechtzeitig ein Thema für die Bachelorarbeit und die erforderliche Betreuung\nerhält.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Die oder der Vorsitzende des Prüfungsausschusses entscheidet über die Zulassung zur Bachelorarbeit.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Die Ausgabe des Themas erfolgt durch die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses. Das Thema\nmuss so beschaffen sein, dass es innerhalb der vorgesehenen Frist bearbeitet werden kann. Der Zeitpunkt der Ausgabe und\ndas Thema sind beim Prüfungsamt aktenkundig zu machen. Die Bachelorarbeit darf vor der aktenkundigen Ausgabe des\nThemas nicht bearbeitet werden.",
+                "subpoints": []
+              },
+              {
+                "number": "10",
+                "content": "Die Bachelorarbeit kann auch in Form einer Gruppenarbeit zugelassen werden, wenn der als Prüfungsleistung zu\nbewertende Beitrag der oder des einzelnen Studierenden aufgrund der Angabe von Abschnitten, Seitenzahlen und anderen\nobjektiven Kriterien, die eine deutliche Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die\nAnforderungen nach Abs. 2 erfüllt sind.",
+                "subpoints": []
+              },
+              {
+                "number": "11",
+                "content": "Die Bachelorarbeit ist in deutscher Sprache abzufassen. Mit Zustimmung der oder des Vorsitzenden des Prüfungsaus-\nschusses kann sie in einer Fremdsprache angefertigt werden. Die Anfertigung der Bachelorarbeit in einer Fremdsprache ist\nspätestens mit der Anmeldung der Bachelorarbeit beim Prüfungsausschuss zu beantragen. Die Zustimmung zur Anfertigung\nin der gewählten Fremdsprache wird im Rahmen der Themenvergabe erteilt, sofern mit der Anmeldung der Bachelorarbeit\ndie schriftliche Einverständniserklärung der Betreuerin oder des Betreuers vorliegt und die Möglichkeit zur Bestellung einer\nZweitgutachterin oder eines Zweitgutachters mit hinreichender sprachlicher Qualifikation in der gewählten Fremdsprache\nbesteht.",
+                "subpoints": []
+              },
+              {
+                "number": "12",
+                "content": "Das gestellte Thema kann nur einmal und nur innerhalb der ersten Hälfte der Bearbeitungszeit zurückgegeben\nwerden. Das neu gestellte Thema muss sich inhaltlich von dem zurückgegebenen Thema unterscheiden. Wird infolge des\n28\n\nRücktritts gemäß Abs. 13 Satz 3 ein neues Thema für die Bachelorarbeit ausgegeben, so ist die Rückgabe dieses Themas\nausgeschlossen.",
+                "subpoints": []
+              },
+              {
+                "number": "13",
+                "content": "Kann der Abgabetermin aus von der oder dem Studierenden nicht zu vertretenden Gründen (z.B. Erkrankung der\noder des Studierenden beziehungsweise eines von ihr oder ihm zu versorgenden Kindes), nicht eingehalten werden, so\nverlängert die oder der Vorsitzende des Prüfungsausschusses die Bearbeitungszeit, wenn die oder der Studierende dies vor\ndem Ablieferungstermin beantragt. Maximal kann eine Verlängerung um 50 % der Bearbeitungszeit eingeräumt werden.\nDauert die Verhinderung länger, so kann die oder der Studierende von der Prüfungsleistung zurücktreten.",
+                "subpoints": []
+              },
+              {
+                "number": "14",
+                "content": "Die Bachelorarbeit ist fristgemäß im Prüfungsamt einzureichen. Der Zeitpunkt des Eingangs ist aktenkundig zu\nmachen. Im Falle des Postwegs ist der Poststempel entscheidend. Wird die Bachelorarbeit nicht fristgemäß abgeliefert, gilt\nsie als mit „nicht ausreichend“ (5,0) gewertet.",
+                "subpoints": []
+              },
+              {
+                "number": "15",
+                "content": "Die Bachelorarbeit ist in 3 schriftlichen (gebundenen) Exemplaren und in elektronischer Form einzureichen. Der\nPrüfungsausschuss kann weitere Festlegungen zur schriftlichen und elektronischen Form treffen, die durch Aushang oder\nandere geeignete Maßnahmen bekannt zu machen sind. Wird die Bachelorarbeit innerhalb der Abgabefrist nicht in der\nvorgeschriebenen Form abgegeben, gilt sie als mit „nicht ausreichend“ (5,0) gewertet.",
+                "subpoints": []
+              },
+              {
+                "number": "16",
+                "content": "Die Bachelorarbeit ist nach den Regeln der guten wissenschaftlichen Praxis zu verfassen. Insbesondere sind alle\nStellen, Bilder und Zeichnungen, die wörtlich oder sinngemäß aus Veröffentlichungen oder aus anderen fremden Texten\nentnommen wurden, als solche kenntlich zu machen. Die Bachelorarbeit ist mit einer Erklärung der oder des Studierenden\nzu versehen, dass sie oder er die Arbeit – bei einer Gruppenarbeit sie ihre oder er seinen entsprechend gekennzeichneten\nAnteil der Arbeit – selbstständig und ohne Benutzung anderer als der angegebenen Quellen und Hilfsmittel verfasst hat.\nFerner ist zu erklären, dass die Bachelorarbeit nicht, auch nicht auszugsweise, für eine andere Prüfung oder Studienleistung\nverwendet worden ist.",
+                "subpoints": []
+              },
+              {
+                "number": "17",
+                "content": "Der Prüfungsausschuss leitet die Bachelorarbeit der Betreuerin oder dem Betreuer als Erstgutachterin oder Erstgutachter\nzur Bewertung gemäß § 36 Abs. 3 zu. Gleichzeitig bestellt er eine weitere Prüferin oder einen weiteren Prüfer aus dem\nKreis der Prüfungsberechtigten gemäß § 21 zur Zweitbewertung und leitet ihr oder ihm die Arbeit ebenfalls zur Bewertung\nzu. Mindestens eine oder einer der Prüfenden muss der Gruppe der Professorinnen und Professoren des Instituts für\nInformatik angehören. Die Zweitgutachterin oder der Zweitgutachter kann sich bei Übereinstimmung der Bewertung\nauf eine Mitzeichnung des Gutachtens der Erstgutachterin oder des Erstgutachters beschränken. Die Bewertung soll\nvon den Prüfenden unverzüglich erfolgen; sie soll spätestens sechs Wochen nach Einreichung der Arbeit vorliegen. Bei\nunterschiedlicher Bewertung der Bachelorarbeit durch die beiden Prüfenden wird von der oder dem Vorsitzenden des\nPrüfungsausschusses die Note für die Bachelorarbeit entsprechend § 36 Abs. 5 festgesetzt.",
+                "subpoints": []
+              },
+              {
+                "number": "18",
+                "content": "Die Bachelorarbeit wird binnen weiterer zwei Wochen durch eine weitere aus dem Kreis der Prüfungsberechtigten\ngemäß § 21 zu bestellende Person bewertet, wenn die Beurteilungen der beiden Prüfenden um mehr als 2,0 voneinander\nabweichen oder eine oder einer der beiden Prüfenden die Bachelorarbeit als „nicht ausreichend“ (5,0) beurteilt hat. Die\nNote wird in diesem Fall aus den Noten der Erstprüferin oder des Erstprüfers, der Zweitprüferin oder des Zweitprüfers und\nder dritten Prüferin oder des dritten Prüfers gemäß § 36 Abs.5 gebildet. Bei Vorliegen der Voraussetzungen des § 24 oder\n§ 27 findet Satz 1 keine Anwendung.",
+                "subpoints": []
+              },
+              {
+                "number": "19",
+                "content": "Der Bachelorabschlussvortrag zur Bachelorarbeit soll spätestens sechs Wochen nach Einreichung der Arbeit durchge-\nführt werden.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "VII",
+        "title": "Bewertung der Studien- und Prüfungsleistungen; Bildung der Noten\nund der Gesamtnote; Nichtbestehen der Gesamtprüfung",
+        "paragraphs": [
+          {
+            "number": "36",
+            "title": "Bewertung/Benotung der Studien- und Prüfungsleistungen; Bildung der Noten und der\nGesamtnote (RO: § 42)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Studienleistungen werden von den jeweiligen Lehrenden mit „bestanden“ oder „nicht bestanden“ bewertet.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Prüfungsleistungen werden in der Regel benotet und ausnahmsweise nach Maßgabe der Modulbeschreibung mit\n„bestanden“ oder „nicht bestanden“ bewertet. Die Benotung beziehungsweise Bewertung der Prüfungsleistungen wird von\nden jeweiligen Prüferinnen und Prüfern vorgenommen. Dabei ist stets die individuelle Leistung der oder des Studierenden\nzugrunde zu legen.\n29",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Für die Benotung der einzelnen Prüfungsleistungen sind folgende Noten zu verwenden:\n1\nsehr gut\neine hervorragende Leistung;\n2\ngut\neine Leistung, die erheblich über den durch-\nschnittlichen Anforderungen liegt;\n3\nbefriedigend\neine Leistung, die durchschnittlichen An-\nforderungen entspricht;\n4\nausreichend\neine Leistung, die trotz ihrer Mängel noch\nden Anforderungen genügt;\n5\nnicht ausreichend\neine Leistung, die wegen erheblicher Män-\ngel den Anforderungen nicht mehr genügt.\n\nZur differenzierten Bewertung der Prüfungsleistungen können die Noten um 0,3 auf Zwischenwerte angehoben oder\nabgesenkt werden; zulässig sind die Noten 1,0; 1,3; 1,7; 2,0; 2,3; 2,7; 3,0; 3,3; 3,7; 4,0 und 5,0.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Besteht die Modulprüfung aus mehreren Teilprüfungen, errechnet sich die Note für das Modul aus dem arithmetischen\nMittel der Noten für die einzelnen Prüfungsleistungen (Modulteilprüfungen). Dabei wird nur die erste Dezimalstelle hinter\ndem Komma berücksichtigt.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Wird die Modulprüfung von zwei oder mehreren Prüfenden unterschiedlich bewertet, errechnet sich die Modulnote\naus dem arithmetischen Mittel der Noten der Prüferbewertungen. Bei der Bildung der Modulnote wird nur die erste\nDezimalstelle hinter dem Komma berücksichtigt.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Die Prüferinnen und Prüfer können von der rechnerisch ermittelten Note einer Modulprüfung abweichen, wenn dies\naufgrund des Gesamteindrucks den Leistungsstand der Studierenden besser entspricht (Bonusregelung) und die Abweichung\nkeinen Einfluss auf das Bestehen hat (Bonusregelung). Hierbei sind insbesondere die während des Semesters in Übungen\noder sonstigen Lehrveranstaltungen erbrachten Studienleistungen zu berücksichtigen, dies jedoch maximal bis zu einem\nWert von 25 von 100 der zum Bestehen notwendigen Punkte der entsprechenden Modulprüfung. Die zur Vergabe von\nBonuspunkten führenden Studienleistungen sind spätestens zu Beginn eines Semesters durch die Lehrende oder den\nLehrenden in geeigneter Weise öffentlich bekanntzugeben.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Für die Bachelorprüfung wird eine Gesamtnote gebildet, in welche die Ergebnisse aller Basismodule, den Vertiefungs-\nmodulen, der Anwendungsfachmodule und dem Abschlussmodul eingehen. Auf Antrag der oder des Studierenden können\nbis zu zwei Module aus dem Vertiefungsbereich bei der Bildung der Gesamtnote des Bachelorabschlusses unberücksichtigt\nbleiben.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Werden im Vertiefungsbereich mehr CP erworben, als vorgesehen sind, so werden diejenigen Module für die Ermittlung\nder Gesamtnote herangezogen, die zuerst abgeschlossen wurden. Sofern mehrere Module im selben Semester absolviert\nworden sind, zählen die notenbesseren.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Die Gesamtnote einer bestandenen Bachelorprüfung ergibt sich durch die folgende Abbildung, wobei nur die erste\nDezimalstelle hinter dem Komma berücksichtigt wird; alle weiteren Stellen werden ohne Rundung gestrichen:\n\n\n1,0 bis einschließlich 1,5\nsehr gut\n1,6 bis einschließlich 2,5\ngut\n2,6 bis einschließlich 3,5\nbefriedigend\n3,6 bis einschließlich 4,0\nausreichend\nüber 4,0\nnicht ausreichend",
+                "subpoints": []
+              },
+              {
+                "number": "10",
+                "content": "Wird eine englischsprachige Übersetzung des Zeugnisses ausgefertigt, werden die Noten für die einzelnen Prüfungs-\nleistungen sowie die Gesamtnote entsprechend folgender Notenskala abgebildet:\n\n1,0 bis einschließlich 1,5\nvery good\n1,6 bis einschließlich 2,5\ngood\n2,6 bis einschließlich 3,5\nsatisfactory\n3,6 bis einschließlich 4,0\nsufficient\nüber 4,0\nfail\n30",
+                "subpoints": []
+              },
+              {
+                "number": "11",
+                "content": "Bei einer Gesamtnote bis einschließlich 1,1 und einer mit der Note 1,0 bewerteten Bachelorarbeit lautet das Gesamtur-\nteil „mit Auszeichnung bestanden“. Die englischsprachige Übersetzung von „mit Auszeichnung bestanden“ lautet: „with\ndistinction“.",
+                "subpoints": []
+              },
+              {
+                "number": "12",
+                "content": "Zur Transparenz der Gesamtnote wird in das Diploma Supplement eine ECTS-Einstufungstabelle gemäß § 44\naufgenommen.\n\n§ 37 Bestehen und Nichtbestehen von Prüfungen; Notenbekanntgabe (RO: § 43)",
+                "subpoints": []
+              },
+              {
+                "number": "1",
+                "content": "Eine aus einer einzigen Prüfungsleistung bestehende Modulprüfung ist bestanden, wenn sie mit der Note „ausreichend“\n(4,0) oder besser bewertet worden ist. Eine mit Punkten bewertete Prüfungsleistung ist bestanden, wenn mindestens 5\nPunkte erreicht sind. Andernfalls ist sie nicht bestanden.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Bachelorprüfung ist bestanden, wenn sämtliche in dieser Ordnung vorgeschriebenen Module erfolgreich erbracht\nwurden, das heißt die geforderten Studiennachweise vorliegen und die vorgeschriebenen Modulprüfungen einschließlich der\nBachelorarbeit mit mindestens „ausreichend“ (4,0) bewertet worden sind.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Die Ergebnisse sämtlicher Prüfungen werden unverzüglich bekannt gegeben, wobei Klausurergebnisse in der Regel\nspätestens zwei Wochen nach dem Prüfungstermin bekanntgegeben werden. Der Prüfungsausschuss entscheidet darüber, ob\ndie Notenbekanntgabe anonymisiert hochschulöffentlich durch Aushang und/oder durch das elektronische Prüfungsver-\nwaltungssystem erfolgt, wobei die schutzwürdigen Interessen der Betroffenen zu wahren sind. Wurde die Bachelorarbeit\nschlechter als ausreichend (4,0) bewertet, erhält die oder der Studierende durch die Vorsitzende oder den Vorsitzenden\ndes Prüfungsausschusses einen schriftlichen, mit einer Rechtsbehelfsbelehrung versehenen, Bescheid, der eine Belehrung\ndarüber enthalten soll, ob und in welcher Frist die Bachelorarbeit wiederholt werden kann.\n\n§ 38 Zusammenstellung des Prüfungsergebnisses (Transcript of Records) (RO: § 44)\n\nDen Studierenden wird auf Antrag eine Bescheinigung über bestandene Prüfungen in Form einer Datenabschrift (Transcript\nof Records) in deutscher und englischer Sprache ausgestellt, die mindestens die Modultitel, das Datum der einzelnen\nPrüfungen und die Noten enthält.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "VIII",
+        "title": "Wechsel von Pflicht- und Wahlpflichtmodulen/ Studienschwerpunkten;\nWiederholung von Prüfungen; Verlust des Prüfungsanspruchs und\nendgültiges Nichtbestehen",
+        "paragraphs": [
+          {
+            "number": "39",
+            "title": "Wechsel von Pflicht- und Wahlpflichtmodulen/Studienschwerpunkten (RO: § 45)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Wird ein Wahlpflichtmodul nicht bestanden oder endgültig nicht bestanden, kann in ein neues Wahlpflichtmodul\ngewechselt werden.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Der Wechsel eines Anwendungsfachs ist bis zu zweimal auf Antrag möglich, wenn das gewählte Anwendungsfach\nnoch nicht erfolgreich abgeschlossen ist.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "40",
+            "title": "Wiederholung von Prüfungen; Freiversuch; Notenverbesserung (RO: § 46)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Bestandene Prüfungen können nicht wiederholt werden. Absatz 10 bleibt unberührt.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Alle nicht bestandenen Pflichtmodulprüfungen müssen wiederholt werden.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Nicht bestandene Modulprüfungen können höchstens zweimal wiederholt werden. Die Regelungen der Absätze 9 und\n31\n\n10 und die Regelungen des § 39 bleiben unberührt.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Eine nicht bestandene Bachelorarbeit kann einmal wiederholt werden. Es wird ein anderes Thema ausgegeben. Eine\nRückgabe des Themas der Bachelorarbeit ist im Rahmen einer Wiederholungsprüfung nur zulässig, wenn die oder der\nStudierende bei der Anfertigung der ersten Bachelorarbeit von dieser Möglichkeit keinen Gebrauch gemacht hat. Eine\nwiederholte Rückgabe des Themas ist nicht zulässig.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Fehlversuche derselben oder einer vergleichbaren Modulprüfung eines anderen Studiengangs der Goethe-Universität\noder einer anderen deutschen Hochschule sind auf die zulässige Zahl der Wiederholungsprüfungen anzurechnen. Der\nPrüfungsausschuss kann in besonderen Fällen, insbesondere bei einem Studiengangwechsel, von einer Anrechnung absehen.",
+                "subpoints": []
+              },
+              {
+                "number": "6",
+                "content": "Für die letztmalige Wiederholung von nicht bestandenen schriftlichen Prüfungsleistungen, mit Ausnahme der Ba-\nchelorarbeit, kann der Prüfungsausschuss auf Antrag der oder des Studierenden eine mündliche Prüfung ansetzen. Die\nGenehmigung kann nur nach erfolgter Fachstudienberatung erteilt werden.",
+                "subpoints": []
+              },
+              {
+                "number": "7",
+                "content": "Die erste Wiederholungsprüfung soll am Ende des entsprechenden Semesters, spätestens jedoch zu Beginn des\nfolgenden Semesters angeboten werden. Eine zweite Wiederholungsprüfung soll zum nächstmöglichen Prüfungstermin\njeweils nach der nicht bestandenen Wiederholungsprüfung angeboten werden. Es wird empfohlen, dass die Studierenden\nzum nächstmöglichen, regulären Termin die Wiederholung antreten. Für die Anmeldung zu Wiederholungen gilt Abs. 3\nentsprechend; Abs. 6 bleibt unberührt. Die Wiederholung zu einer nicht bestandenen Prüfung zu einem der Basismodule\nhat innerhalb von 15 Monaten nach dem Zeitpunkt des Nichtbestehens zu erfolgen. Andernfalls wird die\nWiederholungsprüfung als nicht bestanden bewertet.",
+                "subpoints": []
+              },
+              {
+                "number": "8",
+                "content": "Wiederholungsprüfungen sind grundsätzlich nach der Ordnung abzulegen, nach der die Erstprüfung abgelegt wurde.",
+                "subpoints": []
+              },
+              {
+                "number": "9",
+                "content": "Erstmals nicht bestandene Modulabschlussprüfungen zu Basismodulen gelten als nicht unternommen, wenn sie\nspätestens im Folgesemester des im Regelstudienplan vorgesehenen Semesters abgelegt werden (Freiversuch). Hierbei\nwird derjenige Regelstudienplan zugrundegelegt, der für den Studienbeginn im Wintersemester bzw. im Sommersemester\nausgelegt ist. Die genauen Festlegungen dazu befinden sich in den Modulbeschreibungen. Prüfungen, die wegen Täuschung\noder eines sonstigen ordnungswidrigen Verhaltens für nicht bestanden erklärt wurden, sind vom Freiversuch ausgenommen.",
+                "subpoints": []
+              },
+              {
+                "number": "10",
+                "content": "Bestandene Modulabschlussprüfungen in Basismodulen können einmal zur Notenverbesserung wiederholt werden,\nwobei die bessere Leistung angerechnet wird, wenn sie jeweils spätestens zu dem im Regelstudienplan vorgesehenen\nSemester abgelegt werden, und wenn kein Freiversuch entsprechend Abs. 9 in diesem Modul in Anspruch genommen\nwurde. Die genaue Festlegung der Semester befindet sich in den Modulbeschreibungen. Die Prüfung zur Notenverbesserung\nmuss zum nächstmöglichen Klausurtermin wahrgenommen werden und ist auf fünf Module beschränkt. Hierzu ist eine\nschriftliche Anmeldung beim Prüfungsamt innerhalb der Fristen nach §23 erforderlich. Die Freiversuchsregelungen zu\nModulprüfungen entsprechend Abs. 9 und 10 finden nur Anwendung bei Prüfungen von Studierenden, die nach dieser\nOrdnung studieren und wenn diese Prüfungen auch im Rahmen dieser Ordnung abgelegt werden.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "41",
+            "title": "Verlust des Prüfungsanspruchs und endgültiges Nichtbestehen (RO: § 47)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Die Bachelorprüfung ist endgültig nicht bestanden und der Prüfungsanspruch geht endgültig verloren, wenn",
+                "subpoints": [
+                  {
+                    "number": "1",
+                    "content": "eine Modulprüfung zu einem Pflichtmodul nach Ausschöpfen aller Wiederholungsversuche nicht bestanden ist,"
+                  },
+                  {
+                    "number": "2",
+                    "content": "ein schwerwiegender Täuschungsfall oder ein schwerwiegender Ordnungsverstoß gemäß § 27 vorliegt."
+                  }
+                ]
+              },
+              {
+                "number": "2",
+                "content": "Der Prüfungsanspruch in der Bachelorprüfung Informatik an der Goethe-Universität Frankfurt am Main geht endgültig\nverloren, wenn das Beratungsgespräch entsprechend § 26 Abs. 1 nicht wahrgenommen wurde und gleichzeitig keine\nAnmeldung zur Bachelorprüfung vorliegt, oder wenn die geforderte Anzahl von bestandenen Basismodulen bis zum Beginn\ndes dritten Fachsemesters entsprechend § 26 nicht erreicht wurde.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Über das endgültige Nichtbestehen der Bachelorprüfung und den Verlust des Prüfungsanspruchs, ebenso über den\nVerlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main, wird ein\n32\n\nBescheid erteilt, der mit einer Rechtsbehelfsbelehrung versehen ist.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Hat die oder der Studierende die Gesamtprüfung endgültig nicht bestanden und damit den Prüfungsanspruch endgültig\nverloren, oder ist der Prüfungsanspruch im Bachelor Informatik an der Goethe-Universität Frankfurt am Main endgültig\nverloren, ist sie oder er zu exmatrikulieren. Auf Antrag erhält die oder der Studierende gegen Vorlage der Exmatrikulations-\nbescheinigung eine Bescheinigung des Prüfungsamtes, in welcher die bestandenen Modulprüfungen, deren Noten und die\nerworbenen Kreditpunkte aufgeführt sind und die erkennen lässt, dass die Gesamtprüfung endgültig nicht bestanden oder\nder Prüfungsanspruch im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main endgültig verloren\nist.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "IX",
+        "title": "Prüfungszeugnis; Urkunde und Diploma Supplement",
+        "paragraphs": [
+          {
+            "number": "42",
+            "title": "Prüfungszeugnis (RO: § 48)",
+            "content": "Über die bestandene Bachelorprüfung ist möglichst innerhalb von vier Wochen nach Eingang der Bewertung der letzten\nPrüfungsleistung ein Zeugnis in deutscher Sprache, auf Antrag der oder des Studierenden mit einer Übertragung in englischer\nSprache, jeweils nach den Vorgaben der Muster der Rahmenordnung auszustellen. Das Zeugnis enthält die Angabe der\nModule mit den Modulnoten (dabei werden diejenigen Module gekennzeichnet, welche nicht in die Gesamtnote für die\nBachelorprüfung eingegangen sind), das Thema und die Note der Bachelorarbeit, die Regelstudienzeit und die Gesamtnote.\nIm Zeugnis werden ferner das Ergebnis der Prüfungen in Zusatzmodulen aufgenommen. Das Zeugnis ist von der oder\ndem Vorsitzenden des Prüfungsausschusses zu unterzeichnen und mit dem Siegel der Goethe-Universität zu versehen. Das\nZeugnis trägt das Datum des Tages, an dem die letzte Prüfungsleistung bewertet worden ist.",
+            "points": []
+          },
+          {
+            "number": "43",
+            "title": "Bachelorurkunde (RO: § 49)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Gleichzeitig mit dem Zeugnis der Bachelorprüfung erhält die oder der Studierende eine Bachelorurkunde mit dem\nDatum des Zeugnisses. Darin wird die Verleihung des akademischen Grades beurkundet. Auf Antrag kann die Urkunde\nzusätzlich in Englisch ausgestellt werden.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Urkunde wird von der Dekanin oder dem Dekan des Fachbereichs Informatik sowie der oder dem Vorsitzenden des\nPrüfungsausschusses unterzeichnet und mit dem Siegel der Goethe-Universität versehen.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Der akademische Grad darf erst nach Aushändigung der Urkunde geführt werden.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "44",
+            "title": "Diploma Supplement (RO: § 50)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Mit der Urkunde und dem Zeugnis wird ein Diploma Supplement entsprechend den internationalen Vorgaben ausgestellt;\ndabei ist der zwischen der Hochschulrektorenkonferenz und der Kultusministerkonferenz abgestimmte Text in der jeweils\ngeltenden Fassung zu verwenden (Muster Anlage 10 Rahmenordnung).",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Das Diploma Supplement enthält eine ECTS-Einstufungstabelle. Die Gesamtnoten, die im jeweiligen Studiengang\nin einer Vergleichskohorte vergeben werden, sind zu erfassen und ihre zahlenmäßige und prozentuale Verteilung auf die\nNotenstufen gemäß § 36 Abs. 9 zu ermitteln und in einer Tabelle wie folgt darzustellen:\n\nGesamtnoten\nGesamtzahl innerhalb der\nReferenzgruppe\nProzentzahl der Absolventin-\nnen/ Absolventen innerhalb\nder Referenzgruppe\nbis 1,5 (sehr gut)\n1,6 bis 2,5 (gut)\n33\n\n2,6 bis 3,5 (befriedi-\ngend)\n3,6 bis 4,0 (ausrei-\nchend)\n\nDie Referenzgruppe ergibt sich aus der Anzahl der Absolventinnen und Absolventen des jeweiligen Studiengangs in einem\nZeitraum von drei Studienjahren. Die Berechnung erfolgt nur, wenn die Referenzgruppe aus mindestens 50 Absolventinnen\nund Absolventen besteht. Haben weniger als 50 Studierende innerhalb der Vergleichskohorte den Studiengang abgeschlossen,\nso sind nach Beschluss des Prüfungsausschusses weitere Jahrgänge in die Berechnung einzubeziehen.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "X",
+        "title": "Ungültigkeit der Bachelorprüfung; Prüfungsakten; Einsprüche und\nWidersprüche",
+        "paragraphs": [
+          {
+            "number": "45",
+            "title": "Ungültigkeit von Prüfungen (RO: § 51)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Hat die oder der Studierende bei einer Studien- oder Prüfungsleistung getäuscht und wird diese Tatsache erst nach\nAushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die Noten für diejenigen Studien- und\nPrüfungsleistungen, bei deren Erbringung die oder der Studierende getäuscht hat, entsprechend berichtigen und die Prüfung\noder die Studienleistung ganz oder teilweise für nicht bestanden erklären. Die Prüferinnen oder Prüfer sind vorher zu hören.\nDer oder dem Studierenden ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass die oder der Studierende hierüber\ntäuschen wollte, und wird diese Tatsache erst nach Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das\nBestehen der Prüfung geheilt. Hat die oder der Studierende die Zulassung zur Prüfung vorsätzlich zu Unrecht erwirkt, so\nentscheidet der Prüfungsausschuss unter Beachtung des Hessischen Landesverwaltungsverfahrensgesetzes in der jeweils\ngeltenden Fassung über die Rechtsfolgen. Abs. 1 Satz 3 gilt entsprechend.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Das unrichtige Zeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. Mit dem unrichtigen Zeugnis sind\nauch das Diploma Supplement und gegebenenfalls der entsprechende Studiennachweis einzuziehen und gegebenenfalls\nneu zu erteilen. Mit diesen Dokumenten ist auch die Bachelorurkunde einzuziehen, wenn die Prüfung aufgrund einer\nTäuschungshandlung für „nicht bestanden“ erklärt wurde. Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer\nFrist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "46",
+            "title": "Einsicht in Prüfungsakten; Aufbewahrungsfristen (RO: § 52)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Innerhalb eines Jahres nach Abschluss eines Moduls und nach Abschluss des gesamten Prüfungsverfahrens wird der oder\ndem Studierenden auf Antrag Einsicht in die sie oder ihn betreffenden Prüfungsakten (Prüfungsprotokolle, Prüfungsarbeiten\nnebst Gutachten) gewährt.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Die Prüfungsakten sind von den Prüfungsämtern zu führen. Maßgeblich für die Aufbewahrungsfristen von Prüfungsun-\nterlagen ist § 20 der Hessischen Immatrikulationsverordnung (HImmaVO) in der jeweils gültigen Fassung. Die schriftlichen\nPrüfungsarbeiten mit Ausnahme der Bachelorarbeiten werden fünf Jahre nach Bekanntgabe ihrer Bewertung ausgesondert.\nNach Ablauf von fünf Jahren nach Abschluss des gesamten Prüfungsverfahrens werden Bachelorarbeiten ausgesondert.",
+                "subpoints": []
+              }
+            ]
+          },
+          {
+            "number": "47",
+            "title": "Einsprüche und Widersprüche (RO: § 53)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Gegen Entscheidungen der oder des Vorsitzenden des Prüfungsausschusses ist Einspruch möglich. Er ist binnen eines\nMonats nach Bekanntgabe der Entscheidung bei der oder dem Vorsitzenden des Prüfungsausschusses einzulegen. Über\nden Einspruch entscheidet der Prüfungsausschuss. Hilft er dem Einspruch nicht ab, erlässt die oder der Vorsitzende des\n34\n\nPrüfungsausschusses einen begründeten Ablehnungsbescheid, der mit einer Rechtsbehelfsbelehrung zu versehen ist.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Gegen belastende Entscheidungen des Prüfungsausschusses und gegen Prüferbewertungen kann die oder der Betroffene,\nsofern eine Rechtsbehelfsbelehrung erteilt wurde, innerhalb eines Monats, sonst innerhalb eines Jahres nach Bekanntgabe,\nbei der oder dem Vorsitzenden des Prüfungsausschusses (Prüfungsamt) schriftlich Widerspruch erheben. Hilft der Prü-\nfungsausschuss, gegebenenfalls nach Stellungnahme beteiligter Prüferinnen und Prüfer, dem Widerspruch nicht ab, erteilt\ndie Präsidentin oder der Präsident den Widerspruchsbescheid. Der Widerspruchsbescheid ist zu begründen und mit einer\nRechtsbehelfsbelehrung zu versehen.",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "XI",
+        "title": "Schlussbestimmungen",
+        "paragraphs": [
+          {
+            "number": "48",
+            "title": "In-Kraft-Treten und Übergangsbestimmungen (RO: § 56)",
+            "content": "",
+            "points": [
+              {
+                "number": "1",
+                "content": "Diese Ordnung tritt am Tage nach ihrer Veröffentlichung im UniReport Satzungen und Ordnungen der Goethe-\nUniversität Frankfurt am Main in Kraft. Gleichzeitig tritt die Ordnung für den Bachelorstudiengang vom 06. Dezember\n2010 (UniReport vom 16. September 2011), zuletzt geändert am 08.September 2017 (UniReport vom 28. September 2017)\naußer Kraft.",
+                "subpoints": []
+              },
+              {
+                "number": "2",
+                "content": "Diese Ordnung gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2019/20 im Bachelorstudiengang\nInformatik aufnehmen.",
+                "subpoints": []
+              },
+              {
+                "number": "3",
+                "content": "Studierende, die das Studium im Bachelorstudiengang Informatik vor Inkrafttreten dieser Ordnung aufgenommen\nhaben, können die Bachelorprüfung nach der Ordnung vom 06. Dezember 2010 in der bisher geltenden Fassung bis\nspätestens 30. September 2025 ablegen.",
+                "subpoints": []
+              },
+              {
+                "number": "4",
+                "content": "Studierende, die vor dem Inkrafttreten dieser Ordnung im Bachelorstudiengang Informatik immatrikuliert wurden,\nund nicht mehr als 60 CP in den Basismodulen und Vertiefungsmodulen erbracht haben, können auf Antrag an den\nPrüfungsausschuss nach dieser Ordnung ihr Studium absolvieren und die Bachelorprüfung ablegen. Bereits erbrachte\nStudien- und Prüfungsleistungen werden nach § 29 angerechnet. Der Antrag ist unwiderruflich.",
+                "subpoints": []
+              },
+              {
+                "number": "5",
+                "content": "Modulteilprüfungen zu den Basismodulen gemäß der Informatik Bachelor PO 2011 werden letztmalig wie folgt\nangeboten: \n\n\nEPR (5 CP) bis April 2022 \n\nLinA und DI bis April 2022 \n\nALGO-1a und ALGO-1b bis Oktober 2022\n\nPDB-1 und PDB-2 bis Oktober 2022 \n\nRTKS-1 und RTKS-2 bis Oktober 2022\n\nARA-1 und ARA-2 bis Oktober 2022 \n\nAn und NuMa bis Oktober 2022 \n\nPraktikum B-HWS-PR im SoSe 2022\n\nFrankfurt am Main, den 20. August 2019\nProf. Dr. Lars Hedrich\nDekan des Fachbereichs Informatik und Mathematik",
+                "subpoints": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

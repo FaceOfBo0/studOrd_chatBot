@@ -11,8 +11,7 @@ auf das Masterstudium vor. Der Bachelorstudiengang soll dazu befähigen, die ver
 anzuwenden und sich im Zuge eines lebenslangen Lernens schnell neue, vertiefende Kenntnisse anzueignen. Er ermöglicht
 einen Einstieg in den Arbeitsmarkt für entsprechende Aufgaben oder den Wechsel des Studienorts.
 
-(1) Der erfolgreiche Abschluss des Studiums qualifiziert die Absolventinnen und Absolventen durch seine Grundlagenori-
-entierung zu erfolgreicher Tätigkeit über das gesamte Berufsleben hinweg, da er sich nicht auf die Vermittlung aktueller
+(1) Der erfolgreiche Abschluss des Studiums qualifiziert die Absolventinnen und Absolventen durch seine Grundlagenorientierung zu erfolgreicher Tätigkeit über das gesamte Berufsleben hinweg, da er sich nicht auf die Vermittlung aktueller
 Inhalte beschränkt, sondern theoretisch untermauerte grundlegende Konzepte und Methoden vermittelt, die über aktuelle
 Trends hinweg Bestand haben.
 
@@ -52,8 +51,6 @@ und die eigenen Ergebnisse zu kommunizieren.
 4. Die Absolventinnen und Absolventen haben die methodische Kompetenz erworben, um programmiertechnische
 Probleme insbesondere auch im Kontext komplexer Systeme unter ausgewogener Berücksichtigung technischer,
 ökonomischer und gesellschaftlicher Randbedingungen erfolgreich bearbeiten zu können.
-8
-
 5. Die Absolventinnen und Absolventen sind sich der vielfältigen Sicherheitsprobleme bewusst, die mit dem Einsatz
 von Informatiksystemen, insbesondere in Rechner-Netzwerken, verbunden sind; sie wissen, welche Techniken und
 Verfahren für die Sicherung von Systemen zum Einsatz kommen.
@@ -104,8 +101,6 @@ samen europäischen Referenzrahmens für Sprachen des Europarates“ vom Septemb
 nachzuweisen durch eines der nachfolgend aufgeführten Dokumente:
 
 a) Abiturzeugnis, Oberstufenzeugnisse oder anderen Nachweis über in der Regel mindestens vierjährigen Schulunterricht
-9
-
 (ab Sekundarstufe 1) in Englisch. Der Nachweis von drei Jahren Schulunterricht reicht aus, sofern die Sprache bis
 zum Abschluss, der zum Hochschulzugang berechtigt, geführt wurde.
 b) Nachweis über einen UNIcert-Abschluss der Stufe I,

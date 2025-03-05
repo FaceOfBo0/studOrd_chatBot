@@ -10,7 +10,6 @@ Gesamtnote (RO: § 42)
 „bestanden“ oder „nicht bestanden“ bewertet. Die Benotung beziehungsweise Bewertung der Prüfungsleistungen wird von
 den jeweiligen Prüferinnen und Prüfern vorgenommen. Dabei ist stets die individuelle Leistung der oder des Studierenden
 zugrunde zu legen.
-29
 
 (3) Für die Benotung der einzelnen Prüfungsleistungen sind folgende Noten zu verwenden:
 1
@@ -89,7 +88,6 @@ satisfactory
 sufficient
 über 4,0
 fail
-30
 
 (11) Bei einer Gesamtnote bis einschließlich 1,1 und einer mit der Note 1,0 bewerteten Bachelorarbeit lautet das Gesamtur-
 teil „mit Auszeichnung bestanden“. Die englischsprachige Übersetzung von „mit Auszeichnung bestanden“ lautet: „with

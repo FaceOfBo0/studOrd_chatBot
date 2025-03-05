@@ -17,8 +17,6 @@ noch nicht erfolgreich abgeschlossen ist.
 (2) Alle nicht bestandenen Pflichtmodulprüfungen müssen wiederholt werden.
 
 (3) Nicht bestandene Modulprüfungen können höchstens zweimal wiederholt werden. Die Regelungen der Absätze 9 und
-31
-
 10 und die Regelungen des § 39 bleiben unberührt.
 
 (4) Eine nicht bestandene Bachelorarbeit kann einmal wiederholt werden. Es wird ein anderes Thema ausgegeben. Eine
@@ -73,8 +71,6 @@ des dritten Fachsemesters entsprechend § 26 nicht erreicht wurde.
 
 (3) Über das endgültige Nichtbestehen der Bachelorprüfung und den Verlust des Prüfungsanspruchs, ebenso über den
 Verlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main, wird ein
-32
-
 Bescheid erteilt, der mit einer Rechtsbehelfsbelehrung versehen ist.
 
 (4) Hat die oder der Studierende die Gesamtprüfung endgültig nicht bestanden und damit den Prüfungsanspruch endgültig

@@ -8,8 +8,6 @@ Prüfungsereignisse, welche begrenzt wiederholbar sind und in der Regel mit Note
 (2) Module schließen mit einer einzigen Modulprüfung ab, welche auch im zeitlichen Zusammenhang zu einer der
 Lehrveranstaltungen des Moduls durchgeführt werden kann (veranstaltungsbezogene Modulprüfung).
 
-24
-
 (3) Durch die Modulprüfung soll die oder der Studierende nachweisen, dass sie oder er die Inhalte und Methoden des
 Moduls in den wesentlichen Zusammenhängen beherrscht und die erworbenen Kenntnisse und Fähigkeiten anwenden
 kann. Gegenstand der Modulprüfungen sind grundsätzlich die in den Modulbeschreibungen festgelegten Inhalte der
@@ -61,8 +59,6 @@ dürfen. Die zugelassenen Hilfsmittel sind rechtzeitig vor der Prüfung bekannt 
 
 (1) Mündliche Prüfungen werden von der oder dem Prüfenden in Gegenwart einer oder eines Beisitzenden als Einzelprüfung
 abgehalten. Gruppenprüfungen mit bis zu fünf Studierenden sind möglich.
-
-25
 
 (2) Die Dauer der mündlichen Prüfungen liegt zwischen mindestens 15 Minuten und höchstens 60 Minuten pro zu
 prüfender Studierender oder zu prüfendem Studierenden. Die Dauer der jeweiligen Modulprüfung ergibt sich aus der
@@ -120,8 +116,6 @@ oder dem Studierenden zutreffend beantworteten Fragen die durchschnittliche Prü
 beteiligten Studierenden um nicht mehr als 22 % unterschreitet, die erstmals an der Prüfung teilgenommen haben.
 
 (3) Wenn Umstände eintreten, die erwarten lassen, dass bei Klausuren mit mehr als 25 % Anteil Multiple-Choice-Fragen
-26
-
 die Klausurergebnisse nicht mehr die Anforderungen von Abs. 2 erfüllen, kann der Prüfungsausschuss die Zulassung von
 Klausuren mit mehr als 25 % Multiple-Choice-Fragen aussetzen.
 
@@ -175,8 +169,6 @@ Die Abgabe der Hausarbeit ist durch die oder den Prüfenden aktenkundig zu mache
 (6) Die Bewertung der Hausarbeit durch die Prüferin oder den Prüfer soll binnen sechs Wochen nach Einreichung erfolgt
 sein; die Beurteilung ist schriftlich zu begründen. Im Übrigen findet § 33 Abs. 7 entsprechende Anwendung.
 (7) Eine Studierende oder ein Studierender, deren oder dessen Hausarbeit mit „nicht ausreichend“ (5,0) bewertet worden
-27
-
 ist, kann bei der oder dem Prüfenden die Nachbesserung der Hausarbeit beantragen. Dies gilt nicht, wenn die Bewertung
 mit „nicht ausreichend“ (5,0) auf § 24 oder auf § 27 beruht. Die oder der Prüfende setzt eine Frist für die Nachbesserung
 der Hausarbeit. Bei der Entscheidung über die nachgebesserte Hausarbeit wird lediglich darüber entschieden, ob die
@@ -228,8 +220,6 @@ Zweitgutachterin oder eines Zweitgutachters mit hinreichender sprachlicher Quali
 besteht.
 (12) Das gestellte Thema kann nur einmal und nur innerhalb der ersten Hälfte der Bearbeitungszeit zurückgegeben
 werden. Das neu gestellte Thema muss sich inhaltlich von dem zurückgegebenen Thema unterscheiden. Wird infolge des
-28
-
 Rücktritts gemäß Abs. 13 Satz 3 ein neues Thema für die Bachelorarbeit ausgegeben, so ist die Rückgabe dieses Themas
 ausgeschlossen.
 (13) Kann der Abgabetermin aus von der oder dem Studierenden nicht zu vertretenden Gründen (z.B. Erkrankung der

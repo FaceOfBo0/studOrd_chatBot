@@ -46,7 +46,6 @@ schuss festzulegenden Prüfungszeiträumen durchgeführt werden. Die Prüfungsze
 und die letzten beiden Wochen der vorlesungsfreien Zeit. Der Prüfungsausschuss bestimmt die genauen Termine für die
 Wiederholungen von Klausuren und gibt diese rechtzeitig bekannt. Die erste Wiederholungsprüfung soll am Ende des
 entsprechenden Semesters, spätestens jedoch zu Beginn des folgenden Semesters durchgeführt werden.
-19
 
 (3) Die exakten Prüfungstermine für die Modulprüfungen werden durch den Prüfungsausschuss im Einvernehmen mit
 den Prüfenden festgelegt. Das Prüfungsamt gibt den Studierenden in einem Prüfungsplan möglichst frühzeitig, spätestens
@@ -99,8 +98,6 @@ oder wenn der Prüfungsanspruch endgültig verloren ist.
 
 (1) Eine Modulprüfungsleistung gilt als „nicht ausreichend“ (5,0) gemäß § 36 Abs. 3, wenn die oder der Studierende
 einen für sie oder ihn verbindlichen Prüfungstermin ohne wichtigen Grund versäumt oder vor Beendigung der Prüfung die
-20
-
 Teilnahme abgebrochen hat. Dasselbe gilt, wenn sie oder er eine schriftliche Modulprüfungsleistung nicht innerhalb der
 vorgegebenen Bearbeitungszeit erbracht oder als Modulprüfungsleistung in einer schriftlichen Aufsichtsarbeit ein leeres
 Blatt abgegeben oder in einer mündlichen Prüfung geschwiegen hat.
@@ -128,8 +125,7 @@ wird.
 (5) Bei anerkanntem Rücktritt oder Versäumnis bleiben die Prüfungsergebnisse in bereits abgelegten Teilen des Moduls
 bestehen.
 
-§ 25 Studien- und Prüfungsleistungen bei Krankheit und Behinderung; besondere Lebenslagen (RO:
-§ 27)
+§ 25 Studien- und Prüfungsleistungen bei Krankheit und Behinderung; besondere Lebenslagen (RO: § 27)
 
 (1) In Veranstaltungen und Prüfungen ist Rücksicht zu nehmen auf Art und Schwere einer Behinderung oder einer
 chronischen Erkrankung der oder des Studierenden oder auf Belastungen durch Schwangerschaft oder die Erziehung von
@@ -155,8 +151,6 @@ der oder dem Veranstaltungsverantwortlichen.
 
 (1) Studierende, welche nach Abschluss des ersten Semesters kein Basismodul bestanden haben, werden durch das
 Prüfungsamt aufgefordert, die Studienfachberatung aufzusuchen. Nach diesem Gespräch können Fristen gesetzt oder
-21
-
 Auflagen erteilt werden. Studierende, die das Beratungsgespräch ohne Angabe von Gründen nicht wahrnehmen und sich
 nicht zur Bachelorprüfung angemeldet haben, verlieren den Prüfungsanspruch im Bachelorstudiengang Informatik an der
 Goethe-Universität Frankfurt am Main. Bis zum Beginn des dritten Fachsemesters müssen zwei Basismodule bestanden sein.
@@ -211,7 +205,6 @@ herbeigeführt, kann der Prüfungsausschuss entscheiden, dass die betreffende Pr
 ausreichend“ (5,0)) gilt.
 (6) Die oder der Studierende kann innerhalb einer Frist von vier Wochen schriftlich verlangen, dass Entscheidungen nach
 Absätzen 1 bis 5 vom Prüfungsausschuss überprüft werden.
-22
 
 (7) Belastende Entscheidungen des Prüfungsausschusses sind der oder dem Studierenden unverzüglich schriftlich mitzutei-
 len, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.
@@ -267,8 +260,6 @@ mit der oder dem Vorsitzenden des Prüfungsausschusses oder einer oder einem hie
 Anerkennungsfähigkeit von Studien- und Prüfungsleistungen führen.
 
 (6) Abschlussarbeiten (z.B. Bachelorarbeiten, Staatsexamensarbeiten), welche Studierende außerhalb des Bachelorstudien-
-23
-
 gangs Informatik der Goethe-Universität bereits erfolgreich erbracht haben, werden nicht angerechnet. Weiterhin ist eine
 mehrfache Anrechnung ein- und derselben Leistung im Bachelorstudiengang Informatik nicht möglich.
 

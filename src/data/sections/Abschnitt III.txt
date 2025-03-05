@@ -88,7 +88,6 @@ PF
 Siehe Anlage 5
 SUMME
 180
-10
 
 (5) Die Wählbarkeit von Wahlpflichtmodulen kann bei fehlender Kapazität durch Fachbereichsratsbeschluss eingeschränkt
 werden. Die Einschränkung ist den Studierenden unverzüglich durch das Dekanat bekannt zu geben. § 16 Abs. 2 findet
@@ -143,8 +142,6 @@ fahrungen sollen als Praktikum angerechnet werden.
 
 § 12 Modulbeschreibungen/Modulhandbuch (RO: § 14)
 
-11
-
 (1) Zu jedem Pflicht- und Wahlpflichtmodul enthalten die Anlagen 2, 3, 4, 5 und 6 eine Modulbeschreibung nach Maßgabe
 von § 14 Abs. 2 RO. Die Modulbeschreibungen sind Bestandteil dieser Ordnung.
 
@@ -193,8 +190,6 @@ Semesters.
 (3) Für den sechssemestrigen Bachelorstudiengang Informatik sind 180 CP nachzuweisen.
 
 (4) Die CP werden nur für ein vollständig und erfolgreich absolviertes Modul vergeben.
-
-12
 
 (5) Für jede Studierende und jeden Studierenden des Studiengangs wird beim Prüfungsamt ein Kreditpunktekonto einge-
 richtet. Im Rahmen der organisatorischen Möglichkeiten kann die oder der Studierende jederzeit in den Stand des Kontos
@@ -305,8 +300,6 @@ und Gruppenarbeiten. Diese Aufgaben werden weder benotet noch mit bestanden/nich
 (5) Ein nach der Modulbeschreibung zu einer Lehrveranstaltung geforderter Leistungsnachweis dokumentiert die erfolgrei-
 che Erbringung einer Studienleistung. Die Studienleistung ist erfolgreich erbracht, wenn sie durch die Lehrende oder den
 Lehrenden nach Maßgabe der Modulbeschreibung mit „bestanden“ oder unter Anwendung des § 36 Abs.3 mittels Note
-14
-
 positiv bewertet wurde. Bei Gruppenarbeiten muss die individuelle Leistung deutlich abgrenzbar und bewertbar sein. Die
 Noten der Studienleistungen gehen nicht in die Modulnote bzw. Gesamtnote für die Bachelorprüfung ein; § 36 Abs.6 bleibt
 unberührt. Sofern dies die oder der Lehrende voraussetzt, ist für einen Leistungsnachweis auch die regelmäßige Teilnahme
@@ -367,8 +360,6 @@ Lehrangebots. Dieses ist für jedes Semester zu aktualisieren und soll in der le
 Semesters in geeigneter Weise erscheinen.
 
 § 17 Studienberatung; Orientierungsveranstaltung (RO: § 19)
-
-15
 
 (1) Die Studierenden haben die Möglichkeit, während des gesamten Studienverlaufs die Studienfachberatung für den
 Bachelorstudiengang Informatik des Fachbereichs Informatik und Mathematik aufzusuchen. Die Studienfachberatung

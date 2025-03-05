@@ -1,3 +1,4 @@
+from Preprocessing.PreProcessorNew import PreProcessorNew
 from Retrieval.RetrieverHF import RetrieverHF
 from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
@@ -6,20 +7,29 @@ from Generation.Generator import Generator
 if __name__ == '__main__':
     # sections = FileHandler.read_files("src/data/sections")
     # documents = PreProcessor.sections_chunks(sections)
+    preProc = PreProcessorNew()
+    #regulation = preProc.process_regulation()
 
-    query = "Was sind die Voraussetzungen zur Zulassung zum Bachelorstudium Informatik gemäß § 8 der Studienordnung?"
-    retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
-    generator = Generator()
+    # for section in regulation.sections:
+    #    print(f"Section {section.number}: {section.title}")
+    
+    #preProc.save_to_json(regulation, "src/data/studyReg.json")
+    new = preProc.load_from_json("src/data/studyReg.json")
+    for sec in new.sections:
+        print(f"Section {sec.number}: {sec.title}")
+    # query = "Was sind die Voraussetzungen zur Zulassung zum Bachelorstudium Informatik gemäß § 8 der Studienordnung?"
+    # retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
+    # generator = Generator()
 
-    context = retriever.get_ctx_from_db(query, 2)
-    answer = generator.gen_response_oll("llama3.2:3b", query, context)
+    # context = retriever.get_ctx_from_db(query, 2)
+    # answer = generator.gen_response_oll("llama3.2:3b", query, context)
 
-    print("Kontext:\n")
-    for i, elem in enumerate(context):
-        print (i+1,":",elem,"\n")
+    # print("Kontext:\n")
+    # for i, elem in enumerate(context):
+    #     print (i+1,":",elem,"\n")
 
-    print("Antwort:\n")
-    print(answer,"\n")
+    # print("Antwort:\n")
+    # print(answer,"\n")
 
 
 
