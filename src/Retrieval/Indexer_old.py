@@ -6,7 +6,7 @@ import numpy as np
 
 from transformers import AutoTokenizer, AutoModel
 from sklearn.feature_extraction.text import TfidfVectorizer
-from Preprocessing import PreProcessor
+from Preprocessing import PreProcessorOld
 
 
 def paragraph_chunks_v2(text: str, chunk_size: int = 300) -> list:
@@ -85,7 +85,7 @@ def create_index_v2(sections: dict) -> tuple:
     chunks = []
 
     for section_title, text in sections.items():
-        section_chunks = PreProcessor.paragraph_chunks(text)
+        section_chunks = PreProcessorOld.parse_paragraph(text)
         chunks.extend(section_chunks)
 
     # Load the Hugging Face model and tokenizer
@@ -151,7 +151,7 @@ def create_index(sections: dict) -> tuple:
     chunks = []
 
     for _, text in sections.items():
-        section_chunks = PreProcessor.paragraph_chunks(text)
+        section_chunks = PreProcessorOld.parse_paragraph(text)
         chunks.extend(section_chunks)
         # section_map.update({chunk: section_title for chunk in section_chunks})
 

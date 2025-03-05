@@ -17,7 +17,18 @@ class RetrieverHF(RetrieverABC):
         embeddings = self._model.encode(docs)
         return embeddings
 
-    def create_embds_to_db(self, docs: list[str]):
+    def save_embds_to_db_sent(self, docs: list[str]):
+        collection = self._db.create_collection(name="docs_sent")
+        embds = self._model.encode(docs, device="cuda")
+
+        for i, doc in enumerate(docs):
+            collection.add(
+                ids=[str(i)],
+                embeddings=embds[i],
+                documents=[doc]
+            )
+
+    def save_embds_to_db_para(self, docs: list[str]):
         collection = self._db.create_collection(name="docs")
         embds = self._model.encode(docs, device="cuda")
 
@@ -28,7 +39,18 @@ class RetrieverHF(RetrieverABC):
                 documents=[doc]
             )
 
-    def get_ctx_from_db(self, query: str, top_k: int) -> list[str]:
+    def get_ctx_from_db_sent(self, query: str, top_k: int) -> list[str]:
+        collection = self._db.get_collection(name="docs_sent")
+        query_embd = self._model.encode(query, convert_to_numpy=True, device="cuda")
+        
+        results = collection.query(
+            query_embeddings=query_embd,
+            n_results=top_k
+        )
+        
+        return results["documents"][0] if results and results["documents"] else []
+
+    def get_ctx_from_db_para(self, query: str, top_k: int) -> list[str]:
         collection = self._db.get_collection(name="docs")
         query_embd = self._model.encode(query, convert_to_numpy=True, device="cuda")
         

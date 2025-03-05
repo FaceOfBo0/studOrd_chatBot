@@ -16,8 +16,8 @@ def query():
     data = request.get_json(silent=True) or {}
     query = data.get('query', '')
 
-    contexts = retriever.get_ctx_from_db(query, 2)
-    response = generator.gen_response_oll("llama3.2:3b", query, contexts)
+    contexts = retriever.get_ctx_from_db_para(query, 2)
+    response = generator.gen_response_oll("llama3.1:8b", query, contexts)
     
     return jsonify({
         'response': response,

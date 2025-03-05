@@ -24,16 +24,10 @@
               },
               {
                 "number": "2",
-                "content": "Durch die kumulative Bachelorprüfung soll festgestellt werden, ob die oder der Studierende hinreichende Fachkenntnisse\nin den Prüfungsgebieten erworben hat und die Fähigkeit besitzt, grundlegende wissenschaftliche Methoden und Kenntnisse\nselbstständig anzuwenden sowie auf einen Übergang in die Berufspraxis oder für ein konsekutives Studium vorbereitet ist.",
+                "content": "Durch die kumulative Bachelorprüfung soll festgestellt werden, ob die oder der Studierende hinreichende Fachkenntnisse\nin den Prüfungsgebieten erworben hat und die Fähigkeit besitzt, grundlegende wissenschaftliche Methoden und Kenntnisse\nselbstständig anzuwenden sowie auf einen Übergang in die Berufspraxis oder für ein konsekutives Studium vorbereitet ist.\n\n§ 3 Akademischer Grad (RO: § 3)\n\nNach erfolgreich absolviertem Studium und bestandener Prüfung verleiht der Fachbereich Informatik und Mathematik den\nakademischen Grad eines Bachelor of Science, abgekürzt als B.Sc.",
                 "subpoints": []
               }
             ]
-          },
-          {
-            "number": "3",
-            "title": "Akademischer Grad (RO: § 3)",
-            "content": "Nach erfolgreich absolviertem Studium und bestandener Prüfung verleiht der Fachbereich Informatik und Mathematik den\nakademischen Grad eines Bachelor of Science, abgekürzt als B.Sc.",
-            "points": []
           },
           {
             "number": "4",
@@ -57,16 +51,9 @@
               },
               {
                 "number": "4",
-                "content": "Der Fachbereich Informatik und Mathematik stellt auf der Grundlage dieser Ordnung ein Lehrangebot bereit und sorgt\nfür die Festsetzung geeigneter Prüfungstermine, so dass das Studium in der Regelstudienzeit abgeschlossen werden kann.",
+                "content": "Der Fachbereich Informatik und Mathematik stellt auf der Grundlage dieser Ordnung ein Lehrangebot bereit und sorgt\nfür die Festsetzung geeigneter Prüfungstermine, so dass das Studium in der Regelstudienzeit abgeschlossen werden kann.\n\n§ 5 Auslandsstudium (RO: § 5)",
                 "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "5",
-            "title": "Auslandsstudium (RO: § 5)",
-            "content": "",
-            "points": [
+              },
               {
                 "number": "1",
                 "content": "Es wird empfohlen, im Verlauf des Bachelorstudiums für mindestens ein Semester an einer Universität im Ausland\nzu studieren bzw. einen entsprechenden Auslandsaufenthalt einzuplanen. Dafür können die Verbindungen der Goethe-\nUniversität mit ausländischen Universitäten genutzt werden, über die in der Studienfachberatung und im International Office\nAuskunft erteilt wird.",
@@ -385,43 +372,6 @@
             ]
           },
           {
-            "number": "13",
-            "title": "Umfang des Studiums und der Module; Kreditpunkte (CP) (RO: § 15)",
-            "content": "",
-            "points": [
-              {
-                "number": "1",
-                "content": "Jedem Modul werden in der Modulbeschreibung Kreditpunkte (CP) auf der Basis des European Credit Transfer\nSystems (ECTS) unter Berücksichtigung der Beschlüsse und Empfehlungen der Kultusministerkonferenz und Hochschul-\nrektorenkonferenz zugeordnet. Die CP ermöglichen die Übertragung erbrachter Leistungen auf andere Studiengänge der\nGoethe-Universität oder einer anderen Hochschule beziehungsweise umgekehrt.",
-                "subpoints": []
-              },
-              {
-                "number": "2",
-                "content": "CP sind ein quantitatives Maß für den Arbeitsaufwand (Workload), den durchschnittlich begabte Studierende für den\nerfolgreichen Abschluss des entsprechenden Moduls für das Präsenzstudium, die Teilnahme an außeruniversitären Praktika,\ndie Vor- und Nachbereitung des Lehrstoffs, die Vorbereitung und Ausarbeitung eigener Beiträge und Prüfungsleistungen\naufwenden müssen. Ein CP entspricht einem Arbeitsaufwand von 30 Stunden. Als regelmäßige Arbeitsbelastung werden\nhöchstens 1800 Arbeitsstunden je Studienjahr angesetzt. 30 CP entsprechen der durchschnittlichen Arbeitsbelastung eines\nSemesters.",
-                "subpoints": []
-              },
-              {
-                "number": "3",
-                "content": "Für den sechssemestrigen Bachelorstudiengang Informatik sind 180 CP nachzuweisen.",
-                "subpoints": []
-              },
-              {
-                "number": "4",
-                "content": "Die CP werden nur für ein vollständig und erfolgreich absolviertes Modul vergeben.",
-                "subpoints": []
-              },
-              {
-                "number": "5",
-                "content": "Für jede Studierende und jeden Studierenden des Studiengangs wird beim Prüfungsamt ein Kreditpunktekonto einge-\nrichtet. Im Rahmen der organisatorischen Möglichkeiten kann die oder der Studierende jederzeit in den Stand des Kontos\nEinblick nehmen.",
-                "subpoints": []
-              },
-              {
-                "number": "6",
-                "content": "Der Arbeitsumfang (Workload) wird im Rahmen der Evaluierung nach § 12 Abs. 1 und Abs. 2 HHG sowie zur\nReakkreditierung des Studiengangs überprüft und an die durch die Evaluierung ermittelte Arbeitsbelastung angepasst.",
-                "subpoints": []
-              }
-            ]
-          },
-          {
             "number": "14",
             "title": "Lehr- und Lernformen; Zugang zu Modulen (RO: § 16)",
             "content": "",
@@ -466,7 +416,7 @@
               },
               {
                 "number": "2",
-                "content": "Ist nach Maßgabe der Modulbeschreibung der Zugang zu den Lehrveranstaltungen eines Moduls vom erfolgreichen\nAbschluss anderer Module oder vom Besuch der Studienfachberatung abhängig oder wird in der Modulbeschreibung\ndie Teilnahme an einer einzelnen Lehrveranstaltung von einem Teilnahme- oder Leistungsnachweis für eine andere\nLehrveranstaltung vorausgesetzt, wird die Teilnahmeberechtigung durch das Prüfungsamt überprüft.",
+                "content": "Ist nach Maßgabe der Modulbeschreibung der Zugang zu den Lehrveranstaltungen eines Moduls vom erfolgreichen\nAbschluss anderer Module oder vom Besuch der Studienfachberatung abhängig oder wird in der Modulbeschreibung\ndie Teilnahme an einer einzelnen Lehrveranstaltung von einem Teilnahme- oder Leistungsnachweis für eine andere\nLehrveranstaltung vorausgesetzt, wird die Teilnahmeberechtigung durch das Prüfungsamt überprüft.\n13",
                 "subpoints": []
               },
               {
@@ -477,53 +427,6 @@
               {
                 "number": "4",
                 "content": "Ist zu erwarten, dass die Zahl der an einer Lehrveranstaltung interessierten Studierenden die Aufnahmefähigkeit der\nLehrveranstaltung übersteigt, kann die Lehrveranstaltungsleitung ein Anmeldeverfahren durchführen. Die Anmeldevor-\naussetzungen und die Anmeldefrist werden im kommentierten Vorlesungsverzeichnis oder auf andere geeignete Weise\nbekannt gegeben. Übersteigt die Zahl der angemeldeten Studierenden die Aufnahmefähigkeit der Lehrveranstaltung oder ist\ndie Lehrveranstaltung überfüllt und kann nicht auf alternative Veranstaltungen verwiesen werden, prüft das Dekanat des\nveranstaltenden Fachbereichs auf Antrag der Lehrveranstaltungsleitung, ob eine zusätzliche Lehrveranstaltung eingerichtet\nwerden kann. Ist dies aus Kapazitätsgründen nicht möglich, ist es zur Gewährleistung der ordnungsgemäßen Durchführung\nder Lehrveranstaltung zulässig, nur eine begrenzte Anzahl der teilnahmewilligen und –berechtigten Studierenden aufzuneh-\nmen; hierbei sind die Richtwerte für die Mindestgruppengrößen der Lehrveranstaltungsarten gemäß dem Ausführungserlass\ndes Hessischen Ministeriums für Wissenschaft und Kunst zur Kapazitätsverordnung Hessen in der jeweils gültigen Fassung\nzu beachten. In diesem Fall ist durch die Veranstaltungsleitung nach den Richtlinien des Dekanats oder des Fachbereichsrates\ndes veranstaltenden Fachbereichs ein geeignetes transparentes Auswahlverfahren, das nicht die zeitliche Reihenfolge der\nAnmeldungen berücksichtigt, durchzuführen. Bei der Erstellung der Auswahlkriterien ist sicherzustellen, dass diejenigen\nStudierenden bei der Aufnahme in die Lehrveranstaltung Priorität genießen, für die die Lehrveranstaltung verpflichtend ist\nund die im besonderen Maße ein Interesse an der Aufnahme haben; dabei sind die Belange der Studierenden in besonderen\nLebenslagen im Sinne von § 25 Abs. 1 zu berücksichtigen. Die entsprechenden Nachweise sind von den Studierenden\nvorzulegen. Ein besonderes Interesse an der Aufnahme in die Lehrveranstaltung ist insbesondere auch dann gegeben, wenn\nder oder die Studierende nach dem Studienverlaufsplan bereits im vorangegangenen Semester einen Anspruch auf den Platz\nhatte und trotz Anmeldung keinen Platz erhalten konnte. Bei Pflichtveranstaltungen muss angemeldeten aber nicht in die\nLehrveranstaltung aufgenommenen Studierenden auf Verlangen hierüber eine Bescheinigung ausgestellt werden.",
-                "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "15",
-            "title": "Studiennachweise (Leistungs- und Teilnahmenachweise) (RO: § 17)",
-            "content": "",
-            "points": [
-              {
-                "number": "1",
-                "content": "Während des Studiums sind Studiennachweise (Leistungs- und Teilnahmenachweise) als Nachweis des ordnungsge-\nmäßen Studiums (Prüfungsvorleistungen) beziehungsweise, zusammen mit den CP für die bestandene Modulprüfung, als\nVoraussetzung für die Vergabe der für das Modul zu erbringenden CP vorgesehen. Für die Modulprüfungen gelten die §§ 31\nff., für die Leistungsnachweise gelten folgende Regelungen:",
-                "subpoints": []
-              },
-              {
-                "number": "2",
-                "content": "Sofern in der Modulbeschreibung die Verpflichtung zur regelmäßigen Teilnahme für Veranstaltungen geregelt ist,\nwird diese durch Teilnahmenachweise oder durch Anwesenheitslisten dokumentiert. Über die Form der Dokumentation\nentscheidet die Veranstaltungsleitung. Die Bescheinigung der regelmäßigen Teilnahme gilt nicht als Studienleistung im\nSinne des Abs. 5.",
-                "subpoints": []
-              },
-              {
-                "number": "3",
-                "content": "Die regelmäßige Teilnahme an einer Lehrveranstaltung ist gegeben, wenn die oder der Studierende in allen, von\nder Veranstaltungsleitung im Verlauf eines Semesters angesetzten Einzelveranstaltungen anwesend war. Sie ist noch zu\nbestätigen, wenn die oder der Studierende bis zu drei Einzelveranstaltungen bei 15 Terminen oder 20 % der Veranstal-\ntungszeit bei weniger Terminen versäumt hat. Bei Überschreitung der zulässigen Fehlzeit aus Gründen, die die oder der\nStudierende nicht zu vertreten hat, wie z.B. Krankheit, notwendige Betreuung eines im selben Haushalt lebenden Kindes\noder Pflege eines nahen Angehörigen (Kinder, Eltern, Großeltern, Ehepartnerin/Ehepartner, Partnerin/Partner in einer nicht\nehelichen Lebensgemeinschaft) oder Mitwirkung als ernannte oder gewählte Vertreterin oder Vertreter in der akademischen\noder studentischen Selbstverwaltung, entscheidet die oder der Modulbeauftragte, ob und in welcher Art und Weise eine\nÄquivalenzleistung erforderlich und angemessen ist. Die Regelungen zum Nachteilsausgleich in § 25 sind zu beachten.",
-                "subpoints": []
-              },
-              {
-                "number": "4",
-                "content": "Abweichend von Abs. 3 kann in der Modulbeschreibung für die Ausstellung eines Teilnahmenachweises auch festgelegt\nsein, dass die oder der Studierende nicht nur regelmäßig im Sinne von Abs. 2, sondern auch aktiv an der Lehrveranstaltung\nteilgenommen hat. Sie kann aber auch lediglich die aktive Teilnahme voraussetzen. Eine aktive Teilnahme beinhaltet je\nnach Festlegung durch die Veranstaltungsleitung die Erbringung kleinerer Arbeiten wie Protokolle, mündliche Kurzreferate\nund Gruppenarbeiten. Diese Aufgaben werden weder benotet noch mit bestanden/nicht bestanden bewertet.",
-                "subpoints": []
-              },
-              {
-                "number": "5",
-                "content": "Ein nach der Modulbeschreibung zu einer Lehrveranstaltung geforderter Leistungsnachweis dokumentiert die erfolgrei-\nche Erbringung einer Studienleistung. Die Studienleistung ist erfolgreich erbracht, wenn sie durch die Lehrende oder den\nLehrenden nach Maßgabe der Modulbeschreibung mit „bestanden“ oder unter Anwendung des § 36 Abs.3 mittels Note\npositiv bewertet wurde. Bei Gruppenarbeiten muss die individuelle Leistung deutlich abgrenzbar und bewertbar sein. Die\nNoten der Studienleistungen gehen nicht in die Modulnote bzw. Gesamtnote für die Bachelorprüfung ein; § 36 Abs.6 bleibt\nunberührt. Sofern dies die oder der Lehrende voraussetzt, ist für einen Leistungsnachweis auch die regelmäßige Teilnahme\nan der Lehrveranstaltung im Sinne von Abs. 3 erforderlich.",
-                "subpoints": []
-              },
-              {
-                "number": "6",
-                "content": "Studienleistungen können insbesondere sein\n\n• Klausuren\n• schriftliche Ausarbeitungen beziehungsweise Hausarbeiten\n• Referate (mit oder ohne Ausarbeitung)\n• Fachgespräche\n• Arbeitsberichte, Protokolle\n• Bearbeitung von Übungsaufgaben\n• Durchführung von Versuchen\n• Tests\n• Literaturberichte oder Dokumentationen\n\nDie Form und die Frist, in der die Studienleistung zu erbringen ist, gibt die oder der Lehrende den Studierenden zu Beginn\nder Lehrveranstaltung bekannt. Die Vergabekriterien für den Leistungsnachweis dürfen während des laufenden Semesters\nnicht zum Nachteil der Studierenden geändert werden. Die oder der Lehrende kann den Studierenden die Nachbesserung\neiner schriftlichen Leistung unter Setzung einer Frist ermöglichen.",
-                "subpoints": []
-              },
-              {
-                "number": "7",
-                "content": "Nicht unter Aufsicht zu erbringende schriftliche Arbeiten sind von der oder dem Studierenden nach den Regeln guter\nwissenschaftlicher Praxis anzufertigen. Die oder der Studierende hat bei der Abgabe der Arbeit schriftlich zu versichern, dass\nsie oder er diese selbstständig verfasst und alle von ihr oder ihm benutzten Quellen und Hilfsmittel in der Arbeit angegeben\nhat. Ferner ist zu erklären, dass die Arbeit noch nicht – auch nicht auszugsweise – in einem anderen Studiengang als Studien-\noder Prüfungsleistung verwendet wurde. § 27 gilt entsprechend. Um die Einhaltung der Regeln guter wissenschaftlicher\nPraxis überprüfen zu können, sind die Lehrenden berechtigt, von den Studierenden die Vorlage nicht unter Aufsicht\nerbrachter schriftlicher Arbeiten auch in geeigneter elektronischer Form zu verlangen. Der Prüfungsausschuss trifft hierzu\nnähere Festlegungen.",
-                "subpoints": []
-              },
-              {
-                "number": "8",
-                "content": "Bestandene Studienleistungen können nicht wiederholt werden. Nicht bestandene Studienleistungen sind unbeschränkt\nwiederholbar.",
                 "subpoints": []
               }
             ]
@@ -567,16 +470,9 @@
               },
               {
                 "number": "3",
-                "content": "Vor Beginn der Vorlesungszeit eines jeden Semesters, in dem Studierende ihr Studium aufnehmen können, findet eine\nOrientierungsveranstaltung statt, zu der die Studienanfängerinnen und Studienanfänger durch Aushang oder anderweitig\neingeladen werden. In dieser wird über die Struktur und den Gesamtaufbau des Studiengangs und über semesterspezifische\nBesonderheiten informiert. Den Studierenden wird Gelegenheit gegeben, insbesondere die Studienorganisation betreffende\nFragen zu klären.",
+                "content": "Vor Beginn der Vorlesungszeit eines jeden Semesters, in dem Studierende ihr Studium aufnehmen können, findet eine\nOrientierungsveranstaltung statt, zu der die Studienanfängerinnen und Studienanfänger durch Aushang oder anderweitig\neingeladen werden. In dieser wird über die Struktur und den Gesamtaufbau des Studiengangs und über semesterspezifische\nBesonderheiten informiert. Den Studierenden wird Gelegenheit gegeben, insbesondere die Studienorganisation betreffende\nFragen zu klären.\n\n§ 18 Akademische Leitung und Modulbeauftragte (RO: § 20)",
                 "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "18",
-            "title": "Akademische Leitung und Modulbeauftragte (RO: § 20)",
-            "content": "",
-            "points": [
+              },
               {
                 "number": "1",
                 "content": "Die Aufgabe der akademischen Leitung des Bachelorstudiengangs Informatik nimmt die Studiendekanin oder der\nStudiendekan des Fachbereichs Informatik und Mathematik wahr, sofern sie nicht auf ihren oder seinen Vorschlag vom Fach-\nbereichsrat auf ein im Bachelorstudiengang prüfungsberechtigtes Mitglied der Professorengruppe für die Dauer von 2 Jahren\nübertragen wird. Die akademische Leiterin oder der akademische Leiter ist beratendes Mitglied in der Studienkommission\nund hat insbesondere folgende Aufgaben: Koordination des Lehr- und Prüfungsangebots des Studiengangs im Zusammen-\nwirken mit den Modulbeauftragten, gegebenenfalls auch aus anderen Fachbereichen; Erstellung und Aktualisierung von\nPrüferlisten; Evaluation des Studiengangs und Umsetzung der gegebenenfalls daraus entwickelten qualitätssichernden\nMaßnahmen in Zusammenarbeit mit der Studienkommission (vgl. hierzu § 6 Evaluationssatzung für Lehre und Studium);\nggf. Bestellung der Modulbeauftragten (Abs. 2 bleibt unberührt).",
@@ -652,16 +548,9 @@
               },
               {
                 "number": "11",
-                "content": "Belastende Entscheidungen des Prüfungsausschusses oder der oder des Vorsitzenden des Prüfungsausschusses sind\nder oder dem Studierenden unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu\nversehen. Der oder dem Studierenden ist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben.",
+                "content": "Belastende Entscheidungen des Prüfungsausschusses oder der oder des Vorsitzenden des Prüfungsausschusses sind\nder oder dem Studierenden unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu\nversehen. Der oder dem Studierenden ist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben.\n\n§ 20 Aufgaben des Prüfungsausschusses (RO: § 22)",
                 "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "20",
-            "title": "Aufgaben des Prüfungsausschusses (RO: § 22)",
-            "content": "",
-            "points": [
+              },
               {
                 "number": "1",
                 "content": "Der Prüfungsausschuss und das für den Bachelorstudiengang Informatik zuständige Prüfungsamt sind für die Orga-\nnisation und die ordnungsgemäße Durchführung der Prüfungen im Bachelorstudiengang Informatik verantwortlich. Der\nPrüfungsausschuss achtet darauf, dass die Bestimmungen dieser Ordnung eingehalten werden und entscheidet bei Zweifeln\nzu Auslegungsfragen dieser Ordnung. Er entscheidet in allen Prüfungsangelegenheiten, die nicht durch Ordnung oder\nSatzung einem anderen Organ oder Gremium oder der oder dem Vorsitzenden des Prüfungsausschusses übertragen sind.",
@@ -675,38 +564,6 @@
               {
                 "number": "3",
                 "content": "Zum Zwecke der Überprüfung der Einhaltung guter wissenschaftlicher Praxis ist der Prüfungsausschuss berechtigt,\nwissenschaftliche Arbeiten auch mit Hilfe geeigneter elektronischer Mittel auf Täuschungen und Täuschungsversuche zu\nüberprüfen. Hierzu kann er verlangen, dass ihm innerhalb einer angemessenen Frist die Prüfungsarbeiten in elektronischer\nFassung vorgelegt werden. Kommt die Verfasserin oder der Verfasser dieser Aufforderung nicht nach, kann die Arbeit als\nnicht bestanden gewertet werden.",
-                "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "21",
-            "title": "Prüferinnen und Prüfer; Beisitzerinnen und Beisitzer (RO: 23)",
-            "content": "",
-            "points": [
-              {
-                "number": "1",
-                "content": "Zur Abnahme von Hochschulprüfungen sind Mitglieder der Professorengruppe, wissenschaftliche Mitarbeiterinnen\nund Mitarbeiter, die mit der selbstständigen Wahrnehmung von Lehraufgaben beauftragt worden sind, Lehrbeauftragte und\nLehrkräfte für besondere Aufgaben sowie in der beruflichen Praxis und Ausbildung erfahrene Personen, die von der Dekanin\noder dem Dekan mit der Abnahme von Prüfungsleistungen beauftragt wurde, befugt (§18 Abs. 2 HHG). Privatdozentinnen\nund Privatdozenten, außerplanmäßige Professorinnen und außerplanmäßige Professoren, Honorarprofessorinnen und\nHonorarprofessoren, die jeweils in den Prüfungsfächern eine Lehrtätigkeit ausüben, sowie entpflichtete und in den Ruhestand\ngetretene Professorinnen und Professoren, können durch den Prüfungsausschuss mit ihrer Einwilligung als Prüferinnen\noder Prüfer bestellt werden. Der Prüfungsausschuss kann im Einzelfall eine nicht der Goethe-Universität angehörende,\naber nach Satz 1 prüfungsberechtigte Person als Zweitgutachterin oder Zweitgutachter für die Bachelorarbeit bestellen.\nPrüfungsleistungen dürfen nur von Personen bewertet werden, die selbst mindestens die durch die Prüfung festzustellende\noder eine gleichwertige Qualifikation besitzen.",
-                "subpoints": []
-              },
-              {
-                "number": "2",
-                "content": "In der Regel wird die zu einem Modul gehörende Prüfung von den in dem Modul Lehrenden ohne besondere Bestellung\ndurch den Prüfungsausschuss abgenommen. Sollte eine Lehrende oder ein Lehrender aus zwingenden Gründen Prüfungen\nnicht abnehmen können, kann der Prüfungsausschuss eine andere Prüferin oder einen anderen Prüfer benennen.",
-                "subpoints": []
-              },
-              {
-                "number": "3",
-                "content": "Schriftliche Prüfungsleistungen der Basisphase, die nicht mehr wiederholt werden können, sind von zwei Prüfenden zu\nbewerten. § 35 Abs. 17 bleibt unberührt. Mündliche Prüfungen sind von mehreren Prüfenden oder von einer oder einem\nPrüfenden in Gegenwart einer oder eines Beisitzenden abzunehmen.",
-                "subpoints": []
-              },
-              {
-                "number": "4",
-                "content": "Zur Beisitzerin oder zum Beisitzer bei mündlichen Prüfungen darf nur ein Mitglied oder eine Angehörige oder ein\nAngehöriger der Goethe-Universität bestellt werden, das oder die oder der mindestens den Bachelorabschluss oder eine\nvergleichbaren Abschluss erreicht hat. Die Bestellung der Beisitzerin oder des Beisitzers erfolgt durch die Vorsitzende oder\nden Vorsitzenden des Prüfungsausschusses. Sie oder er kann die Bestellung an die Prüferin oder den Prüfer delegieren.",
-                "subpoints": []
-              },
-              {
-                "number": "5",
-                "content": "Prüferinnen, Prüfer, Beisitzerinnen und Beisitzer unterliegen der Amtsverschwiegenheit.",
                 "subpoints": []
               }
             ]
@@ -941,16 +798,9 @@
               },
               {
                 "number": "2",
-                "content": "Sechs Monate nach Abschluss der Prüfungsleistung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr\ngetroffen werden.",
+                "content": "Sechs Monate nach Abschluss der Prüfungsleistung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr\ngetroffen werden.\n\n§ 29 Anerkennung und Anrechnung von Leistungen (RO: § 31)",
                 "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "29",
-            "title": "Anerkennung und Anrechnung von Leistungen (RO: § 31)",
-            "content": "",
-            "points": [
+              },
               {
                 "number": "1",
                 "content": "Studienzeiten, Studienleistungen und Prüfungsleistungen werden ohne Gleichwertigkeitsprüfung angerechnet, wenn\nsie an einer Hochschule in Deutschland in dem gleichen Studiengang erbracht wurden, der Studiengang akkreditiert ist\nund bei den Modulen hinsichtlich der erreichten Qualifikationsziele keine wesentlichen Unterschiede bestehen. Kann\nder Prüfungsausschuss einen wesentlichen Unterschied nicht nachweisen, sind die Studienzeiten, Studienleistungen und\nPrüfungsleistungen anzurechnen.",
@@ -1013,16 +863,10 @@
               },
               {
                 "number": "13",
-                "content": "Sofern Anrechnungen vorgenommen werden, können diese mit Auflagen zu nachzuholenden Studien- oder Prüfungs-\nleistungen verbunden werden. Auflagen und eventuelle Fristen zur Auflagenerfüllung sind der Antragstellerin oder dem\nAntragsteller schriftlich mitzuteilen. Die Mitteilung ist mit einer Rechtsbehelfsbelehrung zu versehen.",
+                "content": "Sofern Anrechnungen vorgenommen werden, können diese mit Auflagen zu nachzuholenden Studien- oder Prüfungs-\nleistungen verbunden werden. Auflagen und eventuelle Fristen zur Auflagenerfüllung sind der Antragstellerin oder dem\nAntragsteller schriftlich mitzuteilen. Die Mitteilung ist mit einer Rechtsbehelfsbelehrung zu versehen.\n\n§ 30 Anrechnung von außerhalb einer Hochschule erworbenen Kompetenzen (RO: § 32)\n\nFür Kenntnisse und Fähigkeiten, die vor Studienbeginn oder während des Studiums außerhalb einer Hochschule erworben\nwurden und die in Niveau und Lernergebnis Modulen des Studiums äquivalent sind, können die CP der entsprechenden\nModule auf Antrag angerechnet werden. Die Anrechnung erfolgt individuell durch den Prüfungsausschuss auf Vorschlag der\noder des Modulverantwortlichen. Voraussetzung sind schriftliche Nachweise (z.B. Zeugnisse, Zertifikate) über den Umfang,\nInhalt und die erbrachten Leistungen. Insgesamt dürfen nicht mehr als 50 % der im Studiengang erforderlichen CP durch\nAnrechnung ersetzt werden. Die Anrechnung der CP erfolgt ohne Note. Dies wird im Zeugnis entsprechend ausgewiesen.",
                 "subpoints": []
               }
             ]
-          },
-          {
-            "number": "30",
-            "title": "Anrechnung von außerhalb einer Hochschule erworbenen Kompetenzen (RO: § 32)",
-            "content": "Für Kenntnisse und Fähigkeiten, die vor Studienbeginn oder während des Studiums außerhalb einer Hochschule erworben\nwurden und die in Niveau und Lernergebnis Modulen des Studiums äquivalent sind, können die CP der entsprechenden\nModule auf Antrag angerechnet werden. Die Anrechnung erfolgt individuell durch den Prüfungsausschuss auf Vorschlag der\noder des Modulverantwortlichen. Voraussetzung sind schriftliche Nachweise (z.B. Zeugnisse, Zertifikate) über den Umfang,\nInhalt und die erbrachten Leistungen. Insgesamt dürfen nicht mehr als 50 % der im Studiengang erforderlichen CP durch\nAnrechnung ersetzt werden. Die Anrechnung der CP erfolgt ohne Note. Dies wird im Zeugnis entsprechend ausgewiesen.",
-            "points": []
           }
         ]
       },
@@ -1115,53 +959,6 @@
               {
                 "number": "6",
                 "content": "Handelt es sich bei einer mündlichen Prüfung um eine Prüfung, deren Nichtbestehen zum endgültigen Nichtbestehen\ndes Studiengangs führt, so sollte ein Mitglied des Prüfungsausschusses bei der Abnahme der Prüfung anwesend sein. Die\nPrüfung muss durch zwei Prüferinnen oder Prüfer durchgeführt werden.",
-                "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "33",
-            "title": "Klausurarbeiten und sonstige schriftliche Aufsichtsarbeiten (RO: 35)",
-            "content": "",
-            "points": [
-              {
-                "number": "1",
-                "content": "Klausurarbeiten beinhalten die Beantwortung einer Aufgabenstellung oder mehrerer Aufgabenstellungen oder Fragen.\nIn einer Klausurarbeit soll die oder der Studierende nachweisen, dass sie oder er eigenständig in begrenzter Zeit und unter\nAufsicht mit begrenzten Hilfsmitteln Aufgaben lösen und auf Basis des notwendigen Grundlagenwissens beziehungsweise\nunter Anwendung der geläufigen Methoden des Faches ein Problem erkennen und Wege zu einer Lösung finden kann.",
-                "subpoints": []
-              },
-              {
-                "number": "2",
-                "content": "Multiple-Choice-Fragen, das sind auch Single-Choice-Fragen, sind bei Klausuren zugelassen, wenn dadurch der\nnotwendige Wissenstransfer in ausreichendem Maße ermöglicht wird. Dabei sind folgende Voraussetzungen zwingend zu\nbeachten:\n\n• Die Prüfungsfragen müssen zuverlässige Prüfungsergebnisse ermöglichen. Die Prüfungsfragen müssen zweifelsfrei\nverstehbar, eindeutig beantwortbar und dazu geeignet sein, den zu überprüfenden Kenntnis- und Wissensstand der\nStudierenden eindeutig festzustellen. Insbesondere darf neben derjenigen Lösung, die in der Bewertung als richtig\nvorgegeben worden ist, nicht auch eine andere Lösung vertretbar sein. Der Prüfungsausschuss hat dies durch ein\ngeeignetes Verfahren sicherzustellen;\n• Erweisen sich die Aufgaben in diesem Sinne als ungeeignet, müssen sie von der Bewertung ausgenommen werden.\nEntsprechen Antworten nicht dem vorgegebenen Lösungsmuster, sind aber dennoch vertretbar, werden sie zu Gunsten\nder oder des Studierenden anerkannt. Maluspunkte für falsche Antworten sind unzulässig;\n\nMachen Multiple-Choice-Fragen mehr als 25 % der zu erreichenden Gesamtpunktzahl aus, müssen folgende Voraussetzun-\ngen eingehalten werden:\n\n• Der Fragen- und Antwortkatalog ist von mindestens zwei Prüfungsberechtigten zu entwerfen, wobei eine oder einer\nder Gruppe der Professorinnen und Professoren angehören muss;\n• Den Studierenden sind die Bestehensvoraussetzungen und das Bewertungsschema für die Klausur spätestens mit der\nAufgabenstellung bekannt zu geben.\nEine Klausur, die mehr als 25 % Multiple-Choice-Fragen enthält, ist bestanden, wenn die oder der Studierende mindestens 50\n% (Bestehensgrenze) der gestellten Prüfungsfragen zutreffend beantwortet hat oder wenn die Zahl der von der Studierenden\noder dem Studierenden zutreffend beantworteten Fragen die durchschnittliche Prüfungsleistung aller an der gleichen Klausur\nbeteiligten Studierenden um nicht mehr als 22 % unterschreitet, die erstmals an der Prüfung teilgenommen haben.",
-                "subpoints": []
-              },
-              {
-                "number": "3",
-                "content": "Wenn Umstände eintreten, die erwarten lassen, dass bei Klausuren mit mehr als 25 % Anteil Multiple-Choice-Fragen\ndie Klausurergebnisse nicht mehr die Anforderungen von Abs. 2 erfüllen, kann der Prüfungsausschuss die Zulassung von\nKlausuren mit mehr als 25 % Multiple-Choice-Fragen aussetzen.",
-                "subpoints": []
-              },
-              {
-                "number": "4",
-                "content": "Erscheint die oder der Studierende verspätet zur Klausur, so kann sie oder er die versäumte Zeit nicht nachholen. Der\nPrüfungsraum kann nur mit Erlaubnis der aufsichtführenden Person verlassen werden.",
-                "subpoints": []
-              },
-              {
-                "number": "5",
-                "content": "Die eine Klausur beaufsichtigende Person hat über jede Klausur ein Kurzprotokoll zu fertigen. In diesem sind alle Vor-\nkommnisse einzutragen, welche für die Feststellung des Prüfungsergebnisses von Belang sind, insbesondere Vorkommnisse\nnach §§ § 24, § 27 und § 28.",
-                "subpoints": []
-              },
-              {
-                "number": "6",
-                "content": "Die Bearbeitungszeit für die Klausurarbeiten soll sich am Umfang des zu prüfenden Moduls orientieren. Sie be-\nträgt für Klausurarbeiten mindestens 60 Minuten und höchstens 180 Minuten. Die konkrete Dauer ist in den jeweiligen\nModulbeschreibungen festgelegt.",
-                "subpoints": []
-              },
-              {
-                "number": "7",
-                "content": "Die Klausurarbeiten werden in der Regel von einer oder einem Prüfenden bewertet. Sie sind im Falle des Nichtbestehens\nihrer letztmaligen Wiederholung von einer zweiten Prüferin oder einem zweiten Prüfer zu bewerten. Die Bewertung ist\nschriftlich zu begründen. Bei Abweichung der Noten errechnet sich die Note der Klausurarbeit aus dem Durchschnitt der\nbeiden Noten. Das Bewertungsverfahren der Klausuren soll vier Wochen nicht überschreiten. Zusammen mit der Bewertung\nder Klausur ist ein Protokoll der Klausur im Prüfungsamt einzureichen, aus dem hervorgeht, ob die Klausur odnungsgemäß\ndurchgeführt wurde und aus dem auch das endgültige Bewertungsschema hervorgeht und das die relevanten Statistiken\nenthält.",
-                "subpoints": []
-              },
-              {
-                "number": "8",
-                "content": "Multimedial gestützte Prüfungsklausuren („e-Klausuren“) sind zulässig, sofern sie dazu geeignet sind, den Prüfungs-\nzweck zu erfüllen. Sie dürfen ausschließlich unter Einsatz von in der Verwaltung der Universität stehender oder vom\nzuständigen Prüfungsamt im Einvernehmen mit dem HRZ für diesen Zweck freigegebener DV-Systeme erbracht werden.\nDabei ist die eindeutige Identifizierbarkeit der elektronischen Daten zu gewährleisten. Die Daten müssen unverwechselbar\nund dauerhaft den Prüflingen zugeordnet werden können. Die Prüfung ist in Anwesenheit einer fachlich sachkundigen\nProtokollführerin oder eines fachlich sachkundigen Protokollführers durchzuführen. Über den Prüfungsverlauf ist eine\nNiederschrift anzufertigen, in die mindestens die Namen der Protokollführerin oder des Protokollführers sowie der Prüflinge,\nBeginn und Ende der Prüfung sowie eventuelle besondere Vorkommnisse aufzunehmen sind. Für die Einsichtnahme in die\nmultimedial gestützte Prüfung sowie in die Prüfungsergebnisse gilt § 46. Die Aufgabenstellung einschließlich einer Muster-\nlösung, das Bewertungsschema, die einzelnen Prüfungsergebnisse sowie die Niederschrift sind gemäß den gesetzlichen\nBestimmungen zu archivieren.",
                 "subpoints": []
               }
             ]
@@ -1305,16 +1102,9 @@
               },
               {
                 "number": "18",
-                "content": "Die Bachelorarbeit wird binnen weiterer zwei Wochen durch eine weitere aus dem Kreis der Prüfungsberechtigten\ngemäß § 21 zu bestellende Person bewertet, wenn die Beurteilungen der beiden Prüfenden um mehr als 2,0 voneinander\nabweichen oder eine oder einer der beiden Prüfenden die Bachelorarbeit als „nicht ausreichend“ (5,0) beurteilt hat. Die\nNote wird in diesem Fall aus den Noten der Erstprüferin oder des Erstprüfers, der Zweitprüferin oder des Zweitprüfers und\nder dritten Prüferin oder des dritten Prüfers gemäß § 36 Abs.5 gebildet. Bei Vorliegen der Voraussetzungen des § 24 oder",
+                "content": "Die Bachelorarbeit wird binnen weiterer zwei Wochen durch eine weitere aus dem Kreis der Prüfungsberechtigten\ngemäß § 21 zu bestellende Person bewertet, wenn die Beurteilungen der beiden Prüfenden um mehr als 2,0 voneinander\nabweichen oder eine oder einer der beiden Prüfenden die Bachelorarbeit als „nicht ausreichend“ (5,0) beurteilt hat. Die\nNote wird in diesem Fall aus den Noten der Erstprüferin oder des Erstprüfers, der Zweitprüferin oder des Zweitprüfers und\nder dritten Prüferin oder des dritten Prüfers gemäß § 36 Abs.5 gebildet. Bei Vorliegen der Voraussetzungen des § 24 oder\n§ 27 findet Satz 1 keine Anwendung.",
                 "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "27",
-            "title": "findet Satz 1 keine Anwendung.",
-            "content": "",
-            "points": [
+              },
               {
                 "number": "19",
                 "content": "Der Bachelorabschlussvortrag zur Bachelorarbeit soll spätestens sechs Wochen nach Einreichung der Arbeit durchge-\nführt werden.",
@@ -1330,8 +1120,8 @@
         "paragraphs": [
           {
             "number": "36",
-            "title": "Bewertung/Benotung der Studien- und Prüfungsleistungen; Bildung der Noten und der",
-            "content": "Gesamtnote (RO: § 42)",
+            "title": "Bewertung/Benotung der Studien- und Prüfungsleistungen; Bildung der Noten und der\nGesamtnote (RO: § 42)",
+            "content": "",
             "points": [
               {
                 "number": "1",
@@ -1390,16 +1180,9 @@
               },
               {
                 "number": "12",
-                "content": "Zur Transparenz der Gesamtnote wird in das Diploma Supplement eine ECTS-Einstufungstabelle gemäß § 44\naufgenommen.",
+                "content": "Zur Transparenz der Gesamtnote wird in das Diploma Supplement eine ECTS-Einstufungstabelle gemäß § 44\naufgenommen.\n\n§ 37 Bestehen und Nichtbestehen von Prüfungen; Notenbekanntgabe (RO: § 43)",
                 "subpoints": []
-              }
-            ]
-          },
-          {
-            "number": "37",
-            "title": "Bestehen und Nichtbestehen von Prüfungen; Notenbekanntgabe (RO: § 43)",
-            "content": "",
-            "points": [
+              },
               {
                 "number": "1",
                 "content": "Eine aus einer einzigen Prüfungsleistung bestehende Modulprüfung ist bestanden, wenn sie mit der Note „ausreichend“\n(4,0) oder besser bewertet worden ist. Eine mit Punkten bewertete Prüfungsleistung ist bestanden, wenn mindestens 5\nPunkte erreicht sind. Andernfalls ist sie nicht bestanden.",
@@ -1412,16 +1195,10 @@
               },
               {
                 "number": "3",
-                "content": "Die Ergebnisse sämtlicher Prüfungen werden unverzüglich bekannt gegeben, wobei Klausurergebnisse in der Regel\nspätestens zwei Wochen nach dem Prüfungstermin bekanntgegeben werden. Der Prüfungsausschuss entscheidet darüber, ob\ndie Notenbekanntgabe anonymisiert hochschulöffentlich durch Aushang und/oder durch das elektronische Prüfungsver-\nwaltungssystem erfolgt, wobei die schutzwürdigen Interessen der Betroffenen zu wahren sind. Wurde die Bachelorarbeit\nschlechter als ausreichend (4,0) bewertet, erhält die oder der Studierende durch die Vorsitzende oder den Vorsitzenden\ndes Prüfungsausschusses einen schriftlichen, mit einer Rechtsbehelfsbelehrung versehenen, Bescheid, der eine Belehrung\ndarüber enthalten soll, ob und in welcher Frist die Bachelorarbeit wiederholt werden kann.",
+                "content": "Die Ergebnisse sämtlicher Prüfungen werden unverzüglich bekannt gegeben, wobei Klausurergebnisse in der Regel\nspätestens zwei Wochen nach dem Prüfungstermin bekanntgegeben werden. Der Prüfungsausschuss entscheidet darüber, ob\ndie Notenbekanntgabe anonymisiert hochschulöffentlich durch Aushang und/oder durch das elektronische Prüfungsver-\nwaltungssystem erfolgt, wobei die schutzwürdigen Interessen der Betroffenen zu wahren sind. Wurde die Bachelorarbeit\nschlechter als ausreichend (4,0) bewertet, erhält die oder der Studierende durch die Vorsitzende oder den Vorsitzenden\ndes Prüfungsausschusses einen schriftlichen, mit einer Rechtsbehelfsbelehrung versehenen, Bescheid, der eine Belehrung\ndarüber enthalten soll, ob und in welcher Frist die Bachelorarbeit wiederholt werden kann.\n\n§ 38 Zusammenstellung des Prüfungsergebnisses (Transcript of Records) (RO: § 44)\n\nDen Studierenden wird auf Antrag eine Bescheinigung über bestandene Prüfungen in Form einer Datenabschrift (Transcript\nof Records) in deutscher und englischer Sprache ausgestellt, die mindestens die Modultitel, das Datum der einzelnen\nPrüfungen und die Noten enthält.",
                 "subpoints": []
               }
             ]
-          },
-          {
-            "number": "38",
-            "title": "Zusammenstellung des Prüfungsergebnisses (Transcript of Records) (RO: § 44)",
-            "content": "Den Studierenden wird auf Antrag eine Bescheinigung über bestandene Prüfungen in Form einer Datenabschrift (Transcript\nof Records) in deutscher und englischer Sprache ausgestellt, die mindestens die Modultitel, das Datum der einzelnen\nPrüfungen und die Noten enthält.",
-            "points": []
           }
         ]
       },
