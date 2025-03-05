@@ -210,7 +210,7 @@
                 "subpoints": [
                   {
                     "number": "a",
-                    "content": "Abiturzeugnis, Oberstufenzeugnisse oder anderen Nachweis über in der Regel mindestens vierjährigen Schulunterricht\n(ab Sekundarstufe 1) in Englisch. Der Nachweis von drei Jahren Schulunterricht reicht aus, sofern die Sprache bis\nzum Abschluss, der zum Hochschulzugang berechtigt, geführt wurde."
+                    "content": "Abiturzeugnis, Oberstufenzeugnisse oder anderen Nachweis über in der Regel mindestens vierjährigen Schulunterricht\n9\n\n(ab Sekundarstufe 1) in Englisch. Der Nachweis von drei Jahren Schulunterricht reicht aus, sofern die Sprache bis\nzum Abschluss, der zum Hochschulzugang berechtigt, geführt wurde."
                   },
                   {
                     "number": "b",
@@ -260,7 +260,7 @@
               },
               {
                 "number": "4",
-                "content": "Aus den Zuordnungen der Module zu den Studienphasen, dem Grad der Verbindlichkeit der Module und dem nach § 13\nkalkulierten studentischen Arbeitsaufwand (Workload) in CP ergibt sich für den Bachelorstudiengang Informatik folgender\nStudienaufbau:\n\nPflicht (PF)/ Wahl-\npflicht (WP)\nKreditpunkte (CP)\nErläuterung\nBasisphase\n97 CP\nSiehe Anlage 2\nB-EPI\nPF\n12\nbestehend aus der Studienleistung EPR\nEPR\nPF\n6\nund GPR\nGPR\nPF\n6\nB-PPDC\nPF\n5\nB-PPR\nPF\n8\nPraktikum\nB-PDB\nPF\n6\nB-ARA\nPF\n9\nB-RTKS\nPF\n6\nB-MOD\nPF\n8\nB-ALGO-1\nPF\n8\nB-ALGO-2\nPF\n8\nB-AnNuMa\nPF\n9\nB-LinADI\nPF\n9\nB-StI\nPF\n9\nErgänzungsmodul\nPF\n5\nSiehe Anlage 4\nAnwendungsfach\nWPF\n20-24\nSiehe Anlage 6\nVertiefungsphase\nWPF\n39-43\nSiehe Anlage 3\nAbschlussmodul\nPF\n15\nSiehe Anlage 5\nSUMME\n180",
+                "content": "Aus den Zuordnungen der Module zu den Studienphasen, dem Grad der Verbindlichkeit der Module und dem nach § 13\nkalkulierten studentischen Arbeitsaufwand (Workload) in CP ergibt sich für den Bachelorstudiengang Informatik folgender\nStudienaufbau:\n\nPflicht (PF)/ Wahl-\npflicht (WP)\nKreditpunkte (CP)\nErläuterung\nBasisphase\n97 CP\nSiehe Anlage 2\nB-EPI\nPF\n12\nbestehend aus der Studienleistung EPR\nEPR\nPF\n6\nund GPR\nGPR\nPF\n6\nB-PPDC\nPF\n5\nB-PPR\nPF\n8\nPraktikum\nB-PDB\nPF\n6\nB-ARA\nPF\n9\nB-RTKS\nPF\n6\nB-MOD\nPF\n8\nB-ALGO-1\nPF\n8\nB-ALGO-2\nPF\n8\nB-AnNuMa\nPF\n9\nB-LinADI\nPF\n9\nB-StI\nPF\n9\nErgänzungsmodul\nPF\n5\nSiehe Anlage 4\nAnwendungsfach\nWPF\n20-24\nSiehe Anlage 6\nVertiefungsphase\nWPF\n39-43\nSiehe Anlage 3\nAbschlussmodul\nPF\n15\nSiehe Anlage 5\nSUMME\n180\n10",
                 "subpoints": []
               },
               {
@@ -342,7 +342,7 @@
           {
             "number": "12",
             "title": "Modulbeschreibungen/Modulhandbuch (RO: § 14)",
-            "content": "",
+            "content": "11",
             "points": [
               {
                 "number": "1",
@@ -456,7 +456,7 @@
           {
             "number": "17",
             "title": "Studienberatung; Orientierungsveranstaltung (RO: § 19)",
-            "content": "",
+            "content": "15",
             "points": [
               {
                 "number": "1",
@@ -508,7 +508,7 @@
               },
               {
                 "number": "3",
-                "content": "Die Mitglieder des Prüfungsausschusses werden nebst einer Stellvertreterin oder einem Stellvertreter auf Vorschlag der\njeweiligen Gruppen vom Fachbereichsrat des Fachbereichs gewählt. Die Amtszeit der Studierenden beträgt ein Jahr, die der\nanderen Mitglieder zwei Jahre. Wiederwahl ist zulässig.",
+                "content": "Die Mitglieder des Prüfungsausschusses werden nebst einer Stellvertreterin oder einem Stellvertreter auf Vorschlag der\njeweiligen Gruppen vom Fachbereichsrat des Fachbereichs gewählt. Die Amtszeit der Studierenden beträgt ein Jahr, die der\nanderen Mitglieder zwei Jahre. Wiederwahl ist zulässig.\n16",
                 "subpoints": []
               },
               {
@@ -558,7 +558,7 @@
               },
               {
                 "number": "2",
-                "content": "Dem Prüfungsausschuss obliegen in der Regel insbesondere folgende Aufgaben:\n\n• Festlegung der Prüfungstermine, -zeiträume und Melde- und Rücktrittsfristen für die Prüfungen und deren Bekanntga-\nbe; ggf. Bestellung der Prüferinnen und Prüfer;\n• Entscheidungen zur Prüfungszulassung;\n• die Entscheidung über die Anrechnungen gemäß §§ § 29, § 30 sowie die Erteilung von Auflagen zu nachzuholenden\nStudien- und Prüfungsleistungen im Rahmen von Anrechnungen;\n• die Berechnung und Bekanntgabe der Noten von Prüfungen sowie der Gesamtnote für den Bachelorabschluss;\n• die Entscheidungen zur Bachelorarbeit;\n• die Entscheidungen zum Bestehen und Nichtbestehen;\n• die Entscheidungen über einen Nachteilsausgleich und über die Verlängerung von Prüfungs- beziehungsweise Bearbei-\ntungsfristen;\n• die Entscheidungen über Verstöße gegen Prüfungsvorschriften;\n• die Entscheidungen zur Ungültigkeit des Bachelorabschlusses;\n• Entscheidungen über Einsprüche sowie über Widersprüche der Studierenden zu in Prüfungsverfahren getroffenen\nEntscheidungen, soweit diesen stattgegeben werden soll;\n• eine regelmäßige Berichterstattung in der Studienkommission über die Entwicklung der Prüfungs- und Studienzeiten\neinschließlich der Bearbeitungszeiten für die Bachelorarbeit sowie über die Nachfrage der Studierenden nach den\nverschiedenen Wahlpflichtmodulen;\n• das Offenlegen der Verteilung der Fach- und Gesamtnoten;\n• Anregungen zur Reform dieser Ordnung.",
+                "content": "Dem Prüfungsausschuss obliegen in der Regel insbesondere folgende Aufgaben:\n\n• Festlegung der Prüfungstermine, -zeiträume und Melde- und Rücktrittsfristen für die Prüfungen und deren Bekanntga-\nbe; ggf. Bestellung der Prüferinnen und Prüfer;\n• Entscheidungen zur Prüfungszulassung;\n• die Entscheidung über die Anrechnungen gemäß §§ § 29, § 30 sowie die Erteilung von Auflagen zu nachzuholenden\nStudien- und Prüfungsleistungen im Rahmen von Anrechnungen;\n• die Berechnung und Bekanntgabe der Noten von Prüfungen sowie der Gesamtnote für den Bachelorabschluss;\n• die Entscheidungen zur Bachelorarbeit;\n17\n\n• die Entscheidungen zum Bestehen und Nichtbestehen;\n• die Entscheidungen über einen Nachteilsausgleich und über die Verlängerung von Prüfungs- beziehungsweise Bearbei-\ntungsfristen;\n• die Entscheidungen über Verstöße gegen Prüfungsvorschriften;\n• die Entscheidungen zur Ungültigkeit des Bachelorabschlusses;\n• Entscheidungen über Einsprüche sowie über Widersprüche der Studierenden zu in Prüfungsverfahren getroffenen\nEntscheidungen, soweit diesen stattgegeben werden soll;\n• eine regelmäßige Berichterstattung in der Studienkommission über die Entwicklung der Prüfungs- und Studienzeiten\neinschließlich der Bearbeitungszeiten für die Bachelorarbeit sowie über die Nachfrage der Studierenden nach den\nverschiedenen Wahlpflichtmodulen;\n• das Offenlegen der Verteilung der Fach- und Gesamtnoten;\n• Anregungen zur Reform dieser Ordnung.",
                 "subpoints": []
               },
               {
@@ -618,7 +618,7 @@
               },
               {
                 "number": "2",
-                "content": "Die modulabschließenden mündlichen Prüfungen und Klausurarbeiten sollen innerhalb von durch den Prüfungsaus-\nschuss festzulegenden Prüfungszeiträumen durchgeführt werden. Die Prüfungszeiträume sind in der Regel die ersten beiden\nund die letzten beiden Wochen der vorlesungsfreien Zeit. Der Prüfungsausschuss bestimmt die genauen Termine für die\nWiederholungen von Klausuren und gibt diese rechtzeitig bekannt. Die erste Wiederholungsprüfung soll am Ende des\nentsprechenden Semesters, spätestens jedoch zu Beginn des folgenden Semesters durchgeführt werden.",
+                "content": "Die modulabschließenden mündlichen Prüfungen und Klausurarbeiten sollen innerhalb von durch den Prüfungsaus-\nschuss festzulegenden Prüfungszeiträumen durchgeführt werden. Die Prüfungszeiträume sind in der Regel die ersten beiden\nund die letzten beiden Wochen der vorlesungsfreien Zeit. Der Prüfungsausschuss bestimmt die genauen Termine für die\nWiederholungen von Klausuren und gibt diese rechtzeitig bekannt. Die erste Wiederholungsprüfung soll am Ende des\nentsprechenden Semesters, spätestens jedoch zu Beginn des folgenden Semesters durchgeführt werden.\n19",
                 "subpoints": []
               },
               {
@@ -665,7 +665,7 @@
             "points": [
               {
                 "number": "1",
-                "content": "Eine Modulprüfungsleistung gilt als „nicht ausreichend“ (5,0) gemäß § 36 Abs. 3, wenn die oder der Studierende\neinen für sie oder ihn verbindlichen Prüfungstermin ohne wichtigen Grund versäumt oder vor Beendigung der Prüfung die\nTeilnahme abgebrochen hat. Dasselbe gilt, wenn sie oder er eine schriftliche Modulprüfungsleistung nicht innerhalb der\nvorgegebenen Bearbeitungszeit erbracht oder als Modulprüfungsleistung in einer schriftlichen Aufsichtsarbeit ein leeres\nBlatt abgegeben oder in einer mündlichen Prüfung geschwiegen hat.",
+                "content": "Eine Modulprüfungsleistung gilt als „nicht ausreichend“ (5,0) gemäß § 36 Abs. 3, wenn die oder der Studierende\neinen für sie oder ihn verbindlichen Prüfungstermin ohne wichtigen Grund versäumt oder vor Beendigung der Prüfung die\n20\n\nTeilnahme abgebrochen hat. Dasselbe gilt, wenn sie oder er eine schriftliche Modulprüfungsleistung nicht innerhalb der\nvorgegebenen Bearbeitungszeit erbracht oder als Modulprüfungsleistung in einer schriftlichen Aufsichtsarbeit ein leeres\nBlatt abgegeben oder in einer mündlichen Prüfung geschwiegen hat.",
                 "subpoints": []
               },
               {
@@ -692,7 +692,7 @@
           },
           {
             "number": "25",
-            "title": "Studien- und Prüfungsleistungen bei Krankheit und Behinderung; besondere Lebenslagen (RO: § 27)",
+            "title": "Studien- und Prüfungsleistungen bei Krankheit und Behinderung; besondere Lebenslagen (RO:\n§ 27)",
             "content": "",
             "points": [
               {
@@ -724,7 +724,7 @@
             "points": [
               {
                 "number": "1",
-                "content": "Studierende, welche nach Abschluss des ersten Semesters kein Basismodul bestanden haben, werden durch das\nPrüfungsamt aufgefordert, die Studienfachberatung aufzusuchen. Nach diesem Gespräch können Fristen gesetzt oder\nAuflagen erteilt werden. Studierende, die das Beratungsgespräch ohne Angabe von Gründen nicht wahrnehmen und sich\nnicht zur Bachelorprüfung angemeldet haben, verlieren den Prüfungsanspruch im Bachelorstudiengang Informatik an der\nGoethe-Universität Frankfurt am Main. Bis zum Beginn des dritten Fachsemesters müssen zwei Basismodule bestanden sein.\nBei Studierenden im Teilzeitstudium verlängert sich die Frist entsprechend, wobei Semester im Teilzeitstudium als halbe\nFachsemester gezählt werden. Wird die geforderte Anzahl von bestandenen Basismodulen nicht innerhalb der Abschlussfrist\nnach Satz 4 erreicht und liegen die Voraussetzungen für eine Fristverlängerung gemäß Abs. 2 nicht vor, führt dies zum\nVerlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main.",
+                "content": "Studierende, welche nach Abschluss des ersten Semesters kein Basismodul bestanden haben, werden durch das\nPrüfungsamt aufgefordert, die Studienfachberatung aufzusuchen. Nach diesem Gespräch können Fristen gesetzt oder\n21\n\nAuflagen erteilt werden. Studierende, die das Beratungsgespräch ohne Angabe von Gründen nicht wahrnehmen und sich\nnicht zur Bachelorprüfung angemeldet haben, verlieren den Prüfungsanspruch im Bachelorstudiengang Informatik an der\nGoethe-Universität Frankfurt am Main. Bis zum Beginn des dritten Fachsemesters müssen zwei Basismodule bestanden sein.\nBei Studierenden im Teilzeitstudium verlängert sich die Frist entsprechend, wobei Semester im Teilzeitstudium als halbe\nFachsemester gezählt werden. Wird die geforderte Anzahl von bestandenen Basismodulen nicht innerhalb der Abschlussfrist\nnach Satz 4 erreicht und liegen die Voraussetzungen für eine Fristverlängerung gemäß Abs. 2 nicht vor, führt dies zum\nVerlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main.",
                 "subpoints": []
               },
               {
@@ -766,7 +766,7 @@
               },
               {
                 "number": "6",
-                "content": "Die oder der Studierende kann innerhalb einer Frist von vier Wochen schriftlich verlangen, dass Entscheidungen nach\nAbsätzen 1 bis 5 vom Prüfungsausschuss überprüft werden.",
+                "content": "Die oder der Studierende kann innerhalb einer Frist von vier Wochen schriftlich verlangen, dass Entscheidungen nach\nAbsätzen 1 bis 5 vom Prüfungsausschuss überprüft werden.\n22",
                 "subpoints": []
               },
               {
@@ -828,7 +828,7 @@
               },
               {
                 "number": "6",
-                "content": "Abschlussarbeiten (z.B. Bachelorarbeiten, Staatsexamensarbeiten), welche Studierende außerhalb des Bachelorstudien-\ngangs Informatik der Goethe-Universität bereits erfolgreich erbracht haben, werden nicht angerechnet. Weiterhin ist eine\nmehrfache Anrechnung ein- und derselben Leistung im Bachelorstudiengang Informatik nicht möglich.",
+                "content": "Abschlussarbeiten (z.B. Bachelorarbeiten, Staatsexamensarbeiten), welche Studierende außerhalb des Bachelorstudien-\n23\n\ngangs Informatik der Goethe-Universität bereits erfolgreich erbracht haben, werden nicht angerechnet. Weiterhin ist eine\nmehrfache Anrechnung ein- und derselben Leistung im Bachelorstudiengang Informatik nicht möglich.",
                 "subpoints": []
               },
               {
@@ -886,7 +886,7 @@
               },
               {
                 "number": "2",
-                "content": "Module schließen mit einer einzigen Modulprüfung ab, welche auch im zeitlichen Zusammenhang zu einer der\nLehrveranstaltungen des Moduls durchgeführt werden kann (veranstaltungsbezogene Modulprüfung).",
+                "content": "Module schließen mit einer einzigen Modulprüfung ab, welche auch im zeitlichen Zusammenhang zu einer der\nLehrveranstaltungen des Moduls durchgeführt werden kann (veranstaltungsbezogene Modulprüfung).\n\n24",
                 "subpoints": []
               },
               {
@@ -933,7 +933,7 @@
             "points": [
               {
                 "number": "1",
-                "content": "Mündliche Prüfungen werden von der oder dem Prüfenden in Gegenwart einer oder eines Beisitzenden als Einzelprüfung\nabgehalten. Gruppenprüfungen mit bis zu fünf Studierenden sind möglich.",
+                "content": "Mündliche Prüfungen werden von der oder dem Prüfenden in Gegenwart einer oder eines Beisitzenden als Einzelprüfung\nabgehalten. Gruppenprüfungen mit bis zu fünf Studierenden sind möglich.\n\n25",
                 "subpoints": []
               },
               {
@@ -1000,7 +1000,7 @@
               },
               {
                 "number": "7",
-                "content": "Eine Studierende oder ein Studierender, deren oder dessen Hausarbeit mit „nicht ausreichend“ (5,0) bewertet worden\nist, kann bei der oder dem Prüfenden die Nachbesserung der Hausarbeit beantragen. Dies gilt nicht, wenn die Bewertung\nmit „nicht ausreichend“ (5,0) auf § 24 oder auf § 27 beruht. Die oder der Prüfende setzt eine Frist für die Nachbesserung\nder Hausarbeit. Bei der Entscheidung über die nachgebesserte Hausarbeit wird lediglich darüber entschieden, ob die\nHausarbeit mit der Note 4,0 oder schlechter bewertet wird. Wird die Frist für die Abgabe der nachgebesserten Hausarbeit\nnicht eingehalten, wird die Hausarbeit endgültig mit der Note „nicht ausreichend“ (5,0) bewertet.",
+                "content": "Eine Studierende oder ein Studierender, deren oder dessen Hausarbeit mit „nicht ausreichend“ (5,0) bewertet worden\n27\n\nist, kann bei der oder dem Prüfenden die Nachbesserung der Hausarbeit beantragen. Dies gilt nicht, wenn die Bewertung\nmit „nicht ausreichend“ (5,0) auf § 24 oder auf § 27 beruht. Die oder der Prüfende setzt eine Frist für die Nachbesserung\nder Hausarbeit. Bei der Entscheidung über die nachgebesserte Hausarbeit wird lediglich darüber entschieden, ob die\nHausarbeit mit der Note 4,0 oder schlechter bewertet wird. Wird die Frist für die Abgabe der nachgebesserten Hausarbeit\nnicht eingehalten, wird die Hausarbeit endgültig mit der Note „nicht ausreichend“ (5,0) bewertet.",
                 "subpoints": []
               },
               {
@@ -1072,7 +1072,7 @@
               },
               {
                 "number": "12",
-                "content": "Das gestellte Thema kann nur einmal und nur innerhalb der ersten Hälfte der Bearbeitungszeit zurückgegeben\nwerden. Das neu gestellte Thema muss sich inhaltlich von dem zurückgegebenen Thema unterscheiden. Wird infolge des\nRücktritts gemäß Abs. 13 Satz 3 ein neues Thema für die Bachelorarbeit ausgegeben, so ist die Rückgabe dieses Themas\nausgeschlossen.",
+                "content": "Das gestellte Thema kann nur einmal und nur innerhalb der ersten Hälfte der Bearbeitungszeit zurückgegeben\nwerden. Das neu gestellte Thema muss sich inhaltlich von dem zurückgegebenen Thema unterscheiden. Wird infolge des\n28\n\nRücktritts gemäß Abs. 13 Satz 3 ein neues Thema für die Bachelorarbeit ausgegeben, so ist die Rückgabe dieses Themas\nausgeschlossen.",
                 "subpoints": []
               },
               {
@@ -1130,7 +1130,7 @@
               },
               {
                 "number": "2",
-                "content": "Prüfungsleistungen werden in der Regel benotet und ausnahmsweise nach Maßgabe der Modulbeschreibung mit\n„bestanden“ oder „nicht bestanden“ bewertet. Die Benotung beziehungsweise Bewertung der Prüfungsleistungen wird von\nden jeweiligen Prüferinnen und Prüfern vorgenommen. Dabei ist stets die individuelle Leistung der oder des Studierenden\nzugrunde zu legen.",
+                "content": "Prüfungsleistungen werden in der Regel benotet und ausnahmsweise nach Maßgabe der Modulbeschreibung mit\n„bestanden“ oder „nicht bestanden“ bewertet. Die Benotung beziehungsweise Bewertung der Prüfungsleistungen wird von\nden jeweiligen Prüferinnen und Prüfern vorgenommen. Dabei ist stets die individuelle Leistung der oder des Studierenden\nzugrunde zu legen.\n29",
                 "subpoints": []
               },
               {
@@ -1170,7 +1170,7 @@
               },
               {
                 "number": "10",
-                "content": "Wird eine englischsprachige Übersetzung des Zeugnisses ausgefertigt, werden die Noten für die einzelnen Prüfungs-\nleistungen sowie die Gesamtnote entsprechend folgender Notenskala abgebildet:\n\n1,0 bis einschließlich 1,5\nvery good\n1,6 bis einschließlich 2,5\ngood\n2,6 bis einschließlich 3,5\nsatisfactory\n3,6 bis einschließlich 4,0\nsufficient\nüber 4,0\nfail",
+                "content": "Wird eine englischsprachige Übersetzung des Zeugnisses ausgefertigt, werden die Noten für die einzelnen Prüfungs-\nleistungen sowie die Gesamtnote entsprechend folgender Notenskala abgebildet:\n\n1,0 bis einschließlich 1,5\nvery good\n1,6 bis einschließlich 2,5\ngood\n2,6 bis einschließlich 3,5\nsatisfactory\n3,6 bis einschließlich 4,0\nsufficient\nüber 4,0\nfail\n30",
                 "subpoints": []
               },
               {
@@ -1240,7 +1240,7 @@
               },
               {
                 "number": "3",
-                "content": "Nicht bestandene Modulprüfungen können höchstens zweimal wiederholt werden. Die Regelungen der Absätze 9 und\n10 und die Regelungen des § 39 bleiben unberührt.",
+                "content": "Nicht bestandene Modulprüfungen können höchstens zweimal wiederholt werden. Die Regelungen der Absätze 9 und\n31\n\n10 und die Regelungen des § 39 bleiben unberührt.",
                 "subpoints": []
               },
               {
@@ -1306,7 +1306,7 @@
               },
               {
                 "number": "3",
-                "content": "Über das endgültige Nichtbestehen der Bachelorprüfung und den Verlust des Prüfungsanspruchs, ebenso über den\nVerlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main, wird ein\nBescheid erteilt, der mit einer Rechtsbehelfsbelehrung versehen ist.",
+                "content": "Über das endgültige Nichtbestehen der Bachelorprüfung und den Verlust des Prüfungsanspruchs, ebenso über den\nVerlust des Prüfungsanspruchs im Bachelorstudiengang Informatik an der Goethe-Universität Frankfurt am Main, wird ein\n32\n\nBescheid erteilt, der mit einer Rechtsbehelfsbelehrung versehen ist.",
                 "subpoints": []
               },
               {
@@ -1362,7 +1362,7 @@
               },
               {
                 "number": "2",
-                "content": "Das Diploma Supplement enthält eine ECTS-Einstufungstabelle. Die Gesamtnoten, die im jeweiligen Studiengang\nin einer Vergleichskohorte vergeben werden, sind zu erfassen und ihre zahlenmäßige und prozentuale Verteilung auf die\nNotenstufen gemäß § 36 Abs. 9 zu ermitteln und in einer Tabelle wie folgt darzustellen:\n\nGesamtnoten\nGesamtzahl innerhalb der\nReferenzgruppe\nProzentzahl der Absolventin-\nnen/ Absolventen innerhalb\nder Referenzgruppe\nbis 1,5 (sehr gut)\n1,6 bis 2,5 (gut)\n2,6 bis 3,5 (befriedi-\ngend)\n3,6 bis 4,0 (ausrei-\nchend)\n\nDie Referenzgruppe ergibt sich aus der Anzahl der Absolventinnen und Absolventen des jeweiligen Studiengangs in einem\nZeitraum von drei Studienjahren. Die Berechnung erfolgt nur, wenn die Referenzgruppe aus mindestens 50 Absolventinnen\nund Absolventen besteht. Haben weniger als 50 Studierende innerhalb der Vergleichskohorte den Studiengang abgeschlossen,\nso sind nach Beschluss des Prüfungsausschusses weitere Jahrgänge in die Berechnung einzubeziehen.",
+                "content": "Das Diploma Supplement enthält eine ECTS-Einstufungstabelle. Die Gesamtnoten, die im jeweiligen Studiengang\nin einer Vergleichskohorte vergeben werden, sind zu erfassen und ihre zahlenmäßige und prozentuale Verteilung auf die\nNotenstufen gemäß § 36 Abs. 9 zu ermitteln und in einer Tabelle wie folgt darzustellen:\n\nGesamtnoten\nGesamtzahl innerhalb der\nReferenzgruppe\nProzentzahl der Absolventin-\nnen/ Absolventen innerhalb\nder Referenzgruppe\nbis 1,5 (sehr gut)\n1,6 bis 2,5 (gut)\n33\n\n2,6 bis 3,5 (befriedi-\ngend)\n3,6 bis 4,0 (ausrei-\nchend)\n\nDie Referenzgruppe ergibt sich aus der Anzahl der Absolventinnen und Absolventen des jeweiligen Studiengangs in einem\nZeitraum von drei Studienjahren. Die Berechnung erfolgt nur, wenn die Referenzgruppe aus mindestens 50 Absolventinnen\nund Absolventen besteht. Haben weniger als 50 Studierende innerhalb der Vergleichskohorte den Studiengang abgeschlossen,\nso sind nach Beschluss des Prüfungsausschusses weitere Jahrgänge in die Berechnung einzubeziehen.",
                 "subpoints": []
               }
             ]
@@ -1419,7 +1419,7 @@
             "points": [
               {
                 "number": "1",
-                "content": "Gegen Entscheidungen der oder des Vorsitzenden des Prüfungsausschusses ist Einspruch möglich. Er ist binnen eines\nMonats nach Bekanntgabe der Entscheidung bei der oder dem Vorsitzenden des Prüfungsausschusses einzulegen. Über\nden Einspruch entscheidet der Prüfungsausschuss. Hilft er dem Einspruch nicht ab, erlässt die oder der Vorsitzende des\nPrüfungsausschusses einen begründeten Ablehnungsbescheid, der mit einer Rechtsbehelfsbelehrung zu versehen ist.",
+                "content": "Gegen Entscheidungen der oder des Vorsitzenden des Prüfungsausschusses ist Einspruch möglich. Er ist binnen eines\nMonats nach Bekanntgabe der Entscheidung bei der oder dem Vorsitzenden des Prüfungsausschusses einzulegen. Über\nden Einspruch entscheidet der Prüfungsausschuss. Hilft er dem Einspruch nicht ab, erlässt die oder der Vorsitzende des\n34\n\nPrüfungsausschusses einen begründeten Ablehnungsbescheid, der mit einer Rechtsbehelfsbelehrung zu versehen ist.",
                 "subpoints": []
               },
               {

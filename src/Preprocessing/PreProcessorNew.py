@@ -242,6 +242,116 @@ class PreProcessorNew:
             json_data = json.load(f)
             return decode_dataclass(json_data)
 
+    @staticmethod
+    def parse_sentences(text: str) -> List[str]:
+        """Split text into sentences, handling abbreviations and special cases"""
+        if not text or len(text.strip()) < 2:  # Ignore very short texts
+            return []
+
+        # Replace newlines with spaces for better sentence detection
+        text = re.sub(r'\s+', ' ', text)
+        
+        # Common abbreviations in the study regulations
+        abbreviations = r'(?<!z\.B)(?<!bzw)(?<!etc)(?<!Abs)(?<!Nr)(?<!gem)(?<!vgl)(?<!ggf)(?<!u\.a)'
+        
+        # Pattern for sentence splitting, considering abbreviations and requiring minimum sentence structure
+        sentence_pattern = fr'{abbreviations}[.!?](?:\s+|\Z)'
+        
+        # Split into potential sentences
+        potential_sentences = re.split(sentence_pattern, text)
+        
+        # Filter and clean sentences
+        sentences = []
+        for s in potential_sentences:
+            s = s.strip()
+            # Only keep strings that:
+            # 1. Are longer than 5 characters
+            # 2. Contain at least one word character
+            # 3. Are not just special characters or single letters
+            if (len(s) > 5 and 
+                re.search(r'\w', s) and 
+                not re.match(r'^[^a-zA-Z]*$', s) and
+                not re.match(r'^[a-zA-Z]$', s)):
+                sentences.append(s)
+        
+        return sentences
+
+    @staticmethod
+    def create_sentence_context_map(json_file_path: str) -> Dict[str, Dict[str, str]]:
+        """Creates a map of sentences to their context from a study regulation JSON file"""
+        # Load the study regulation from JSON
+        regulation = PreProcessorNew.load_from_json(json_file_path)
+        sentence_map = {}
+
+        # Iterate through all sections
+        for section in regulation.sections:
+            section_context = {
+                'section_number': section.number,
+                'section_title': section.title
+            }
+
+            # Process paragraphs
+            for para in section.paragraphs:
+                para_context = {
+                    **section_context,
+                    'paragraph_number': para.number,
+                    'paragraph_title': para.title
+                }
+
+                # Process paragraph content
+                if para.content:
+                    sentences = PreProcessorNew.parse_sentences(para.content)
+                    for sentence in sentences:
+                        sentence_map[sentence] = {
+                            **para_context,
+                            'point_number': None,
+                            'subpoint_number': None
+                        }
+
+                # Process points
+                for point in para.points:
+                    point_context = {
+                        **para_context,
+                        'point_number': point.number,
+                        'subpoint_number': None
+                    }
+
+                    # Process point content
+                    if point.content:
+                        sentences = PreProcessorNew.parse_sentences(point.content)
+                        for sentence in sentences:
+                            sentence_map[sentence] = point_context.copy()
+
+                    # Process subpoints
+                    for subpoint in point.subpoints:
+                        subpoint_context = {
+                            **point_context,
+                            'subpoint_number': subpoint.number
+                        }
+
+                        if subpoint.content:
+                            sentences = PreProcessorNew.parse_sentences(subpoint.content)
+                            for sentence in sentences:
+                                sentence_map[sentence] = subpoint_context.copy()
+
+        return sentence_map
+
+    @staticmethod
+    def get_context_string(context: Dict[str, str]) -> str:
+        """Helper function to format context information as a readable string"""
+        parts = [
+            f"Section {context['section_number']}: {context['section_title']}",
+            f"§{context['paragraph_number']}: {context['paragraph_title']}"
+        ]
+        
+        if context['point_number']:
+            parts.append(f"Point ({context['point_number']})")
+            
+        if context['subpoint_number']:
+            parts.append(f"Subpoint {context['subpoint_number']})")
+            
+        return " -> ".join(parts)
+
 def sections_chunks(sect: dict) -> list[str]:
     """Legacy method for compatibility"""
     documents = []

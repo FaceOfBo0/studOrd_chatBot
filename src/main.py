@@ -1,22 +1,34 @@
 from Preprocessing.PreProcessorNew import PreProcessorNew
-from Retrieval.RetrieverHF import RetrieverHF
-from Generation.Generator import Generator
+# from Retrieval.RetrieverHF import RetrieverHF
+# from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
 # from Preprocessing import FileHandler, PDFLoader, PreProcessor
 
 if __name__ == '__main__':
     # sections = FileHandler.read_files("src/data/sections")
     # documents = PreProcessor.sections_chunks(sections)
-    preProc = PreProcessorNew()
-    #regulation = preProc.process_regulation()
 
+    # regulation = PreProcessorNew.process_regulation()
     # for section in regulation.sections:
-    #    print(f"Section {section.number}: {section.title}")
+    #   print(f"Section {section.number}: {section.title}")
     
-    #preProc.save_to_json(regulation, "src/data/studyReg.json")
-    new = preProc.load_from_json("src/data/studyReg.json")
-    for sec in new.sections:
-        print(f"Section {sec.number}: {sec.title}")
+    # preProc.save_to_json(regulation, "src/data/studyReg.json")
+    # new = PreProcessorNew.load_from_json("src/data/studyReg.json")
+    # for sec in new.sections:
+    #     print(f"Section {sec.number}: {sec.title}")
+
+
+# Create the sentence-context map
+    sentence_map = PreProcessorNew.create_sentence_context_map("src/data/studyReg.json")
+
+# Example usage:
+    for sentence, context in sentence_map.items():
+        context_str = PreProcessorNew.get_context_string(context)
+        print(f"Sentence: {sentence}")
+        print(f"Context: {context_str}")
+        print("-" * 80)
+
+
     # query = "Was sind die Voraussetzungen zur Zulassung zum Bachelorstudium Informatik gemäß § 8 der Studienordnung?"
     # retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
     # generator = Generator()
