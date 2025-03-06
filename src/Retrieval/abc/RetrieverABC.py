@@ -8,9 +8,9 @@ class RetrieverABC(ABC):
         pass
 
     @abstractmethod
-    def save_embds_to_db_para(self, docs: list[str]):
+    def save_embds_to_db(self, docs: list[str], coll: str):
         pass
 
     @abstractmethod
-    def get_ctx_from_db_para(self, query: str, top_k: int) -> list[str]:
+    def get_results_from_db(self, query: str, top_k: int, coll: str) -> list[str]:
         pass

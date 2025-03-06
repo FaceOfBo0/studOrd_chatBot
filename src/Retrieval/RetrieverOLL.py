@@ -15,7 +15,7 @@ class RetrieverOLL(RetrieverABC):
         embeddings = ollama.embed(model=self._model_name, input=docs)
         return embeddings["embeddings"]
 
-    def save_embds_to_db_para(self, docs: list[str]):
+    def save_embds_to_db(self, docs: list[str]):
         collection = self._db.create_collection(name="docs")
         embds = ollama.embed(
             model=self._model_name,
@@ -29,7 +29,7 @@ class RetrieverOLL(RetrieverABC):
                 documents=[doc]
             )
     
-    def get_ctx_from_db_para(self, query: str, top_k: int) -> list[str]:
+    def get_results_from_db(self, query: str, top_k: int) -> list[str]:
         collection = self._db.get_collection(name="docs")
         query_embd = ollama.embed(
             model=self._model_name,

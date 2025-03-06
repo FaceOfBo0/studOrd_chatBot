@@ -5,7 +5,7 @@ from Retrieval.RetrieverHF import RetrieverHF
 app = Flask(__name__)
 
 generator = Generator()
-retriever = RetrieverHF("sentence-transformers/all-MiniLM-L12-v2", "src/database/hf_minilm")
+retriever = RetrieverHF("danielheinz/e5-base-sts-en-de", "src/database/hf_e5", "cuda")
 
 @app.route('/', methods=['GET'])
 def home():
@@ -16,8 +16,8 @@ def query():
     data = request.get_json(silent=True) or {}
     query = data.get('query', '')
 
-    contexts = retriever.get_ctx_from_db_para(query, 2)
-    response = generator.gen_response_oll("llama3.1:8b", query, contexts)
+    contexts = retriever.get_results_from_db(query, 2, "docs_para")
+    response = generator.gen_response_oll("llama3.2:3b", query, contexts)
     
     return jsonify({
         'response': response,
