@@ -1,6 +1,6 @@
 import os
 
-def saveStrToFile(data: str, file_name: str, enc: str):
+def save_str_to_file(data: str, file_name: str, enc: str):
     with open(file_name, 'w', encoding=enc) as file:
         file.write(data)
 

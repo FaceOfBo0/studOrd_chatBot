@@ -34,16 +34,44 @@
         button:hover {
             background-color: #0056b3;
         }
-        .response {
+        .response-container {
             margin-top: 20px;
+        }
+        .response {
             padding: 10px;
             background-color: #f8f9fa;
             border-radius: 5px;
+            white-space: pre-wrap;  /* Preserve whitespace and wrapping */
+        }
+        .contexts-container {
+            margin-top: 20px;
+        }
+        .contexts-toggle {
+            background-color: #6c757d;
+            color: white;
+            padding: 8px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+            display: none;  /* Hidden by default until we have contexts */
+            align-items: center;
+            gap: 5px;
+        }
+        .contexts-toggle:hover {
+            background-color: #5a6268;
         }
         .contexts {
-            margin-top: 20px;
+            margin-top: 10px;
             font-size: 0.9em;
             color: #666;
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            display: none;  /* Hidden by default */
+        }
+        .contexts.show {
+            display: block;
         }
         .loading {
             display: none;
@@ -51,34 +79,73 @@
             text-align: center;
             color: #666;
         }
+        .cursor {
+            display: inline-block;
+            width: 2px;
+            height: 1em;
+            background: #007bff;
+            margin-left: 2px;
+            animation: blink 1s infinite;
+        }
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+        .chevron {
+            display: inline-block;
+            transition: transform 0.3s;
+        }
+        .contexts-toggle[aria-expanded="true"] .chevron {
+            transform: rotate(180deg);
+        }
     </style>
 </head>
 <body>
-    <h1>RAG Chat Interface</h1>
+    <h1>RAG Chatbot Studienordnung</h1>
     <div class="chat-container">
         <div class="input-container">
             <input type="text" id="query-input" placeholder="Enter your question...">
             <button onclick="sendQuery()">Send</button>
         </div>
         <div id="loading" class="loading">Processing your query...</div>
-        <div id="response" class="response"></div>
-        <div id="contexts" class="contexts"></div>
+        <div class="response-container">
+            <strong>Answer:</strong>
+            <div id="response" class="response"></div>
+        </div>
+        <div class="contexts-container">
+            <button id="contexts-toggle" class="contexts-toggle" aria-expanded="false" onclick="toggleContexts()">
+                Show Context <span class="chevron">▼</span>
+            </button>
+            <div id="contexts" class="contexts"></div>
+        </div>
     </div>
 
     <script>
+        function toggleContexts() {
+            const contextsDiv = document.getElementById('contexts');
+            const toggleButton = document.getElementById('contexts-toggle');
+            const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true';
+            
+            contextsDiv.classList.toggle('show');
+            toggleButton.setAttribute('aria-expanded', !isExpanded);
+            toggleButton.innerHTML = `${isExpanded ? 'Show' : 'Hide'} Context <span class="chevron">▼</span>`;
+        }
+
         async function sendQuery() {
             const queryInput = document.getElementById('query-input');
             const responseDiv = document.getElementById('response');
             const contextsDiv = document.getElementById('contexts');
             const loadingDiv = document.getElementById('loading');
+            const toggleButton = document.getElementById('contexts-toggle');
             
             const query = queryInput.value.trim();
             if (!query) return;
 
-            // Show loading
+            // Disable input and show loading state
+            queryInput.disabled = true;
             loadingDiv.style.display = 'block';
-            responseDiv.innerHTML = '';
+            responseDiv.innerHTML = '<span class="cursor"></span>';
             contextsDiv.innerHTML = '';
+            toggleButton.style.display = 'none';
 
             try {
                 const response = await fetch('/query', {
@@ -86,25 +153,64 @@
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify({ query }),
+                    body: JSON.stringify({ query })
                 });
 
-                const data = await response.json();
+                // Remove the cursor before starting to stream
+                responseDiv.innerHTML = '';
                 
-                // Display response
-                responseDiv.innerHTML = `<strong>Answer:</strong><br>${data.response}`;
-                
-                // Display contexts
-                contextsDiv.innerHTML = '<strong>Relevant contexts:</strong><br>' + 
-                    data.contexts.map((ctx, i) => `${i + 1}. ${ctx}`).join('<br><br>');
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                let responseText = '';
+
+                while (true) {
+                    const {done, value} = await reader.read();
+                    if (done) break;
+                    
+                    const text = decoder.decode(value);
+                    const events = text.split('\n\n');
+                    
+                    for (const event of events) {
+                        const lines = event.split('\n');
+                        let eventType = '';
+                        let data = '';
+                        
+                        for (const line of lines) {
+                            if (line.startsWith('event: ')) {
+                                eventType = line.slice(7);
+                            } else if (line.startsWith('data: ')) {
+                                data = line.slice(6);
+                            }
+                        }
+                        
+                        if (eventType === 'contexts') {
+                            try {
+                                const contextData = JSON.parse(data);
+                                contextsDiv.innerHTML = '<strong>Relevant contexts:</strong><br>' + 
+                                    contextData.contexts.map((ctx, i) => `${i + 1}. ${ctx}`).join('<br><br>');
+                                toggleButton.style.display = 'flex';
+                            } catch (e) {
+                                console.error('Error parsing contexts:', e);
+                            }
+                        } else if (eventType === 'token') {
+                            responseText += data;
+                            responseDiv.innerHTML = responseText + '<span class="cursor"></span>';
+                        }
+                    }
+                }
+
             } catch (error) {
                 responseDiv.innerHTML = 'Error processing your query. Please try again.';
+                console.error('Error:', error);
             } finally {
+                // Re-enable input and hide loading
+                queryInput.disabled = false;
                 loadingDiv.style.display = 'none';
+                queryInput.focus();
             }
         }
 
-        // Allow Enter key to send query
+        // enter to send req
         document.getElementById('query-input').addEventListener('keypress', function(e) {
             if (e.key === 'Enter') {
                 sendQuery();
