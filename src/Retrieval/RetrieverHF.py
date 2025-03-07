@@ -2,7 +2,6 @@ from sentence_transformers import SentenceTransformer
 from Retrieval.abc.RetrieverABC import RetrieverABC
 from database import DBHandler
 from numpy import ndarray
-import chromadb
 
 class RetrieverHF(RetrieverABC):
     def __init__(self, model_name: str, db_path: str = "", device_name: str = ""):
