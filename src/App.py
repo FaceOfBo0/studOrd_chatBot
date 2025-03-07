@@ -25,7 +25,7 @@ def query():
         yield f"event: contexts\ndata: {json.dumps({'contexts': contexts})}\n\n"
         
         # Then stream the response with a different event type
-        for token in generator.gen_response_stream("llama3.2:3b", query, contexts):
+        for token in generator.gen_response_stream("phi4-mini:latest", query, contexts):
             yield f"event: token\ndata: {token}\n\n"
 
     return Response(stream_with_context(generate()), mimetype='text/event-stream')
