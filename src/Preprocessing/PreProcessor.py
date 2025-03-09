@@ -516,3 +516,122 @@ def create_point_context_map(sentence_list: List[tuple[str, Dict[str, str]]]) ->
         point_map[concatenated_text] = value['context']
     
     return point_map
+
+
+def process_regulation_without_subpoints(files_path: str) -> StudyRegulation:
+    """Processes all section files and returns a structured StudyRegulation without subpoints"""
+    # Read all section files
+    sections_dict = FileHandler.read_files(files_path)
+    
+    # Parse each section
+    sections = []
+    for section_title in sorted(sections_dict.keys()):  # Sort to maintain order
+        section = parse_section_without_subpoints(sections_dict[section_title])
+        sections.append(section)
+    
+    return StudyRegulation(sections=sections)
+
+
+def parse_section_without_subpoints(text: str) -> Section:
+    section_match = re.match(r'Abschnitt ([IVXLCDM]+):\s*(.*?)(?=\n\s*§)', text, re.DOTALL)
+    if not section_match:
+        raise ValueError("Invalid section format")
+    
+    number, title = section_match.groups()
+    paragraphs = parse_paragraphs_without_subpoints(text)
+    
+    return Section(number=number, title=title.strip(), paragraphs=paragraphs)
+
+
+def parse_paragraphs_without_subpoints(text: str) -> List[Paragraph]:
+    para_pattern = r'(?:^|\n\n|\n(?=§))§\s*(\d+)\s+([^(\n]+(?:\([^)]+\)[^(\n]+)*?)(?:\((RO:?\s*(?:§\s*)?\d+)\))?\s*\n+(.*?)(?=(?:\n\n|\n(?=§))§\s*\d+(?:\s+(?!Abs))|$)'
+    paragraphs = []
+    
+    for match in re.finditer(para_pattern, text, re.DOTALL):
+        number, title_text, ro_ref, content = match.groups()
+        
+        title = title_text.strip()
+        if ro_ref:
+            title = f"{title} ({ro_ref})"
+        
+        points = parse_points_without_subpoints(content)
+        
+        content = content.strip()
+        if content and points:
+            content = ""
+        
+        paragraphs.append(Paragraph(
+            number=number,
+            title=title,
+            content=content,
+            points=points
+        ))
+    return paragraphs
+
+
+def parse_points_without_subpoints(text: str) -> List[Point]:
+    point_pattern = r'\((\d+)\)\s*(.*?)(?=(?:\(\d+\)|$))'
+    points = []
+    for match in re.finditer(point_pattern, text, re.DOTALL):
+        number, content = match.groups()
+        
+        points.append(Point(
+            number=number,
+            content=content.strip(),
+            subpoints=[]  # No subpoints
+        ))
+    return points
+
+
+def create_point_context_map_from_regulation(regulation: StudyRegulation) -> Dict[str, Dict[str, str]]:
+    """Creates a map where keys are concatenated sentences belonging to the same point/paragraph
+    and values are their context information, without considering subpoints.
+    
+    If a paragraph has points, each point becomes a key.
+    If a paragraph has no points, its content becomes a key.
+    
+    Args:
+        regulation: A StudyRegulation object
+    """
+    point_map = {}
+    
+    # Iterate through all sections
+    for section in regulation.sections:
+        section_context = {
+            'section_number': section.number,
+            'section_title': section.title
+        }
+
+        # Process paragraphs
+        for para in section.paragraphs:
+            para_context = {
+                **section_context,
+                'paragraph_number': para.number,
+                'paragraph_title': para.title
+            }
+
+            # Process paragraph content
+            if para.content:
+                sentences = parse_sentences(para.content)
+                concatenated_text = ' '.join(sentences)
+                point_map[concatenated_text] = {
+                    **para_context,
+                    'point_number': None,
+                    'subpoint_number': None
+                }
+
+            # Process points
+            for point in para.points:
+                point_context = {
+                    **para_context,
+                    'point_number': point.number,
+                    'subpoint_number': None
+                }
+
+                # Process point content
+                if point.content:
+                    sentences = parse_sentences(point.content)
+                    concatenated_text = ' '.join(sentences)
+                    point_map[concatenated_text] = point_context
+
+    return point_map

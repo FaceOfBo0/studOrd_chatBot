@@ -3,8 +3,8 @@
 # from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
 # from Preprocessing import FileHandler, PreProcessorNew, PreProcessorOld
-# from Preprocessing import PreProcessorNew
-import RAGBuilder
+from Preprocessing import PreProcessor
+# import RAGBuilder
 
 if __name__ == '__main__':
     # * RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_dt_matryoshka", "docs_pnt", "akot/german-semantic-bmf-matryoshka")
@@ -14,4 +14,8 @@ if __name__ == '__main__':
 
     # ***** RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_ml_alibaba", "docs_pnt", "Alibaba-NLP/gte-multilingual-base")
     # ***** RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "docs_pnt", "jinaai/jina-embeddings-v3","src/database/hf_ml_jina_lora", "retrieval.passage")
-    pass   
+
+    study_reg = PreProcessor.process_regulation_without_subpoints("src/data/sections")
+    # study_reg = PreProcessor.load_regulation_from_json("src/data/json/stdRegPnts.json")
+    # pntCtxMap = PreProcessor.create_point_context_map_from_regulation(study_reg)
+    print(study_reg)
