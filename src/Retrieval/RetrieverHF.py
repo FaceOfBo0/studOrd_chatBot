@@ -1,11 +1,13 @@
 from sentence_transformers import SentenceTransformer
+# from sentence_transformers.models import StaticEmbedding
 from Retrieval.abc.RetrieverABC import RetrieverABC
 from database import DBHandler
 from numpy import ndarray
 
 class RetrieverHF(RetrieverABC):
-    def __init__(self, model_name: str, db_path: str = "", device_name: str = ""):
+    def __init__(self, model_name: str, db_path: str = "", device_name: str = "", task_name: str = ""):
         self._model_name = model_name
+        self._task_name = task_name
         self._model = SentenceTransformer(self._model_name, trust_remote_code=True)
         self._device = "cpu" if device_name == "" else device_name
         if (db_path == ""):
@@ -20,7 +22,10 @@ class RetrieverHF(RetrieverABC):
 
     def save_embds_to_db(self, docs: list[str], coll: str):
         collection = self._db.create_collection(name=coll)
-        embds = self._model.encode(docs, device=self._device)
+        if self._task_name == "":
+            embds = self._model.encode(docs, device=self._device)
+        else:
+            embds = self._model.encode(docs, device=self._device, task=self._task_name, prompt_name=self._task_name)
 
         for i, doc in enumerate(docs):
             collection.add(

@@ -37,7 +37,7 @@ class Generator:
 
         return response['message']['content'].strip()
 
-    def gen_response_stream(self, gen_model_name: str, query: str, context: list[str]):
+    def gen_response_oll_stream(self, gen_model_name: str, query: str, context: list[str]):
         """Streaming version of gen_response_oll that yields tokens as they're generated"""
         context_text = "\n".join(context)
         messages = [

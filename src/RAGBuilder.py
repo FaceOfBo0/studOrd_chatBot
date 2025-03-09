@@ -12,11 +12,11 @@ def create_idx_hf_para(file_path: str, db_path: str, db_coll: str, model_name: s
     retriever = RetrieverHF(model_name, db_path, "cuda")
     retriever.save_embds_to_db(documents, db_coll)
 
-def create_idx_hf_pnt(sentctx_map_path: str, db_path: str, db_coll: str, model_name: str):
+def create_idx_hf_pnt(sentctx_map_path: str, db_coll: str, model_name: str, db_path: str = "", task_name: str = ""):
     sentCtxList = PreProcessor.create_sentence_context_list(sentctx_map_path)
     pntCtxMap = PreProcessor.create_point_context_map(sentCtxList)
 
-    ret = RetrieverHF(model_name, db_path, "cuda")
+    ret = RetrieverHF(model_name, db_path, "cuda", task_name)
     ret.save_embds_to_db([elem for elem in pntCtxMap.keys()], db_coll)
 
 def create_idx_hf_sent(sentctx_map_path: str, db_path: str, db_coll: str, model_name: str):

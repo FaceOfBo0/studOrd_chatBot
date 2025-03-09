@@ -6,7 +6,11 @@ import json
 app = Flask(__name__)
 
 generator = Generator()
-retriever = RetrieverHF("deutsche-telekom/gbert-large-paraphrase-cosine", "src/database/hf_dt_gbert", "cuda")
+# retriever = RetrieverHF("deutsche-telekom/gbert-large-paraphrase-cosine", "src/database/hf_dt_gbert", "cuda")
+# retriever = RetrieverHF("akot/german-semantic-bmf-matryoshka", "src/database/hf_dt_matryoshka", "cuda")
+# retriever = RetrieverHF("Alibaba-NLP/gte-multilingual-base", "src/database/hf_ml_alibaba", "cuda")
+# retriever = RetrieverHF("CISCai/jina-embeddings-v3-query-distilled", "src/database/hf_ml_jina_lora", "cuda")
+retriever = RetrieverHF("jinaai/jina-embeddings-v3", "src/database/hf_ml_jina_lora", "cuda", "retrieval.query")
 
 @app.route('/', methods=['GET'])
 def home():
@@ -25,10 +29,10 @@ def query():
         yield f"event: contexts\ndata: {json.dumps({'contexts': contexts})}\n\n"
         
         # Then stream the response with a different event type
-        for token in generator.gen_response_stream("phi4-mini:latest", query, contexts):
+        for token in generator.gen_response_oll_stream("phi4-mini", query, contexts):
             yield f"event: token\ndata: {token}\n\n"
 
     return Response(stream_with_context(generate()), mimetype='text/event-stream')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
