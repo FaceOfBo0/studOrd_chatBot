@@ -3,7 +3,8 @@
 # from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
 # from Preprocessing import FileHandler, PreProcessorNew, PreProcessorOld
-from Preprocessing import PreProcessor
+from Preprocessing import PreProcessor, FileHandler
+import RAGBuilder
 # import RAGBuilder
 
 if __name__ == '__main__':
@@ -15,7 +16,8 @@ if __name__ == '__main__':
     # ***** RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_ml_alibaba", "docs_pnt", "Alibaba-NLP/gte-multilingual-base")
     # ***** RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "docs_pnt", "jinaai/jina-embeddings-v3","src/database/hf_ml_jina_lora", "retrieval.passage")
 
-    study_reg = PreProcessor.process_regulation_without_subpoints("src/data/sections")
-    # study_reg = PreProcessor.load_regulation_from_json("src/data/json/stdRegPnts.json")
-    # pntCtxMap = PreProcessor.create_point_context_map_from_regulation(study_reg)
-    print(study_reg)
+    # study_reg = PreProcessor.process_regulation_without_subpoints("src/data/sections")
+    # study_reg = FileHandler.load_regulation_from_json("src/data/json/stdReg.json")
+    # pntCtxMap = PreProcessor.create_pntCtxMap_from_stdyReg(study_reg)
+
+    RAGBuilder.create_embds_hf_pnt("src/data/json/stdRegPnts.json", "docs_pnt", "jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora", "retrieval.passage")

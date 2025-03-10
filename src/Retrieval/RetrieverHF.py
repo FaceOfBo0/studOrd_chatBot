@@ -1,15 +1,15 @@
 from sentence_transformers import SentenceTransformer
-# from sentence_transformers.models import StaticEmbedding
 from Retrieval.abc.RetrieverABC import RetrieverABC
 from database import DBHandler
 from numpy import ndarray
+from torch.cuda import is_available
 
 class RetrieverHF(RetrieverABC):
-    def __init__(self, model_name: str, db_path: str = "", device_name: str = "", task_name: str = ""):
+    def __init__(self, model_name: str, db_path: str = "", task_name: str = ""):
         self._model_name = model_name
         self._task_name = task_name
         self._model = SentenceTransformer(self._model_name, trust_remote_code=True)
-        self._device = "cpu" if device_name == "" else device_name
+        self._device = "cuda" if is_available() else "cpu"
         if (db_path == ""):
             self._db = DBHandler.initDB()
         else:
