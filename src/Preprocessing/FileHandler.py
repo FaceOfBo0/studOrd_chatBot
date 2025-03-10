@@ -1,14 +1,28 @@
 import os
-from typing import Any
+from typing import Any, Dict
+from pathlib import Path
 from dataclasses import asdict
+import glob
 from data.StudyRegulation import StudyRegulation, Section, Point, SubPoint, Paragraph
 import json
+
+def read_section_files_abs_alt() -> Dict[str, str]:
+    """Reads all section files and returns their content. Path is beeing deduced from the file name."""
+    section_dict = {}
+    for file_path in glob.glob("Abschnitt*.txt"):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+            section_title = Path(file_path).stem
+            section_dict[section_title] = content
+    return section_dict
 
 def save_str_to_file(data: str, file_name: str, enc: str):
     with open(file_name, 'w', encoding=enc) as file:
         file.write(data)
 
-def read_section_files(directory: str) -> dict:
+def read_section_files(directory: str) -> Dict[int, str]:
+    """Reads all section files and returns their content in a dictionary.
+    The sections are sorted by their number."""
     files = sorted([f for f in os.listdir(directory) if f.endswith('.txt')])
     files.insert(9,files[4])
     files.remove(files[4])
