@@ -10,7 +10,7 @@ generator = Generator()
 # retriever = RetrieverHF("akot/german-semantic-bmf-matryoshka", "src/database/hf_dt_matryoshka", "cuda")
 # retriever = RetrieverHF("Alibaba-NLP/gte-multilingual-base", "src/database/hf_ml_alibaba", "cuda")
 # retriever = RetrieverHF("CISCai/jina-embeddings-v3-query-distilled", "src/database/hf_ml_jina_lora", "cuda")
-retriever = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_ml_jina_lora", "retrieval.query")
+retriever = RetrieverHF("jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora", "retrieval.query")
 
 @app.route('/', methods=['GET'])
 def home():

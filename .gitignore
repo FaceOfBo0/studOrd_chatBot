@@ -1,6 +1,7 @@
 .ropeproject/
 .idea/
 .vscode/
-__pycache__/
 *.py[cod]
 *$py.class
+__pycache__/
+**/__pycache__/
