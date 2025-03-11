@@ -16,8 +16,8 @@ if __name__ == '__main__':
     # ***** RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_ml_alibaba", "docs_pnt", "Alibaba-NLP/gte-multilingual-base")
     # ***** RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "docs_pnt", "jinaai/jina-embeddings-v3","src/database/hf_ml_jina_lora", "retrieval.passage")
 
-    # study_reg = PreProcessor.process_regulation_without_subpoints("src/data/sections")
-    # study_reg = FileHandler.load_regulation_from_json("src/data/json/stdReg.json")
+    study_reg = PreProcessor.process_regulation_wo_subpoints("src/data/sections")
+    FileHandler.save_regulation_to_json(study_reg, "src/data/json/stdReg_new.json")
     # pntCtxMap = PreProcessor.create_pntCtxMap_from_stdyReg(study_reg)
 
-    RAGBuilder.create_embds_hf_pnt("src/data/json/stdRegPnts.json", "docs_pnt", "jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora", "retrieval.passage")
+    RAGBuilder.create_embds_hf_pnt("src/data/json/stdReg_new.json", "docs_pnt", "jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora_new", "retrieval.passage")

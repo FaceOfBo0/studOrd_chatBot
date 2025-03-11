@@ -49,7 +49,6 @@ def parse_subpoints(text: str) -> List[SubPoint]:
         ))
     return subpoints
 
-
 def parse_points(text: str) -> List[Point]:
     # Only match points in (1) format
     point_pattern = r'\((\d+)\)\s*(.*?)(?=(?:\(\d+\)|$))'
@@ -69,7 +68,6 @@ def parse_points(text: str) -> List[Point]:
             subpoints=subpoints
         ))
     return points
-
 
 def parse_paragraphs(text: str) -> List[Paragraph]:
     # Updated pattern to handle different RO reference formats
@@ -105,7 +103,6 @@ def parse_paragraphs(text: str) -> List[Paragraph]:
         ))
     return paragraphs
 
-
 def parse_section(text: str) -> Section:
     section_match = re.match(r'Abschnitt ([IVXLCDM]+):\s*(.*?)(?=\n\s*§)', text, re.DOTALL)
     if not section_match:
@@ -115,6 +112,7 @@ def parse_section(text: str) -> Section:
     paragraphs = parse_paragraphs(text)
 
     return Section(number=number, title=title.strip(), paragraphs=paragraphs)
+
 
 def parse_section_without_subpoints(text: str) -> Section:
     section_match = re.match(r'Abschnitt ([IVXLCDM]+):\s*(.*?)(?=\n\s*§)', text, re.DOTALL)
@@ -126,7 +124,6 @@ def parse_section_without_subpoints(text: str) -> Section:
 
     return Section(number=number, title=title.strip(), paragraphs=paragraphs)
 
-
 def parse_paragraphs_without_subpoints(text: str) -> List[Paragraph]:
     para_pattern = r'(?:^|\n\n|\n(?=§))§\s*(\d+)\s+([^(\n]+(?:\([^)]+\)[^(\n]+)*?)(?:\((RO:?\s*(?:§\s*)?\d+)\))?\s*\n+(.*?)(?=(?:\n\n|\n(?=§))§\s*\d+(?:\s+(?!Abs))|$)'
     paragraphs = []
@@ -135,8 +132,8 @@ def parse_paragraphs_without_subpoints(text: str) -> List[Paragraph]:
         number, title_text, ro_ref, content = match.groups()
 
         title = title_text.strip()
-        if ro_ref:
-            title = f"{title} ({ro_ref})"
+        # if ro_ref:
+        #     title = f"{title} ({ro_ref})"
 
         points = parse_points_without_subpoints(content)
 
