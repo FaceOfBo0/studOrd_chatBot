@@ -10,8 +10,8 @@ app = Flask(__name__)
 # retriever = RetrieverHF("akot/german-semantic-bmf-matryoshka", "src/database/hf_dt_matryoshka", "cuda")
 # retriever = RetrieverHF("Alibaba-NLP/gte-multilingual-base", "src/database/hf_ml_alibaba", "cuda")
 # retriever = RetrieverHF("CISCai/jina-embeddings-v3-query-distilled", "src/database/hf_ml_jina_lora", "cuda")
-retriever = RetrieverHF("jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora_new", "retrieval.query")
-studReg = FileHandler.load_regulation_from_json("src/data/json/stdReg_new.json")
+retriever = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.query")
+studReg = FileHandler.load_regulation_from_json("data/json/stdReg_new.json")
 pntCtxMap = PreProcessor.create_pntCtxMap_from_stdyReg(studReg)
 
 
@@ -27,7 +27,7 @@ def query():
     # Get contexts first
     contexts = retriever.get_results_from_db(query, 3, "docs_pnt")
     contexts = [PreProcessor.get_context_string(pntCtxMap[elem]) + ":<br><br>" + elem for elem in contexts]
-    
+
     def generate():
         # Send a special marker for contexts
         yield f"event: contexts\ndata: {json.dumps({'contexts': contexts})}\n\n"
