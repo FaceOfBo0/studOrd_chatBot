@@ -31,7 +31,8 @@ def query():
     def generate():
         # Send a special marker for contexts
         yield f"event: contexts\ndata: {json.dumps({'contexts': contexts})}\n\n"
-        # Then stream the response with a different event type, "mistral-nemo-instruct-2407"
+
+        # Then stream the response with a different event type
         for token in Generator.gen_response_lms_stream("mistral-nemo-instruct-2407", query, contexts):
             yield f"event: token\ndata: {token}\n\n"
         # for token in Generator.gen_response_oll_stream("phi4-mini", query, contexts):
