@@ -81,17 +81,17 @@ def create_sntCtxMap_list(json_file_path: str) -> list[tuple[str, Dict[str, str]
 def get_context_string(context: Dict[str, str]) -> str:
     """Helper function to format context information as a readable string"""
     parts = [
-        f"Abschnitt {context['section_number']}: {context['section_title']}",
-        f"§ {context['paragraph_number']}: {context['paragraph_title']}"
+        f"Abschnitt {context['section_number']}",
+        f"§ {context['paragraph_number']}"
     ]
 
     if context['point_number']:
-        parts.append(f"Absatz ({context['point_number']})")
+        parts.append(f"Absatz {context['point_number']}")
 
     if context['subpoint_number']:
-        parts.append(f"Punkt {context['subpoint_number']})")
+        parts.append(f"Punkt {context['subpoint_number']}")
 
-    return " -> ".join(parts)
+    return ", ".join(parts)
 
 
 def create_pntCtxMap(sentence_list: list[tuple[str, Dict[str, str]]]) -> Dict[str, Dict[str, str]]:
