@@ -1,4 +1,3 @@
-from lmstudio._sdk_models import RepositoryChannelPushArtifactToClientPacketMessageDict
 import ollama
 import lmstudio as lms
 
@@ -88,11 +87,11 @@ def gen_response_lms_stream(model_name: str, query: str, context: list[str]):
     4. Wenn du aus der Studienordnung zitierst, erwähne dies, indem du die den Paragraphen und gegebenenfalls Absatz und Punkt (falls vorhanden) am Ende deiner Antwort in Klammern angibst.
     5. Antworte in der gleichen Sprache, in der die Frage gestellt wurde.""")
 
-    chat.add_user_message(f"""Hier sind die Abschnitte für die Beantwortung:
+    chat.add_user_message(f"""Hier sind die Abschnitte der Studienordnung für die Beantwortung:
 
     {context_text}
 
-    Beantworte auf Grundlage der Abschnitte folgende Frage: {query}""")
+    Beantworte auf Grundlage der vorliegenden Abschnitte der Studienordnung folgende Frage: {query}""")
 
     response_stream = model.respond_stream(chat, config={
         "temperature": 0.6,
