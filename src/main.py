@@ -4,8 +4,6 @@
 # from Retrieval.RetrieverOLL import RetrieverOLL
 # from Preprocessing import FileHandler, PreProcessorNew, PreProcessorOld
 # from Preprocessing import PreProcessor, FileHandler
-import pathlib
-import spacy
 # from spacy.language import Language
 # import RAGBuilder
 
@@ -24,9 +22,35 @@ if __name__ == '__main__':
 
     # RAGBuilder.create_embds_hf_pnt("src/data/json/stdReg_new.json", "docs_pnt", "jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora_new", "retrieval.passage")
 
+
+    ### Sentence Tokenizer and Table Parsing via spacy, spacy-layout
+
+    # import pathlib
+    import spacy
+    # import pandas as pd
+    from spacy_layout import spaCyLayout
+
+    model = spacy.load("de_core_news_md")
+    # model = spacy.blank("de")
+    layout = spaCyLayout(model)
+
+    doc = layout("data/pdfs/MODKAT2019.pdf")
+
+    #table = doc._.tables[10]
+    #print(table.start, table.end, table._.layout)
+    #print(table._.data)
+    i = 1
+    for ta in doc._.tables:
+        if i < 10:
+            ta._.data.to_pickle("data/modules/module0" + str(i)+".pkl")
+        else:
+            ta._.data.to_pickle("data/modules/module" + str(i)+".pkl")
+        i += 1
+
+    ## example of parsing sentences of one section (Abschnitt I) with spacy
+
     #@Language.component("custom_senter")
     #def custom_senter(doc):
-        # Define your additional delimiter(s)
      #   additional_delimiters = ["\n\n"]  # Add more delimiters as needed
 
         # Iterate through tokens and set sentence boundaries
@@ -35,12 +59,11 @@ if __name__ == '__main__':
     #            doc[token.i + 1].is_sent_start = True
     #    return doc
 
-
-    model = spacy.load("de_core_news_md")
-    model.disable_pipe("parser")
-    model.enable_pipe("senter")
+    # model = spacy.load("de_core_news_md")
+    # model.disable_pipe("parser")
+    # model.enable_pipe("senter")
     #model.add_pipe("custom_senter", before="senter")
 
-    text = pathlib.Path("data/sections/Abschnitt I.txt").read_text(encoding="utf-8").replace("\n\n"," ").replace("\n"," ")
-    section_1_doc = model(text)
-    print([tok.text for tok in section_1_doc.sents])
+    # text = pathlib.Path("src/data/sections/Abschnitt II.txt").read_text(encoding="utf-8").replace("\n\n"," ").replace("\n"," ")
+    # section_1_doc = model(text)
+    # print([tok.text for tok in section_1_doc.sents])
