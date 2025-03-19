@@ -26,26 +26,32 @@ if __name__ == '__main__':
     ### Sentence Tokenizer and Table Parsing via spacy, spacy-layout
 
     # import pathlib
-    import spacy
+    #import spacy
     # import pandas as pd
-    from spacy_layout import spaCyLayout
+    #from spacy_layout import spaCyLayout
 
-    model = spacy.load("de_core_news_md")
+    # model = spacy.load("de_core_news_md")
     # model = spacy.blank("de")
-    layout = spaCyLayout(model)
+    # layout = spaCyLayout(model)
 
-    doc = layout("data/pdfs/MODKAT2019.pdf")
+    # doc = layout("data/pdfs/MODKAT2019.pdf")
 
     #table = doc._.tables[10]
     #print(table.start, table.end, table._.layout)
     #print(table._.data)
-    i = 1
-    for ta in doc._.tables:
-        if i < 10:
-            ta._.data.to_pickle("data/modules/module0" + str(i)+".pkl")
-        else:
-            ta._.data.to_pickle("data/modules/module" + str(i)+".pkl")
-        i += 1
+
+    # i = 1
+    # for ta in doc._.tables:
+    #     if i < 10:
+    #         ta._.data.to_pickle("data/modules/module0" + str(i)+".pkl")
+    #     else:
+    #         ta._.data.to_pickle("data/modules/module" + str(i)+".pkl")
+    #     i += 1
+
+    import pandas as pd
+
+    frame = pd.read_pickle("data/modules/module11.pkl")
+    print(frame)
 
     ## example of parsing sentences of one section (Abschnitt I) with spacy
 
