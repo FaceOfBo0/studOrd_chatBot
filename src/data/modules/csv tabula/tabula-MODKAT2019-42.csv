@@ -1,0 +1,20 @@
+"B-HLA-PRPraktikum Hochleistungsrechnerarchitekturen (Practical CourseHigh-performance Computer Architectures)",Wahlpflicht,,
+CP: 8,"Kontaktstudium:4 SWS / 60h",Selbststudium: 180 h,SWS: 4PR
+"Lernergebnisse / Kompetenzziele: Praktische Erfahrung und Routine in der parallelen Programmierung.Verständnis des Zusammenspiels von Algorithmus, Cache und Netzwerk. Praktische Erfahrung mitNebenläufigkeitsproblemen, Synchronisation und der Fehlersuche in parallelen Algorithmen.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+"Empfohlene Voraussetzungen: Kenntnisse aus den Bereichen Programmieren, Datenstrukturen.",,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:",—,,
+Häufigkeit des Angebots:,jedes Semester,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Kisel,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,"Regelmäßige underfolgreiche Teilnahme;termingerechteAbgabederPraktikumsaufgaben,Vorstellung undDemonstration derErgebnisse.",
+Lehr- / Lernform:,Praktikum,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,Abschluss durch die Studienleistung.,,
+Zugehörige Veranstaltungen:,,,
+"HL-BPRPraktikum Hochleistungsrechnerarchitekturen (Practical Course High-performance ComputerArchitectures)",,,
+"Inhalte: Programmierung von SMP Maschinen, MPP Clustern und GPGPUs. Praktischer Umgang mitverschiedenen Programmierbibliotheken wie Vektor Klassen, OpenMP, MPI, CUDA oder OpenCL.Entwicklung eigener paralleler Algorithmen, und Untersuchung derer Skalierbarkeit. Für die praktischenÜbungen stehen verschiedene Parallelrechner des Frankfurter CSC, einschließlich der LOEWE-CSCHochleistungsrechner für ausgewählte Übungen zur Verfügung.",,,
+HR-BPRPraktikum Hochleistungsrechnersysteme (Practical Course High-Performance Computer System),,,
+"Inhalte: Aufbau von HPC-Cluster-Systemen. Praktischer Aufbau und Umgang mit HPC-Systemen anhandkleiner Prototyp-Systeme: Rechen-, Storage- und Infrastrukturkomponenten (z.B. Netze). Programmierunggrundlegender Algorithmen zur Vertiefung des Verständnisses der HPC-System-Konzepten und verteilterArchitekturen.",,,

@@ -1,0 +1,19 @@
+"B-DLCVDeep Learning for Computer Vision (Deep Learning for ComputerVision)",Wahlpflicht,,
+CP: 14,"Kontaktstudium: 4;8 SWS / 60; 120 h",Selbststudium: 120 h,"SWS: 2V, 2Ü, 8PR"
+"Lernergebnisse / Kompetenzziele: The learning outcomes include understanding the mathematicsbehind the computer vision algorithms introduced in class and program the algorithms to perform tasks suchas filtering of images, learning the models. Also, be able to apply and design computer vision systems andalgorithms in a real-world problem, being able to evaluate properly computer vision algorithms for a variety ofproblems using deep neural networks, including different types of architectures, and state-of-the-art libraries.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Min. 25 CPs ausBasismodulen und Machine Learning 1 (ML1)",,,
+Empfohlene Voraussetzungen: keine,,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:",—,,
+Häufigkeit des Angebots:,jährlich im Sommer- oder Wintersemester,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Roig,,
+Studiennachweise /,Teilnahmenachweis:,Keiner,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,"TermingerechteBearbeitung undDemonstration derPraktikumsaufgaben inDLCV-BPR",
+Lehr- / Lernform:,Vorlesung mit Übung und Praktikum,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (120 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+DLCVDeep Learning for Computer Vision (Deep Learning for Computer Vision),,,
+"Inhalte: How can we enable machines to obtain semantic information from image data? How can computersgain a high-level understanding of visual input, which in turn is necessary to solve many elaborate tasks? Theobjective of this course is to present a modern, data-driven approach to solve these problems. The focus inthis course is on the underlying computational/mathematical principles, and data-driven and neural networks(deep learning) approaches, as well as an overview of the previous methods. The course introduces differentcomputer vision tasks such as image classification, detection, among others, and discusses differentcomputational algorithms for these tasks, in particular, the recently proposed deep learning methods andconvolutional neural networks (CNN)",,,
+"DLCV-BPRPraktikum Deep Learning for Computer Vision (Practical course Deep Learning for ComputerVision)",,,

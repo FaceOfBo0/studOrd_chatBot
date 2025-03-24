@@ -1,0 +1,18 @@
+B-NLP-DSNLP-gestützte Data Science (NLP-based Data Science),Wahlpflicht,,
+CP: 6,"Kontaktstudium:4 SWS / 60h",Selbststudium: 120 h,"SWS: 2V, 2Ü"
+"Lernergebnisse / Kompetenzziele: Kenntnisse: Die Vorlesung führt in grundlegende Begriffe, Methodenund Aufgabengebiete des NLP zur Analyse insbesondere von Webdokumenten ein.Fertigkeiten: Im Zuge der Vorlesung und ihrer Übung sollen die Studierenden dazu in die Lage versetztwerden, konkrete Fragestellungen der Data Science zu entwickeln und geeignete NLP-Modelle hierfür zuentwerfen.Kompetenzen: Die Studierenden erlernen, ihre Anwendungen und Modelle anhand geeigneterDatensammlungen (Korpora) praktisch zu erproben und ggf. zu erweitern.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+"Empfohlene Voraussetzungen: Logik, Linguistik, Graphentheorie, Datenbanken, Inhalte des ModulsB-TTDA.",,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:","M.Sc. Informatik, M.Sc. Bioinformatik",,
+Häufigkeit des Angebots:,jährlich im SoSe,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Mehler,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,Keine.,
+Lehr- / Lernform:,Vorlesung mit Übung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (90 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+NLP-DSNLP-gestützte Data Science (NLP-based Data Science),,,
+"Inhalte: Die Vorlesung führt in Data Science am Beispiel natürlichsprachlicher Daten unter Anwendung vonVerfahren des Natural Language Processing (NLP) ein. Die behandelten Daten entstammen dergeschriebenen und der gesprochenen Sprache und sind durch unterschiedliche Medien (z.B. Text, Dialog, Webeinerseits bzw. Online Social Networks, Nachrichtendienste, Online-Nachschlagewerke, Online-Forenandererseits) vermittelt. Multimediale Dokumente und Hypertexte der Online-Kommunikation bilden folglicheinen Schwerpunkt der Vorlesung. Die Vorlesung vermittelt Wissen über Verfahren der Repräsentation undAnalyse multimedialer und multimodaler Dokumente. Neben statischen Repräsentationsformaten werdeninsbesondere dynamische Modelle, 3D-Visualisierungen und KI-unterstützte Verfahren thematisiert. DenAnwendungsschwerpunkt der Vorlesung bilden Fragestellungen des Web Mining auf verschiedenensprachlichen Untersuchungsebenen, zu deren Umsetzung NLP-Verfahren zur Auszeichnung, Segmentierungund Vernetzung herangezogen werden. Die theoretischen Konzepte der Veranstaltung werden anhandpraktischer Beispiele und konkreter Systeme (z.B. TextImager) demonstriert.",,,

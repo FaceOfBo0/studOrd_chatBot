@@ -1,0 +1,22 @@
+B-EiALEinführung in die Algorithmik (Introduction to Algorithmics),Wahlpflicht,,
+CP: 5,"Kontaktstudium:3 SWS / 45h",Selbststudium: 105 h,"SWS: 2V, 1Ü"
+"Lernergebnisse / Kompetenzziele: Die Kenntnis algorithmischer Entwurfsmethoden und Modelle undihre eigenständige Anwendung für die Lösung von Problemen in fortgeschrittenen Berechnungsszenarien. DieFähigkeit, die Performanz und Güte verschiedener Lösungsansätze einschätzen und diese durch theoretischeund/oder durch experimentelle Untersuchungen überprüfen zu können. Kommunikative Kompetenzen werdendurch Arbeiten in Gruppenübungen und die dortige Vorstellung und Diskussion von Übungsaufgabenerworben.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+Empfohlene Voraussetzungen: Theorieveranstaltungen im Pflichtbereich.,,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:",—,,
+Häufigkeit des Angebots:,"mindestens eine Veranstaltung, unregelmäßig",,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Meyer,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,Keine.,
+Lehr- / Lernform:,Vorlesung mit Übung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (90 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+AE1Algorithm Engineering 1 (Algorithm Engineering 1),,,
+"Inhalte: Grundlegende Konzepte des Algorithm Engineering; Realistische Eingabemodelle einschließlichAverage-Case Komplexität und Smoothed Analysis, Basis-Algorithmen und Datenstrukturen für realistischeComputermodelle (z.B. Speicherhierarchien), Heuristiken und experimentelle Evaluierung.",,,
+AST1Algorithmische Spieltheorie 1 (Algorithmic Game Theory 1),,,
+"Inhalte: In der Vorlesung werden Grundlagen der Spieltheorie, Nash-Gleichgewichte und allgemeinereGleichgewichtskonzepte, Algorithmen zur Berechnung von Gleichgewichten, sowie die Komplexität vonGleichgewichten diskutiert. Die Konzepte werden in verschiedenen Spielklassen untersucht, z.B. inNullsummenspielen, Potenzialspielen oder Netzwerkverbindungsspielen. Mit dem Preis der Anarchie und demPreis der Stabilität wird die soziale Güte von Gleichgewichten abgeschätzt. Daneben führt die Veranstaltungin das Gebiet des Mechanismusdesign ein und behandelt Aspekte wie Ein-Gut Auktionen und dieVCG-Technik.",,,
+APX1Approximationsalgorithmen 1 (Approximation Algorithms 1),,,
+"Inhalte: Die Entwurfsmethoden der Greedy-Algorithmen, der dynamische Programmierung und der lokalenSuche werden für den Entwurf von Approximationsalgorithmen eingesetzt.",,,

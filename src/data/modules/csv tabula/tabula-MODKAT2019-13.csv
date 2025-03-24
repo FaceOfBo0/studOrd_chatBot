@@ -1,0 +1,19 @@
+B-MODModellierung (Modelling),Basismodul (Pflicht),,
+CP: 8,"Kontaktstudium:6 SWS / 90h",Selbststudium: 150 h,"SWS: 3V, 2Ü, 1EÜ"
+"Lernergebnisse / Kompetenzziele: Wissen und Verstehen: Kenntnis der grundlegendenModellierungsmethoden und Beherrschen der entsprechenden Techniken.Können: Die Studierenden erlernen die Fähigkeit zur präzisen und formalen Ausdrucksweise bei der Analysevon Problemen (systemische Kompetenz). Modellierungskonzepte wie etwa der Kalkül der Mengen,Aussagen- und Prädikatenlogik, Graphen, Markov-Ketten, endliche Automaten, kontextfreie Grammatikensollen als Werkzeuge der Modellierung auch in ihren Anwendungsmöglichkeiten verstanden werden(instrumentale Kompetenz).Kommunikative Kompetenzen werden durch Arbeiten in Gruppen-Übungen und die dortige Vorstellung undDiskussion von Übungsaufgaben erworben.",,,
+Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Keine.,,,
+Empfohlene Voraussetzungen: Vorkurs Informatik.,,,
+"Freiversuchsfrist: Bei Beginn im Wintersemester: 2. Fachsemester.Bei Beginn im Sommersemester: 3. Fachsemester.",,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",Bachelor Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:","M.Sc. Wirtschaftsinformatik, B.Sc. Bioinformatik",,
+Häufigkeit des Angebots:,jährlich im WiSe,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Dell,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,Keine.,
+Lehr- / Lernform:,Vorlesung mit Übung und Ergänzungsübung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,Klausur (120 min).,,
+Zugehörige Veranstaltungen:,,,
+MODDiskrete Modellierung (Discrete Modelling),,,
+"Inhalte: In der Informatik wird das Modellieren mittels diskreter Strukturen als typische Arbeitsmethode invielen Bereichen angewandt. Es dient der präzisen Beschreibung von Problemen durch spezielle Modelle undist damit Voraussetzung für die Lösung eines Problems bzw. ermöglicht oft einen systematischen Entwurf. Inden verschiedenen Gebieten der Informatik werden unterschiedliche, jeweils an die Art der Probleme undAufgaben angepasste, Modellierungsmethoden verwendet. Innerhalb der Veranstaltung sollen zunächst diegrundlegenden Begriffe wie z.B. ‚Modell‘ und ‘Modellierung‘, geklärt werden. Anschließend werdenverschiedene Ausdrucksmittel der Modellierung untersucht: Grundlegende Kalküle wie der Kalkül derMengen, die Aussagen- und Prädikatenlogik, Graphen, endliche Automaten, Markov-Ketten, kontextfreieGrammatiken.",,,

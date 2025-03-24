@@ -1,0 +1,18 @@
+"B-EAQCEinführung in Angewandtes Quantencomputing (Introduction to appliedquantum computing)",Wahlpflicht,,
+CP: 3,"Kontaktstudium:2 SWS / 30h",Selbststudium: 60 h,SWS: 2V
+"Lernergebnisse / Kompetenzziele: The students will learn:• learn basics of experimental and theoretical quantum theory relevant to quantum computing;• be able to apply the quantum computing toolbox (matrix repr., gates, circuit model);• learn variants of quantum computing technologies (gate-based systems, quantum annealers);• understand “killer” apps (Shor, Grover) and other quantum algorithms (optimization);• understand the idea of quantum parallelism w.r.t. to idealized and real quantum computers;• meet various quantum programming platforms;• understand practical hybrid HPC quantum algorithms and apply them to real machines.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+Empfohlene Voraussetzungen: Grundlegende Kenntnisse der linearen Algebra,,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:","M.Sc. Informatik, M.Sc. Wirtschaftsinformatik",,
+Häufigkeit des Angebots:,jährlich im SoSe,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Lippert,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,Keine.,
+Lehr- / Lernform:,Vorlesung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (60 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+EAQCEinführung in Angewandtes Quantencomputing (Introduction to applied quantum computing),,,
+"Inhalte:• From Stern-Gerlach to Spins and Qubits• Fundamentals of Quantum Mechanics• Basics of Quantum Computing Algorithms – The Quantum Computing Tool Box• Shor’s and Grover’s Algorithm• Quantum Parallelism, the Ideal Quantum Computer and its Emulation on Supercomputers• Real Quantum Computer Architectures – Gate-Based Machines vs. Quantum Annealers• QAOA on Gate-based Quantum Computers• VQE on the Noisy-Intermediate Quantum Computer (NISQ)• QUBO on the Quantum Annealer• Hybrid HPC-quantum algorithms• Quantum Programming Platforms• Boosting Machine Learning• Quantum Supremacy and Other Success Metrics",,,

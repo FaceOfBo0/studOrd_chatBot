@@ -1,0 +1,18 @@
+"B-HLHochleistungsrechnerarchitekturen (High-performance ComputerArchitectures)",Wahlpflicht,,
+CP: 6,"Kontaktstudium:4 SWS / 60h",Selbststudium: 120 h,"SWS: 3V, 1Ü"
+"Lernergebnisse / Kompetenzziele: Grundverständnis aller Elemente eines Hochleistungsrechners und dersich ergebenden verschiedenen Architekturen. Verständnis des Wechselspiels zwischen HochleistungsrechnerArchitektur und Algorithmus und Fähigkeit, zur Entwicklung des optimalen Algorithmus auf modernenArchitekturen. Programmierung mit Vektor Klassen, OpenMP, MPI.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+"Empfohlene Voraussetzungen: Kenntnisse über die Grundlagen der Technischen Informatik und denEntwurf digitaler Systeme, wie sie in den Modulen B-RTKS und B-ARA vermittelt werden, sindwünschenswert.",,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:","M.Sc. Informatik, M.Sc. Bioinformatik",,
+Häufigkeit des Angebots:,jährlich im WiSe,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Lindenstruth,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,"Übungsaufgaben alsPrüfungsvorleistung.",
+Lehr- / Lernform:,Vorlesung mit Übung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (120 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+HLHochleistungsrechnerarchitekturen (High-performance Computer Architectures),,,
+"Inhalte: Die Vorlesung vermittelt einen Einblick in den Aufbau, die Technologie und die Bewertung vonmodernen Hochleistungsrechnern. Sie beginnt mit einem Überblick über das Gebiet mit Schwerpunkt auf denverschiedenen Anforderungen an die Architektur. Es werden grundlegende Themen erötert: wieWiederholung, Synchronisation, Latenz, Overhead, Bandbreite, Cache Kohärenz, Sequenzielle Konsistenz,Vektorisierung, Nebenläufigkeit auf massiv parallelen Architekturen, etc. Das ganze Spektrum modernerMaschinen wird vorgestellt, unter anderem kleinskalige SMP Systeme, großskalige massiv parallele Systeme,NUMA und CC-NUMA Systeme, Message Passing Architekturen und Cluster Systeme. Kleinskalige SMPSysteme werden als Grundlage für das Verständnis von großskaligen Designs untersucht. Die Skalierbarkeitvon Hochleistungsrechnern wird ausführlich untersucht.",,,

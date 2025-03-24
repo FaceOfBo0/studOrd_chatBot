@@ -1,0 +1,21 @@
+"B-GeA-1Grundlagen effizienter Algorithmen 1 (5CP) (Foundations of EfficientAlgorithms 1 (5CP))",Wahlpflicht,,
+CP: 5,"Kontaktstudium:3 SWS / 45h",Selbststudium: 105 h,"SWS: 2V, 1Ü"
+"Lernergebnisse / Kompetenzziele: Die Studierenden sollen die fundamentalen Methoden und Ergebnisseder besuchten Veranstaltungen kennen, diese erklären können und in Anwendungen kritisch und selbstständigeinsetzen, anwenden und evaluieren können.Sie erwerben die Fähigkeit, für neue Problemstellungen unter Benutzung der erlernten Methoden undErgebnisse eigene Lösungsverfahren zu konstruieren und die Auswahl der Methoden qualifiziert zubegründen. Das gilt insbesondere für den algorithmischen Einsatz von Zufälligkeit und dessen Analyse.Die Studierenden stellen in Übungsgruppen ihre Lösungsvorschläge zu Aufgaben vor, die die Inhalte derVorlesungen vertiefen. Sie erwerben damit die Kompetenz, ihre Lösungsideen zum Teil in Gruppenarbeit zudokumentieren und zu erklären, sowie etwaige Fehler zu erkennen und zu korrigieren.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+Empfohlene Voraussetzungen: keine,,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:",—,,
+Häufigkeit des Angebots:,"mindestens eine Veranstaltung, jährlich im SoSe",,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Kovacs,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,Keine.,
+Lehr- / Lernform:,Vorlesung mit Übung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (90 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+ATTI1Aktuelle Themen der Theoretischen Informatik 1 (Current Topics in Theoretical Computer Science 1),,,
+Inhalte: Es wird in neue Entwicklungen der Theoretischen Informatik eingeführt.,,,
+EAL1Effiziente Algorithmen 1 (Efficient Algorithms 1),,,
+"Inhalte: Der Entwurf effizienter randomisierter Algorithmen. Besonderes Gewicht erhalten auf Markovkettenbasierende Methoden. Anwendungen beinhalten unter Anderem: Hypercube-Routing, Primzahltest,Simulated Annealing, platz-effiziente Suche.",,,
+KTH1Komplexitätstheorie 1 (Complexity Theory 1),,,

@@ -1,0 +1,18 @@
+"B-DBVGrundlagen der digitalen Bildverarbeitung (Principles of Digital ImageProcessing)",Wahlpflicht,,
+CP: 6,"Kontaktstudium:4 SWS / 60h",Selbststudium: 120 h,"SWS: 2V, 2Ü"
+"Lernergebnisse / Kompetenzziele: Kenntnis der theoretischen Grundlagen der Bildverarbeitung, ohnedie ein systematisches Arbeiten in diesem Gebiet und das Verständnis moderner Verfahren derBildverarbeitung nicht möglich ist. Erkennen der Tatsache, dass die Digitale Bildverarbeitung in besonderemMaße die geschulte Anwendung von mathematischen Verfahren und ein ausgeprägtes Verständnis der linearenSystemtheorie erfordert. Kenntnis grundlegender Verarbeitungsoperationen in Theorie und praktischerAnwendung, sowie aktueller Anwendungen der Bildverarbeitung in Medien, Automatisierung und Medizin.",,,
+"Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen: Mindestens 25 CPaus den Basismodulen müssen erreicht sein.",,,
+Empfohlene Voraussetzungen: Keine.,,,
+"Zuordnung des Moduls (Studiengang /Fachbereich):",B.Sc. Informatik,,
+"Verwendbarkeit des Moduls für andereStudiengänge:",M.Sc. Informatik,,
+Häufigkeit des Angebots:,alle 3 Semester,,
+Dauer des Moduls:,einsemestrig,,
+Modulbeauftragte / Modulbeauftragter:,Ramesh,,
+Studiennachweise /,Teilnahmenachweis:,Keine.,
+ggf. als Prüfungsvorleistungen:,Leistungsnachweis:,Keine.,
+Lehr- / Lernform:,Vorlesung mit Übung,,
+Modulprüfung:,Form / Dauer / ggf. Inhalt:,,
+Modulabschlussprüfung bestehend aus:,"Je nach Anzahl der Teilnehmerinnen und Teilnehmereine ca. 35 minütige mündliche Prüfung oder eineKlausur (120 Minuten).",,
+Zugehörige Veranstaltungen:,,,
+DBVGrundlagen der Digitalen Bildverarbeitung (Principles of Digital Image Processing),,,
+"Inhalte: Bildaufnahmetechnik, Theorie der zweidimensionalen Signale und Systeme: Abtastung, Faltung,Fourier-Transformation, Filter. Nichtlineare Operatoren, Bildmodelle (insbesondere statistische Modelle),Farbwahrnehmung und Farbdarstellung, Kantenerkennung, Textur, Regionenform, Segmentierung,Objekterkennung, Klassifikation.In der Übung werden die grundlegenden Verfahren der Bildverarbeitung anhand von Übungsaufgabenbehandelt, deren Lösungen zu Hause vorzubereiten und in der Übung vorzustellen sind. Darüber hinaus sindzu einzelnen Übungsaufgaben auch kleinere Programmieraufgaben zu lösen.",,,
