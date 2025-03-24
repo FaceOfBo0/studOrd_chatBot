@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from typing import List, Optional
+from typing import Optional
 import re
 
 @dataclass
@@ -11,26 +11,26 @@ class SubPoint:
 class Point:
     number: str
     content: str
-    subpoints: List[SubPoint]
+    subpoints: list[SubPoint]
 
 @dataclass
 class Paragraph:
     number: str
     title: Optional[str]
     content: str
-    points: List[Point]
+    points: list[Point]
 
 @dataclass
 class Section:
     number: str
     title: str
-    paragraphs: List[Paragraph]
+    paragraphs: list[Paragraph]
 
 @dataclass
 class StudyRegulation:
-    sections: List[Section]
+    sections: list[Section]
 
-def parse_subpoints(text: str) -> List[SubPoint]:
+def parse_subpoints(text: str) -> list[SubPoint]:
     # Match both formats: a) and (a), but only at the start of a line or after a clear separator
     subpoint_pattern = r'(?:^|\n)\s*(?:(\d+)\.|\(([a-z])\)|([a-z]\))\s*)(.*?)(?=(?:(?:^|\n)\s*(?:\d+\.|\([a-z]\)|[a-z]\))|$))'
     subpoints = []
@@ -49,7 +49,7 @@ def parse_subpoints(text: str) -> List[SubPoint]:
         ))
     return subpoints
 
-def parse_points(text: str) -> List[Point]:
+def parse_points(text: str) -> list[Point]:
     # Only match points in (1) format
     point_pattern = r'\((\d+)\)\s*(.*?)(?=(?:\(\d+\)|$))'
     points = []
@@ -69,7 +69,7 @@ def parse_points(text: str) -> List[Point]:
         ))
     return points
 
-def parse_paragraphs(text: str) -> List[Paragraph]:
+def parse_paragraphs(text: str) -> list[Paragraph]:
     # Updated pattern to handle different RO reference formats
     para_pattern = r'(?:^|\n\n|\n(?=§))§\s*(\d+)\s+([^(\n]+(?:\([^)]+\)[^(\n]+)*?)(?:\((RO:?\s*(?:§\s*)?\d+)\))?\s*\n+(.*?)(?=(?:\n\n|\n(?=§))§\s*\d+(?:\s+(?!Abs))|$)'
     paragraphs = []
@@ -124,7 +124,7 @@ def parse_section_without_subpoints(text: str) -> Section:
 
     return Section(number=number, title=title.strip(), paragraphs=paragraphs)
 
-def parse_paragraphs_without_subpoints(text: str) -> List[Paragraph]:
+def parse_paragraphs_without_subpoints(text: str) -> list[Paragraph]:
     para_pattern = r'(?:^|\n\n|\n(?=§))§\s*(\d+)\s+([^(\n]+(?:\([^)]+\)[^(\n]+)*?)(?:\((RO:?\s*(?:§\s*)?\d+)\))?\s*\n+(.*?)(?=(?:\n\n|\n(?=§))§\s*\d+(?:\s+(?!Abs))|$)'
     paragraphs = []
 
@@ -154,7 +154,7 @@ def parse_paragraphs_without_subpoints(text: str) -> List[Paragraph]:
     return paragraphs
 
 
-def parse_points_without_subpoints(text: str) -> List[Point]:
+def parse_points_without_subpoints(text: str) -> list[Point]:
     point_pattern = r'\((\d+)\)\s*(.*?)(?=(?:\(\d+\)|$))'
     points = []
     for match in re.finditer(point_pattern, text, re.DOTALL):

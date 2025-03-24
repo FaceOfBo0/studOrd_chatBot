@@ -6,6 +6,9 @@
 # from Preprocessing import PreProcessor, FileHandler
 # from spacy.language import Language
 # import RAGBuilder
+# import tabula
+
+from data.Module import Module
 
 if __name__ == '__main__':
     # * RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_dt_matryoshka", "docs_pnt", "akot/german-semantic-bmf-matryoshka")
@@ -23,7 +26,28 @@ if __name__ == '__main__':
     # RAGBuilder.create_embds_hf_pnt("src/data/json/stdReg_new.json", "docs_pnt", "jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora_new", "retrieval.passage")
 
 
-    ### Sentence Tokenizer and Table Parsing via spacy, spacy-layout
+
+
+    # tables = tabula.io.read_pdf("src/data/pdfs/MODKAT2019.pdf", pages="15-91", multiple_tables=True)
+    # if isinstance(tables, list):
+    #     elem = tables[4]
+    #     if not elem.empty:
+    #        print(elem.to_numpy())
+
+    # import csv
+
+    # with open("src/data/modules/csv tabula/tabula-MODKAT2019-7.csv", mode="r") as file:
+    #    csv_file = csv.reader(file)
+    #     for line in csv_file:
+    #         print(line)
+
+    with open("data/modules/csv tabula/tabula-MODKAT2019-19.csv") as file:
+        mod = Module(file)
+        print(mod)
+        # for i, elem in enumerate(mod.content_raw):
+        #     print(str(i)+": ", elem)
+
+    ### Table Parsing via spacy-layout
 
     # import pathlib
     #import spacy
@@ -48,10 +72,18 @@ if __name__ == '__main__':
     #         ta._.data.to_pickle("data/modules/module" + str(i)+".pkl")
     #     i += 1
 
-    import pandas as pd
+    # import pandas as pd
+    # from pandas import DataFrame
 
-    frame = pd.read_pickle("data/modules/module11.pkl")
-    print(frame)
+    # frame = DataFrame(pd.read_pickle("src/data/modules/module08.pkl"))
+    # np_frame = frame.to_numpy()
+    # print(np_frame)
+
+
+
+
+
+
 
     ## example of parsing sentences of one section (Abschnitt I) with spacy
 
