@@ -86,8 +86,8 @@ class Module:
         self.title = self.transform_title(self.content_raw[0][0].replace("\n", " "))
         self.type = self.content_raw[i][1].replace("\n", " ")
         i += 1
-        self.credit_points = self.content_raw[i][0].replace("\n"," ").replace("CP", "Credit Points")
-        self.presence_time = self.content_raw[i][1].replace("\n"," ")
+        self.credit_points = self.content_raw[i][0].replace("\n"," ").replace("CP", "Credit Points (CP)")
+        self.presence_time = self.content_raw[i][1].replace("\n"," ").replace("SWS", "Semesterwochenstunden (SWS)")
         self.self_time = self.content_raw[i][2].replace("\n"," ")
         i += 1
         self.skills = self.content_raw[i][0].replace("\n"," ")
