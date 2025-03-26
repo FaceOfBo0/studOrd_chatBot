@@ -201,3 +201,32 @@ def create_pntCtxMap_from_stdyReg(regulation: StudyRegulation) -> Dict[str, Dict
                     point_map[concatenated_text] = point_context
 
     return point_map
+
+def paragraphs_chunks(sect: dict) -> list[str]:
+    documents = []
+
+    for _ , sec in sect.items():
+        for item in parse_paragraph(sec):
+            documents.append(item)
+
+    return documents
+
+def parse_paragraph(text: str) -> list[str]:
+    lines = text.split('\n\n')
+
+    chunks = []
+    current_chunk = ""
+
+    for line in lines:
+        if line.startswith('§'):
+            if current_chunk:
+                chunks.append(current_chunk.strip())
+            current_chunk = line
+        else:
+            current_chunk += " " + line
+
+    if current_chunk:
+        chunks.append(current_chunk.strip())
+    chunks[0] = chunks[0] + " " + chunks[1]
+    chunks.remove(chunks[1])
+    return chunks

@@ -1,12 +1,18 @@
-from Preprocessing import FileHandler, PreProcessor, PreProcessorOld
+from Preprocessing import FileHandler, PreProcessor
 from Retrieval.RetrieverHF import RetrieverHF
+
+def create_embds_modules(mods_path: str, db_path: str, db_coll: str, model_name: str):
+    modules = FileHandler.parse_modules_from_csv(mods_path)
+    
+    retriever = RetrieverHF(model_name, db_path)
+    retriever.save_embds_to_db()
 
 def create_embds_hf_para(file_path: str, db_path: str, db_coll: str, model_name: str):
     # Creating docs and indexing them in db for retrieval paragraph chunks
     # minilm = sentence-transformers/all-MiniLM-L12-v2, e5 = danielheinz/e5-base-sts-en-de
 
     sections = FileHandler.read_section_files(file_path)
-    documents = PreProcessorOld.paragraphs_chunks(sections)
+    documents = PreProcessor.paragraphs_chunks(sections)
 
     # retriever = RetrieverOLL("all-minilm:33m", "src/database/oll_minilm_1")
     retriever = RetrieverHF(model_name, db_path)
