@@ -41,9 +41,16 @@ if __name__ == '__main__':
     #     for line in csv_file:
     #         print(line)
 
-    with open("data/modules/csv tabula/tabula-MODKAT2019-19.csv") as file:
+    import jsonpickle as jp
+    import json
+    with open("data/modules/csv tabula/tabula-MODKAT2019-10.csv") as file:
         mod = Module(file)
-        print(mod)
+        modJSON = jp.encode(mod, unpicklable=True)
+    # print(modJSON)
+    with open("data/modules/test.json", "w", encoding="utf-8") as f:
+        json.dump(modJSON, f, indent=4)
+    mod_obj = jp.decode(modJSON)
+    print(mod_obj)
         # for i, elem in enumerate(mod.content_raw):
         #     print(str(i)+": ", elem)
 

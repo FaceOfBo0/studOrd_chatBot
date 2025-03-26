@@ -106,4 +106,6 @@ class Module:
         self.exam_type = " ".join(map(lambda x: x.replace("\n"," "), self.content_raw[i][:2])).strip()
 
 def parse_modules(mods_dir: str) -> list[Module]:
-    return []
+    list_mods = []
+
+    return list_mods

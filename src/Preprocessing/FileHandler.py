@@ -35,7 +35,7 @@ def read_section_files(directory: str) -> Dict[int, str]:
     return sections
 
 def save_regulation_to_json(regulation: StudyRegulation, file_path: str) -> None:
-    """Serializes the StudyRegulation to JSON and saves it to a file"""
+    """Serializes a StudyRegulation object to json and saves it to a file"""
     def encode_dataclass(obj: Any) -> dict:
         if hasattr(obj, '__dataclass_fields__'):
             return {
@@ -49,7 +49,7 @@ def save_regulation_to_json(regulation: StudyRegulation, file_path: str) -> None
 
 
 def load_regulation_from_json(file_path: str) -> StudyRegulation:
-    """Deserializes the StudyRegulation from a JSON file"""
+    """Deserializes the StudyRegulation from a json file"""
     def decode_dataclass(obj_dict: dict) -> Any:
         if '_type' not in obj_dict:
             return obj_dict
