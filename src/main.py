@@ -8,9 +8,8 @@
 # import RAGBuilder
 # import tabula
 
-from data.Module import Module
-
 if __name__ == '__main__':
+    pass
     # * RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_dt_matryoshka", "docs_pnt", "akot/german-semantic-bmf-matryoshka")
     # * RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_ml_jina_lora", "docs_pnt", "CISCai/jina-embeddings-v3-query-distilled")
     # ** RAGBuilder.create_idx_hf_para("src/data/sections", "src/database/hf_e5", "docs_para", "danielheinz/e5-base-sts-en-de")
@@ -27,6 +26,7 @@ if __name__ == '__main__':
 
 
 
+# use tabula for table extraction from modules pdfs
 
     # tables = tabula.io.read_pdf("src/data/pdfs/MODKAT2019.pdf", pages="15-91", multiple_tables=True)
     # if isinstance(tables, list):
@@ -34,25 +34,45 @@ if __name__ == '__main__':
     #     if not elem.empty:
     #        print(elem.to_numpy())
 
-    # import csv
+
+# regex for pattern matching of title and short_title in Module
+
+    # import Preprocessing.FileHandler as fh
+
+    # lst_mods = fh.parse_modules_from_csv("data/modules/tabula csv/B und WPF")
+    #
+    # pattern = r'^([A-Z]+(?:-[A-Za-z0-9]+)*)([A-ZÄÖÜ][a-z][\w -/().]+)$'
+    # pattern = r'^([A-Z]+(?:-[A-Za-z0-9]+)*)([A-ZÄÖÜ].*)$'
+    # pattern = r'^(B-NLP-DS|[A-Z]+(?:-[A-Za-z0-9]+)*)([A-ZÄÖÜ].*)$'
+    # for i, m in enumerate(lst_mods):
+        # match = re.match(pattern, m.title)
+        # if match:
+        #     abkuerzung = match.group(1)
+        #     titel = match.group(2).strip()
+        #     print(f"Abkürzung: {abkuerzung}, Titel: {titel}")
+        # else:
+        #     print(f"Kein Treffer für: {m.title}")
+
+# import csv
 
     # with open("src/data/modules/csv tabula/tabula-MODKAT2019-7.csv", mode="r") as file:
     #    csv_file = csv.reader(file)
     #     for line in csv_file:
     #         print(line)
 
-    import jsonpickle as jp
-    import json
-    with open("data/modules/csv tabula/tabula-MODKAT2019-10.csv") as file:
-        mod = Module(file)
-        modJSON = jp.encode(mod, unpicklable=True)
-    # print(modJSON)
-    with open("data/modules/test.json", "w", encoding="utf-8") as f:
-        json.dump(modJSON, f, indent=4)
-    mod_obj = jp.decode(modJSON)
-    print(mod_obj)
-        # for i, elem in enumerate(mod.content_raw):
-        #     print(str(i)+": ", elem)
+    # serialize/deserialize py Object to JSON with jsonpickle
+
+    # import jsonpickle as jp
+    # import json
+    # with open("data/modules/csv tabula/tabula-MODKAT2019-10.csv") as file:
+    #     mod = Module(file)
+    #     modJSON = jp.encode(mod, unpicklable=True)
+
+    # with open("data/modules/test.json", "w", encoding="utf-8") as f:
+    #     json.dump(modJSON, f, indent=4)
+    # mod_obj = jp.decode(modJSON)
+    # print(mod_obj)
+
 
     ### Table Parsing via spacy-layout
 

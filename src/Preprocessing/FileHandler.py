@@ -5,6 +5,19 @@ from dataclasses import asdict
 import glob
 from data.StudyRegulation import StudyRegulation, Section, Point, SubPoint, Paragraph
 import json
+from data.Module import Module
+
+def parse_modules_from_csv(mods_dir: str) -> list[Module]:
+    files = sorted([f for f in os.listdir(mods_dir) if f.endswith('.csv')])
+    list_mods = []
+
+    for i, file_name in enumerate(files):
+        file_path = os.path.join(mods_dir, file_name)
+        with open(file_path, "r", encoding="utf-8") as file:
+            list_mods.append(Module(file))
+
+    return list_mods
+
 
 def read_section_files_abs_alt() -> Dict[str, str]:
     """Reads all section files and returns their content. Path is beeing deduced from the file name."""

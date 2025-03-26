@@ -1,10 +1,13 @@
 from dataclasses import dataclass
 import csv
+import re
+from _csv import Reader
 from io import TextIOWrapper
 
 @dataclass
 class Module:
     title: str
+    short_title: str
     type: str
     credit_points: str
     presence_time: str
@@ -26,19 +29,28 @@ class Module:
 
     def __init__(self, file: TextIOWrapper):
         self.deadline_try = ""
-        self.reader = csv.reader(file)
-        self.content_raw = self.get_csv_list()
+        self.content_raw = self.get_csv_list(csv.reader(file))
         self.parse_content()
         if self.deadline_try == "":
             self.deadline_try = "Freiversuchsfrist: —"
 
+        pattern = r'^(B-NLP-DS|[A-Z]+(?:-[A-Za-z0-9]+)*)([A-ZÄÖÜ].*)$'
+        match = re.match(pattern, self.title)
+        if match:
+            self.short_title = match.group(1)
+            self.title = match.group(2).strip()
+        else:
+            self.short_title = "n.a."
+            self.title = "n.a."
+
     def __repr__(self) -> str:
-        return f"{self.title}; {self.type}; {self.credit_points}; {self.presence_time}; {self.self_time}; {self.skills}; {self.prerequ_part}; {self.prerequ_mod}; {self.deadline_try}; {self.assign_study}; {self.other_modules};"
+        return f"Modul: {self.title}; Abkürzung: {self.short_title}; Art: {self.type}; {self.credit_points}; {self.presence_time}; {self.self_time}; {self.skills}; {self.prerequ_part}; {self.prerequ_mod}; {self.deadline_try}; {self.assign_study}; {self.other_modules}; {self.freq}; {self.length}; {self.lecturer}; {self.proof_attendence}; {self.proof_performance}; {self.form}; {self.exam_type}"
 
     def __str__(self) -> str:
         return f"""Module(
-        {self.title};
-        {self.type};
+        Modul: {self.title};
+        Abkürzung: {self.short_title};
+        Art: {self.type};
         {self.credit_points};
         {self.presence_time};
         {self.self_time};
@@ -60,9 +72,9 @@ class Module:
     def __del__(self):
         pass
 
-    def get_csv_list(self) -> list[list[str]]:
+    def get_csv_list(self, rdr: Reader) -> list[list[str]]:
         result_list = []
-        for line in self.reader:
+        for line in rdr:
             result_list.append(line)
         return result_list
 
@@ -71,8 +83,8 @@ class Module:
 
     def parse_content(self):
         i = 0
-        self.title = "Modul: " + self.transform_title(self.content_raw[0][0].replace("\n", " "))
-        self.type = "Art: " + self.content_raw[i][1].replace("\n", " ")
+        self.title = self.transform_title(self.content_raw[0][0].replace("\n", " "))
+        self.type = self.content_raw[i][1].replace("\n", " ")
         i += 1
         self.credit_points = self.content_raw[i][0].replace("\n"," ").replace("CP", "Credit Points")
         self.presence_time = self.content_raw[i][1].replace("\n"," ")
@@ -104,8 +116,3 @@ class Module:
         self.form = " ".join(map(lambda x: x.replace("\n"," "), self.content_raw[i][:2])).strip()
         i += 2
         self.exam_type = " ".join(map(lambda x: x.replace("\n"," "), self.content_raw[i][:2])).strip()
-
-def parse_modules(mods_dir: str) -> list[Module]:
-    list_mods = []
-
-    return list_mods
