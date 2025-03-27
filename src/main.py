@@ -1,8 +1,7 @@
-# from Preprocessing.PreProcessorNew import PreProcessorNew
 # from Retrieval.RetrieverHF import RetrieverHF
 # from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
-# from Preprocessing import FileHandler, PreProcessorNew, PreProcessorOld
+# from Preprocessing import FileHandler
 # from Preprocessing import PreProcessor, FileHandler
 # from spacy.language import Language
 # import RAGBuilder
@@ -25,8 +24,15 @@ if __name__ == '__main__':
     # RAGBuilder.create_embds_hf_pnt("src/data/json/stdReg_new.json", "docs_pnt", "jinaai/jina-embeddings-v3", "src/database/hf_jinaai_lora_new", "retrieval.passage")
 
 
+### create embeds for modules
+    # RAGBuilder.create_embds_hf_modules("data/modules/tabula csv/B und WPF", "docs_mods", "jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.passage")
 
-# use tabula for table extraction from modules pdfs
+    # retr = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.query")
+    # result = retr.get_results_from_db("Wieviel CP hat das Modul Lineare Algebra und Diskrete Mathematik?", 3, "docs_mods")
+    # print(result)
+
+
+### use tabula for table extraction from modules pdfs
 
     # tables = tabula.io.read_pdf("src/data/pdfs/MODKAT2019.pdf", pages="15-91", multiple_tables=True)
     # if isinstance(tables, list):
@@ -35,7 +41,7 @@ if __name__ == '__main__':
     #        print(elem.to_numpy())
 
 
-# regex for pattern matching of title and short_title in Module
+### regex for pattern matching of title and short_title in Module
 
     # import Preprocessing.FileHandler as fh
 
@@ -53,7 +59,7 @@ if __name__ == '__main__':
         # else:
         #     print(f"Kein Treffer für: {m.title}")
 
-# import csv
+### import csv
 
     # with open("src/data/modules/csv tabula/tabula-MODKAT2019-7.csv", mode="r") as file:
     #    csv_file = csv.reader(file)
@@ -74,7 +80,7 @@ if __name__ == '__main__':
     # print(mod_obj)
 
 
-    ### Table Parsing via spacy-layout
+### Table Parsing via spacy-layout
 
     # import pathlib
     #import spacy
@@ -107,12 +113,7 @@ if __name__ == '__main__':
     # print(np_frame)
 
 
-
-
-
-
-
-    ## example of parsing sentences of one section (Abschnitt I) with spacy
+### example of parsing sentences of one section (Abschnitt I) with spacy
 
     #@Language.component("custom_senter")
     #def custom_senter(doc):

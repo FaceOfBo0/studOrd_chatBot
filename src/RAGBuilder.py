@@ -1,11 +1,11 @@
 from Preprocessing import FileHandler, PreProcessor
 from Retrieval.RetrieverHF import RetrieverHF
 
-def create_embds_modules(mods_path: str, db_path: str, db_coll: str, model_name: str):
+def create_embds_hf_modules(mods_path: str, db_coll: str, model: str, db_path: str = "", task: str = ""):
     modules = FileHandler.parse_modules_from_csv(mods_path)
-    
-    retriever = RetrieverHF(model_name, db_path)
-    retriever.save_embds_to_db()
+
+    retriever = RetrieverHF(model_name=model, db_path=db_path, task_name=task)
+    retriever.save_embds_to_db([repr(mod) for mod in modules], db_coll)
 
 def create_embds_hf_para(file_path: str, db_path: str, db_coll: str, model_name: str):
     # Creating docs and indexing them in db for retrieval paragraph chunks
