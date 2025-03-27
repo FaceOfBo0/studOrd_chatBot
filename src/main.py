@@ -1,4 +1,4 @@
-from Retrieval.RetrieverHF import RetrieverHF
+# from Retrieval.RetrieverHF import RetrieverHF
 # from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
 # from Preprocessing import FileHandler
@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
 
 ### create embeds for modules
-    RAGBuilder.create_embds_hf_modules("data/modules/tabula csv/B und WPF", "docs_pnt", "jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.passage")
+    RAGBuilder.create_embds_hf_modules("data/modules/tabula csv/B und WPF", "docs_pnt", "jinaai/jina-embeddings-v3", "database/hf_jinaai_lora", "retrieval.passage")
 
     # retr = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.query")
     # result = retr.get_results_from_db("Wieviel CP hat das Modul Lineare Algebra und Diskrete Mathematik?", 3, "docs_mods")
