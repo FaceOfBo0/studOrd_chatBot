@@ -40,27 +40,6 @@ def gen_response_oll_stream(gen_model_name: str, query: str, context: list[str])
     """Streaming version of gen_response_oll that yields tokens as they're generated"""
     context_text = "\n".join(context)
 
-    # messages_orig = [
-    #     {
-    #         "role": "system",
-    #         "content": """Du bist ein hilfreicher KI-Assistent, der auf die Beantwortung von Fragen basierend auf bereitgestelltem Kontext spezialisiert ist.
-    #         Befolge diese Regeln:
-    #         1. Verwende ausschließlich Informationen aus dem bereitgestellten Kontext.
-    #         2. Wenn du die Antwort im Kontext nicht findest, sage es direkt.
-    #         3. Sei präzise und direkt in deinen Antworten.
-    #         4. Wenn du aus dem Kontext zitierst, erwähne dies.
-    #         5. Antworte in der gleichen Sprache wie die Frage gestellt wurde."""
-    #     },
-    #     {
-    #         "role": "user",
-    #         "content": f"""Hier ist der Kontext für die Beantwortung:
-
-    #         {context_text}
-
-    #         Beantworte auf Grundlage des Kontexts folgende Frage: {query}"""
-    #     }
-    # ]
-
     messages = [
         {
             "role": "system",
