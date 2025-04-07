@@ -1,15 +1,18 @@
 Top:
 Wieviel Semester beträgt die Regelstudienzeit im Bachelor Informatik?
 Wieviele Semester studiert man im Bachelor Informatik?
+Wie lange dauert der Studiengang Bachelor Informatik normalerweise?
+
 Ist ein Auslandssemester möglich und wenn ja, wann sollte ich das machen?
 Ist ein Auslandssemester möglich?
+
 Könntest Du mir die Zulassungsvoraussetzungen für den Bachelorstudiengang Informatik nennen?
 Bis spätestens wann muss ich mich zu einer Klausur oder Abschlussprüfung eines Moduls angemeldet haben?
+
 Wenn ich in einem Wahlpflichtmodul die Klausur nicht bestehe, muss ich dieses Modul zwingend beenden?
 Kann ich eine bereits bestandene Klausur eines Moduls zur Notenverbesserung wiederholen?
 
 Welche Bedingungen gelten für ausländische Studierende, um den Bachelorstudiengang aufzunehmen?
 Kann ich die Abschlussarbeit im Bachelor auch in einer Fremdsprache schreiben?
 
-Wie lange dauert der Studiengang Bachelor Informatik normalerweise?
 Kann ich mich in ein höheres Fachsemester einschreiben?

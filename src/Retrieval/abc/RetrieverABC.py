@@ -8,7 +8,7 @@ class RetrieverABC(ABC):
         pass
 
     @abstractmethod
-    def save_embds_to_db(self, docs: list[str], coll: str):
+    def save_embds_to_db(self, docs: list[str], coll: str, id_prefix: str):
         pass
 
     @abstractmethod

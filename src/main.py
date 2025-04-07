@@ -1,14 +1,22 @@
 # from Retrieval.RetrieverHF import RetrieverHF
 # from Generation.Generator import Generator
 # from Retrieval.RetrieverOLL import RetrieverOLL
-# from Preprocessing import FileHandler
 # from Preprocessing import PreProcessor, FileHandler
 # from spacy.language import Language
 # import RAGBuilder
 # import tabula
+# from llama_cpp import Llama
 
 if __name__ == '__main__':
     pass
+    # model_path=r"F:\TEMP\gemma-3-4b-it.Q4_K_M.gguf"
+    # model = Llama(model_path=model_path, n_gpu_layers=-1, n_ctx=4096, verbose=False)
+    # output = model("What is the meaning of life?", echo=True)
+    # print(output)
+
+    # RAGBuilder.create_embds_hf_pnt("data/json/stdReg_new.json", "docs", "jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.passage", "pnt_")
+    # RAGBuilder.create_embds_hf_modules("data/modules/tabula csv/B und WPF", "docs", "jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.passage", "mod_")
+
     # * RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_dt_matryoshka", "docs_pnt", "akot/german-semantic-bmf-matryoshka")
     # * RAGBuilder.create_idx_hf_pnt("src/data/json/sntCtxMap.json", "src/database/hf_ml_jina_lora", "docs_pnt", "CISCai/jina-embeddings-v3-query-distilled")
     # ** RAGBuilder.create_idx_hf_para("src/data/sections", "src/database/hf_e5", "docs_para", "danielheinz/e5-base-sts-en-de")

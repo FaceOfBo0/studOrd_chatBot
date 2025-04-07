@@ -20,7 +20,7 @@ class RetrieverHF(RetrieverABC):
         embeddings = self._model.encode(docs)
         return embeddings
 
-    def save_embds_to_db(self, docs: list[str], coll: str):
+    def save_embds_to_db(self, docs: list[str], coll: str, id_prefix: str):
         collection = self._db.get_or_create_collection(name=coll)
         if self._task_name == "":
             embds = self._model.encode(docs, device=self._device)
@@ -29,7 +29,7 @@ class RetrieverHF(RetrieverABC):
 
         for i, doc in enumerate(docs):
             collection.add(
-                ids=[coll+"_"+str(i)],
+                ids=[id_prefix+str(i)],
                 embeddings=embds[i],
                 documents=[doc]
             )

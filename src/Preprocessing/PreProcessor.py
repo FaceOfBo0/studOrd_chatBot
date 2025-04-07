@@ -2,7 +2,20 @@ from typing import Dict
 from . import FileHandler, Parser
 from data.StudyRegulation import StudyRegulation
 from data.StudyRegulation import parse_section, parse_section_without_subpoints
+from data.Module import Module
+import os
 
+
+def get_modules_from_csv(mods_dir: str) -> list[Module]:
+    files = sorted([f for f in os.listdir(mods_dir) if f.endswith('.csv')])
+    list_mods = []
+
+    for i, file_name in enumerate(files):
+        file_path = os.path.join(mods_dir, file_name)
+        with open(file_path, "r", encoding="utf-8") as file:
+            list_mods.append(Module(file))
+
+    return list_mods
 
 def process_regulation(files_path: str) -> StudyRegulation:
     """Processes all section files and returns a structured StudyRegulation"""
@@ -178,9 +191,9 @@ def create_pntCtxMap_from_stdyReg(regulation: StudyRegulation) -> Dict[str, Dict
 
             # Process paragraph content
             if para.content:
-                sentences = Parser.parse_sentences(para.content)
-                concatenated_text = ' '.join(sentences)
-                point_map[concatenated_text] = {
+                # sentences = Parser.parse_sentences(para.content)
+                # concatenated_text = ' '.join(sentences)
+                point_map[para.content] = {
                     **para_context,
                     'point_number': None,
                     'subpoint_number': None
@@ -196,9 +209,10 @@ def create_pntCtxMap_from_stdyReg(regulation: StudyRegulation) -> Dict[str, Dict
 
                 # Process point content
                 if point.content:
-                    sentences = Parser.parse_sentences(point.content)
-                    concatenated_text = ' '.join(sentences)
-                    point_map[concatenated_text] = point_context
+                    point_map[point.content] = point_context
+                    #sentences = Parser.parse_sentences(point.content)
+                    #concatenated_text = ' '.join(sentences)
+                    #point_map[concatenated_text] = point_context
 
     return point_map
 
