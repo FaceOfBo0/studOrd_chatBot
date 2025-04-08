@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 import csv
 import re
-from _csv import Reader
+from _csv import _reader
 from io import TextIOWrapper
 
 @dataclass
@@ -72,18 +72,15 @@ class Module:
     def __del__(self):
         pass
 
-    def get_csv_list(self, rdr: Reader) -> list[list[str]]:
+    def get_csv_list(self, rdr: _reader) -> list[list[str]]:
         result_list = []
         for line in rdr:
             result_list.append(line)
         return result_list
 
-    def transform_title(self, title_raw: str) -> str:
-        return title_raw
-
     def parse_content(self):
         i = 0
-        self.title = self.transform_title(self.content_raw[0][0].replace("\n", " "))
+        self.title = self.content_raw[0][0].replace("\n", " ")
         self.type = self.content_raw[i][1].replace("\n", " ")
         i += 1
         self.credit_points = self.content_raw[i][0].replace("\n"," ").replace("CP", "Credit Points (CP)")
