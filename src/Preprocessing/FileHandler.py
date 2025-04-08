@@ -7,7 +7,13 @@ from data.StudyRegulation import StudyRegulation, Section, Point, SubPoint, Para
 import json
 
 def read_section_files_abs_alt() -> Dict[str, str]:
-    """Reads all section files and returns their content. Path is beeing deduced from the file name."""
+    """Read section files from the current directory and return their content.
+    Path is beeing deduced from the file name
+    
+    Returns:
+        A dictionary mapping section titles to their content.
+    """
+    
     section_dict = {}
     for file_path in glob.glob("Abschnitt*.txt"):
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -17,12 +23,27 @@ def read_section_files_abs_alt() -> Dict[str, str]:
     return section_dict
 
 def save_str_to_file(data: str, file_name: str, enc: str):
+    """Save a string to a file with specified encoding.
+    
+    Args:
+        data: The string content to save.
+        file_name: The name of the file to save to.
+        enc: The encoding to use when writing the file.
+    """
+
     with open(file_name, 'w', encoding=enc) as file:
         file.write(data)
 
 def read_section_files(directory: str) -> Dict[int, str]:
-    """Reads all section files and returns their content in a dictionary.
-    The sections are sorted by their number."""
+    """Read all section files from a directory and return their content.
+    
+    Args:
+        directory: Path to the directory containing section files.
+        
+    Returns:
+        A dictionary mapping section numbers to their content.
+    """
+
     files = sorted([f for f in os.listdir(directory) if f.endswith('.txt')])
     files.insert(9,files[4])
     files.remove(files[4])
@@ -35,7 +56,13 @@ def read_section_files(directory: str) -> Dict[int, str]:
     return sections
 
 def save_regulation_to_json(regulation: StudyRegulation, file_path: str) -> None:
-    """Serializes a StudyRegulation object to json and saves it to a file"""
+    """Serialize a StudyRegulation object to JSON and save it to a file.
+    
+    Args:
+        regulation: The StudyRegulation object to serialize.
+        file_path: Path where the JSON file should be saved.
+    """
+
     def encode_dataclass(obj: Any) -> dict:
         if hasattr(obj, '__dataclass_fields__'):
             return {
@@ -49,7 +76,15 @@ def save_regulation_to_json(regulation: StudyRegulation, file_path: str) -> None
 
 
 def load_regulation_from_json(file_path: str) -> StudyRegulation:
-    """Deserializes the StudyRegulation from a json file"""
+    """Deserialize a StudyRegulation object from a JSON file.
+    
+    Args:
+        file_path: Path to the JSON file containing the StudyRegulation.
+        
+    Returns:
+        The deserialized StudyRegulation object.
+    """
+
     def decode_dataclass(obj_dict: dict) -> Any:
         if '_type' not in obj_dict:
             return obj_dict

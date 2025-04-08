@@ -2,42 +2,60 @@ import ollama
 import lmstudio as lms
 
 def gen_response_oll(gen_model_name: str, query: str, context: list[str]) -> str:
+    """Generate a response using the Ollama model.
+    
+    Args:
+        gen_model_name: Name of the Ollama model to use.
+        query: The user's question or prompt.
+        context: List of context strings to provide to the model.
+        
+    Returns:
+        The generated response as a string.
+    """
+    context_text = "\n".join(context)
+    messages = [
+        {
+            "role": "system",
+            "content": """Du bist ein hilfreicher KI-Assistent, der auf die Beantwortung von Fragen basierend auf bereitgestelltem Kontext spezialisiert ist.
+            Befolge diese Regeln:
+            1. Verwende ausschließlich Informationen aus dem bereitgestellten Kontext.
+            2. Wenn du die Antwort im Kontext nicht findest, sage es direkt.
+            3. Sei präzise und direkt in deinen Antworten.
+            4. Wenn du aus dem Kontext zitierst, erwähne dies.
+            5. Antworte in der gleichen Sprache wie die Frage gestellt wurde."""
+        },
+        {
+            "role": "user",
+            "content": f"""Hier ist der Kontext für die Beantwortung:
 
-        context_text = "\n".join(context)
-        messages = [
-            {
-                "role": "system",
-                "content": """Du bist ein hilfreicher KI-Assistent, der auf die Beantwortung von Fragen basierend auf bereitgestelltem Kontext spezialisiert ist.
-                Befolge diese Regeln:
-                1. Verwende ausschließlich Informationen aus dem bereitgestellten Kontext.
-                2. Wenn du die Antwort im Kontext nicht findest, sage es direkt.
-                3. Sei präzise und direkt in deinen Antworten.
-                4. Wenn du aus dem Kontext zitierst, erwähne dies.
-                5. Antworte in der gleichen Sprache wie die Frage gestellt wurde."""
-            },
-            {
-                "role": "user",
-                "content": f"""Hier ist der Kontext für die Beantwortung:
+            {context_text}
 
-                {context_text}
+            Beantworte auf Grundlage des Kontexts folgende Frage: {query}"""
+        }
+    ]
 
-                Beantworte auf Grundlage des Kontexts folgende Frage: {query}"""
-            }
-        ]
+    response = ollama.chat(
+        model=gen_model_name,
+        messages=messages,
+        options={
+            "temperature": 0.6,
+            "top_p": 0.95
+        }
+    )
 
-        response = ollama.chat(
-            model=gen_model_name,
-            messages=messages,
-            options={
-                "temperature": 0.6,
-                "top_p": 0.95
-            }
-        )
-
-        return response['message']['content'].strip()
+    return response['message']['content'].strip()
 
 def gen_response_oll_stream(gen_model_name: str, query: str, context: list[str]):
-    """Streaming version of gen_response_oll that yields tokens as they're generated"""
+    """Generate a streaming response using the Ollama model.
+    
+    Args:
+        gen_model_name: Name of the Ollama model to use.
+        query: The user's question or prompt.
+        context: List of context strings to provide to the model.
+        
+    Yields:
+        Chunks of the generated response as they are produced.
+    """
     context_text = "\n".join(context)
 
     messages = [
@@ -76,6 +94,16 @@ def gen_response_oll_stream(gen_model_name: str, query: str, context: list[str])
             yield chunk['message']['content']
 
 def gen_response_lms_stream(model_name: str, query: str, context: list[str]):
+    """Generate a streaming response using the LM Studio model.
+    
+    Args:
+        model_name: Name of the LMStudio model to use.
+        query: The user's question or prompt.
+        context: List of context strings to provide to the model.
+        
+    Yields:
+        Chunks of the generated response as they are produced.
+    """
     context_text = "\n".join(context)
     model = lms.llm(model_name)
 

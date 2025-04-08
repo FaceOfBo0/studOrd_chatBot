@@ -6,6 +6,11 @@ from io import TextIOWrapper
 
 @dataclass
 class Module:
+    """A class representing a module in the study regulation.
+    
+    This class handles the parsing and storage of module information from CSV files,
+    including title, type, credit points, and various other module-specific details.
+    """
     title: str
     short_title: str
     type: str
@@ -28,6 +33,11 @@ class Module:
     exam_type: str
 
     def __init__(self, file: TextIOWrapper):
+        """Initialize a Module instance from a CSV file.
+        
+        Args:
+            file: A file object containing the module data in CSV format.
+        """
         self.deadline_try = ""
         self.content_raw = self.get_csv_list(csv.reader(file))
         self.parse_content()
@@ -44,9 +54,11 @@ class Module:
             self.title = "n.a."
 
     def __repr__(self) -> str:
+        """Return a string representation of the module for LLM contexts."""
         return f"Modul: {self.title}; Abkürzung: {self.short_title}; Art: {self.type}; {self.credit_points}; {self.presence_time}; {self.self_time}; {self.skills}; {self.prerequ_part}; {self.prerequ_mod}; {self.deadline_try}; {self.assign_study}; {self.other_modules}; {self.freq}; {self.length}; {self.lecturer}; {self.proof_attendence}; {self.proof_performance}; {self.form}; {self.exam_type}"
 
     def __str__(self) -> str:
+        """Return a formatted string representation of the module."""
         return f"""Module(
         Modul: {self.title};
         Abkürzung: {self.short_title};
@@ -69,16 +81,22 @@ class Module:
         {self.exam_type}
         )"""
 
-    def __del__(self):
-        pass
-
     def get_csv_list(self, rdr: _reader) -> list[list[str]]:
+        """Convert CSV reader output to a list of lists of strings.
+        
+        Args:
+            rdr: A CSV reader object containing the module data.
+            
+        Returns:
+            A list of lists containing the parsed CSV data.
+        """
         result_list = []
         for line in rdr:
             result_list.append(line)
         return result_list
 
     def parse_content(self):
+        """Parse the raw CSV content and populate the module attributes."""
         i = 0
         self.title = self.content_raw[0][0].replace("\n", " ")
         self.type = self.content_raw[i][1].replace("\n", " ")

@@ -12,10 +12,27 @@ pntCtxMap = PreProcessor.create_pntCtxMap_from_stdyReg(studReg)
 
 @app.route('/', methods=['GET'])
 def home():
+    """Render the main page of the application.
+    
+    Returns:
+        The rendered index.html template.
+    """
+    
     return render_template('index.html')
 
 @app.route('/query', methods=['POST'])
 def query():
+    """Handle user queries and return streaming responses.
+    
+    This endpoint:
+    1. Retrieves relevant contexts for the query
+    2. Streams the contexts to the client
+    3. Streams the generated response tokens
+    
+    Returns:
+        A streaming response containing contexts and generated tokens.
+    """
+
     data = request.get_json(silent=True) or {}
     query = data.get('query', '')
 
@@ -29,6 +46,12 @@ def query():
             contexts.append(elem)
 
     def generate():
+        """Generate streaming response events.
+        
+        Yields:
+            Server-sent events containing contexts and response tokens.
+        """
+
         yield f"event: contexts\ndata: {json.dumps({'contexts': contexts})}\n\n"
         for token in Generator.gen_response_lms_stream("gemma-3-4b-it", query, contexts):
             yield f"event: token\ndata: {token}\n\n"
