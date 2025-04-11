@@ -1,13 +1,13 @@
 from dataclasses import dataclass
 import csv
 import re
-from _csv import _reader
+from _csv import Reader
 from io import TextIOWrapper
 
 @dataclass
 class Module:
     """A class representing a module in the study regulation.
-    
+
     This class handles the parsing and storage of module information from CSV files,
     including title, type, credit points, and various other module-specific details.
     """
@@ -34,7 +34,7 @@ class Module:
 
     def __init__(self, file: TextIOWrapper):
         """Initialize a Module instance from a CSV file.
-        
+
         Args:
             file: A file object containing the module data in CSV format.
         """
@@ -81,12 +81,12 @@ class Module:
         {self.exam_type}
         )"""
 
-    def get_csv_list(self, rdr: _reader) -> list[list[str]]:
+    def get_csv_list(self, rdr: Reader) -> list[list[str]]:
         """Convert CSV reader output to a list of lists of strings.
-        
+
         Args:
             rdr: A CSV reader object containing the module data.
-            
+
         Returns:
             A list of lists containing the parsed CSV data.
         """
