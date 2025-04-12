@@ -11,7 +11,7 @@ app = Flask(__name__)
 # retriever = RetrieverHF("Alibaba-NLP/gte-multilingual-base", "src/database/hf_ml_alibaba", "cuda")
 # retriever = RetrieverHF("CISCai/jina-embeddings-v3-query-distilled", "src/database/hf_ml_jina_lora", "cuda")
 retriever = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_jinaai_lora", "retrieval.query")
-studReg = FileHandler.load_regulation_from_json("data/json/stdReg_new.json")
+studReg = FileHandler.load_regulation_from_json("data/json/stdReg.json")
 pntCtxMap = PreProcessor.create_pntCtxMap_from_stdyReg(studReg)
 
 
@@ -55,7 +55,7 @@ def query():
         #     yield f"event: token\ndata: {token}\n\n"
 
         # openRouter,  google/gemini-2.0-flash-thinking-exp-1219:free
-        for token in Generator.gen_response_or_stream("meta-llama/llama-4-maverick:free", query, contexts):
+        for token in Generator.gen_response_or_stream("google/gemini-2.0-flash-thinking-exp-1219:free", query, contexts):
             yield f"event: token\ndata: {token}\n\n"
 
     return Response(stream_with_context(generate()), mimetype='text/event-stream')

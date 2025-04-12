@@ -2,8 +2,8 @@ from typing import Iterator
 import ollama
 import lmstudio as lms
 from openai import OpenAI
+import os
 from llama_cpp import Llama
-from transformers import AutoTokenizer, AutoModelForCausalLM
 
 def gen_response_oll(gen_model_name: str, query: str, context: list[str]) -> str:
 
@@ -143,11 +143,9 @@ def gen_response_lcpp_stream(repoid: str, file_name: str, query: str, context: l
                 yield delta["content"]
 
 def gen_response_or_stream(model_name: str, query: str, context: list[str]):
-    client = OpenAI(base_url="https://openrouter.ai/api/v1",
-        api_key="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")
+    client = OpenAI(base_url="https://openrouter.ai/api/v1")
 
     context_text = "\n".join(context)
-
 
     completion = client.chat.completions.create(model=model_name,
         messages=[
