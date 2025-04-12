@@ -1,0 +1,178 @@
+pe: mrr_at_10
+      value: 100.0
+    - type: mrr_at_100
+      value: 100.0
+    - type: mrr_at_1000
+      value: 100.0
+    - type: mrr_at_20
+      value: 100.0
+    - type: mrr_at_3
+      value: 100.0
+    - type: mrr_at_5
+      value: 100.0
+    - type: ndcg_at_1
+      value: 100.0
+    - type: ndcg_at_10
+      value: 100.0
+    - type: ndcg_at_100
+      value: 100.0
+    - type: ndcg_at_1000
+      value: 100.0
+    - type: ndcg_at_20
+      value: 100.0
+    - type: ndcg_at_3
+      value: 100.0
+    - type: ndcg_at_5
+      value: 100.0
+    - type: precision_at_1
+      value: 100.0
+    - type: precision_at_10
+      value: 10.0
+    - type: precision_at_100
+      value: 1.0
+    - type: precision_at_1000
+      value: 0.1
+    - type: precision_at_20
+      value: 5.0
+    - type: precision_at_3
+      value: 33.333
+    - type: precision_at_5
+      value: 20.0
+    - type: recall_at_1
+      value: 100.0
+    - type: recall_at_10
+      value: 100.0
+    - type: recall_at_100
+      value: 100.0
+    - type: recall_at_1000
+      value: 100.0
+    - type: recall_at_20
+      value: 100.0
+    - type: recall_at_3
+      value: 100.0
+    - type: recall_at_5
+      value: 100.0
+    - type: main_score
+      value: 100.0
+    task:
+      type: Retrieval
+  - dataset:
+      config: default
+      name: MTEB LEMBQMSumRetrieval (default)
+      revision: 6e346642246bfb4928c560ee08640dc84d074e8c
+      split: test
+      type: dwzhu/LongEmbed
+    metrics:
+    - type: map_at_1
+      value: 24.361
+    - type: map_at_10
+      value: 33.641
+    - type: map_at_100
+      value: 35.104
+    - type: map_at_1000
+      value: 35.127
+    - type: map_at_20
+      value: 34.388999999999996
+    - type: map_at_3
+      value: 30.255
+    - type: map_at_5
+      value: 32.079
+    - type: mrr_at_1
+      value: 24.361
+    - type: mrr_at_10
+      value: 33.641
+    - type: mrr_at_100
+      value: 35.104
+    - type: mrr_at_1000
+      value: 35.127
+    - type: mrr_at_20
+      value: 34.388999999999996
+    - type: mrr_at_3
+      value: 30.255
+    - type: mrr_at_5
+      value: 32.079
+    - type: ndcg_at_1
+      value: 24.361
+    - type: ndcg_at_10
+      value: 39.337
+    - type: ndcg_at_100
+      value: 47.384
+    - type: ndcg_at_1000
+      value: 47.75
+    - type: ndcg_at_20
+      value: 42.077999999999996
+    - type: ndcg_at_3
+      value: 32.235
+    - type: ndcg_at_5
+      value: 35.524
+    - type: precision_at_1
+      value: 24.361
+    - type: precision_at_10
+      value: 5.783
+    - type: precision_at_100
+      value: 0.975
+    - type: precision_at_1000
+      value: 0.1
+    - type: precision_at_20
+      value: 3.435
+    - type: precision_at_3
+      value: 12.661
+    - type: precision_at_5
+      value: 9.193999999999999
+    - type: recall_at_1
+      value: 24.361
+    - type: recall_at_10
+      value: 57.826
+    - type: recall_at_100
+      value: 97.51100000000001
+    - type: recall_at_1000
+      value: 100.0
+    - type: recall_at_20
+      value: 68.697
+    - type: recall_at_3
+      value: 37.983
+    - type: recall_at_5
+      value: 45.972
+    - type: main_score
+      value: 39.337
+    task:
+      type: Retrieval
+  - dataset:
+      config: default
+      name: MTEB LEMBSummScreenFDRetrieval (default)
+      revision: 6e346642246bfb4928c560ee08640dc84d074e8c
+      split: validation
+      type: dwzhu/LongEmbed
+    metrics:
+    - type: map_at_1
+      value: 84.821
+    - type: map_at_10
+      value: 90.11200000000001
+    - type: map_at_100
+      value: 90.158
+    - type: map_at_1000
+      value: 90.158
+    - type: map_at_20
+      value: 90.137
+    - type: map_at_3
+      value: 89.385
+    - type: map_at_5
+      value: 89.876
+    - type: mrr_at_1
+      value: 84.821
+    - type: mrr_at_10
+      value: 90.11200000000001
+    - type: mrr_at_100
+      value: 90.158
+    - type: mrr_at_1000
+      value: 90.158
+    - type: mrr_at_20
+      value: 90.137
+    - type: mrr_at_3
+      value: 89.385
+    - type: mrr_at_5
+      value: 89.876
+    - type: ndcg_at_1
+      value: 84.821
+    - type: ndcg_at_10
+      value: 92.
