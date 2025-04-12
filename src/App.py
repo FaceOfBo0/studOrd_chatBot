@@ -10,7 +10,7 @@ app = Flask(__name__)
 # retriever = RetrieverHF("akot/german-semantic-bmf-matryoshka", "src/database/hf_dt_matryoshka", "cuda")
 # retriever = RetrieverHF("Alibaba-NLP/gte-multilingual-base", "src/database/hf_ml_alibaba", "cuda")
 # retriever = RetrieverHF("CISCai/jina-embeddings-v3-query-distilled", "src/database/hf_ml_jina_lora", "cuda")
-retriever = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_jinaai_lora_new", "retrieval.query")
+retriever = RetrieverHF("jinaai/jina-embeddings-v3", "database/hf_jinaai_lora", "retrieval.query")
 studReg = FileHandler.load_regulation_from_json("data/json/stdReg_new.json")
 pntCtxMap = PreProcessor.create_pntCtxMap_from_stdyReg(studReg)
 
@@ -42,8 +42,8 @@ def query():
         #  Then stream the response with a different event type
         #
         # lm studio:"mistral-nemo-instruct-2407", "granite-3.2-8b-instruct" "phi-4-mini-instruct", llama3-german-8b-32k, german-rag-mistral-7b-v3.0-sft-hessian-ai
-        for token in Generator.gen_response_lms_stream("gemma-3-4b-it", query, contexts):
-            yield f"event: token\ndata: {token}\n\n"
+        # for token in Generator.gen_response_lms_stream("gemma-3-4b-it", query, contexts):
+        #     yield f"event: token\ndata: {token}\n\n"
         #
         # ollama: phi4-mini,
         # for token in Generator.gen_response_oll_stream("gemma3:4b", query, contexts):
@@ -53,6 +53,10 @@ def query():
         # llama-cpp
         # for token in Generator.gen_response_lcpp_stream("MaziyarPanahi/gemma-3-4b-it-GGUF", "*Q4_K_M.gguf", query, contexts):
         #     yield f"event: token\ndata: {token}\n\n"
+
+        # openRouter,  google/gemini-2.0-flash-thinking-exp-1219:free
+        for token in Generator.gen_response_or_stream("meta-llama/llama-4-maverick:free", query, contexts):
+            yield f"event: token\ndata: {token}\n\n"
 
     return Response(stream_with_context(generate()), mimetype='text/event-stream')
 
